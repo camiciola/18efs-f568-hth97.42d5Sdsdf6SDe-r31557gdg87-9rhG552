@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 OUTPUT_FILE = "news_data.json"
 
 KEYWORDS_NDRANGHETA = [
-    "ndrangheta", "ndranghet", "mafia calabra", "cosca",
+    "ndrangheta", "ndranghet", "mafia", "cosca",
     "reggio calabria", "vibo valentia", "catanzaro", "cosenza",
     "calabria", "aspromonte", "locride",
     "arresto", "arresti", "ordinanza", "custodia cautelare",
@@ -29,8 +29,10 @@ KEYWORDS_HIGH_PRIORITY = [
 ]
 
 RSS_FEEDS = [
-    "https://www.antimafiaduemila.com/feed/rss",
-    "https://www.ansa.it/sito/section_news/cronaca/cronaca_rss.xml"
+    "https://www.antimafiaduemila.com/home/feed/rss",
+    "https://www.ansa.it/sito/ansait_rss.xml",
+    "https://rss.corriere.it/rss/home.xml",
+    "https://www.repubblica.it/rss/homepage/rss2.0.xml"
 ]
 
 def is_calabria_related(text):
@@ -66,30 +68,49 @@ def categorize_news(text):
 def parse_rss_feed(feed_url):
     try:
         print("Leggendo: " + feed_url)
-        headers = {"User-Agent": "Mozilla/5.0"}
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         req = urllib.request.Request(feed_url, headers=headers)
-        with urllib.request.urlopen(req, timeout=10) as response:
+        with urllib.request.urlopen(req, timeout=15) as response:
             xml_content = response.read()
         root = ET.fromstring(xml_content)
         items = root.findall(".//item")
+        if len(items) == 0:
+            items = root.findall(".//{http://www.w3.org/2005/Atom}entry")
         news_list = []
-        for item in items[:20]:
+        count = 0
+        for item in items[:30]:
             title_elem = item.find("title")
             link_elem = item.find("link")
             desc_elem = item.find("description")
             date_elem = item.find("pubDate")
+            if title_elem is None:
+                title_elem = item.find("{http://www.w3.org/2005/Atom}title")
+            if link_elem is None:
+                link_elem = item.find("{http://www.w3.org/2005/Atom}link")
+            if desc_elem is None:
+                desc_elem = item.find("{http://www.w3.org/2005/Atom}summary")
+            if date_elem is None:
+                date_elem = item.find("{http://www.w3.org/2005/Atom}published")
             title = title_elem.text if title_elem is not None else ""
-            link = link_elem.text if link_elem is not None else ""
+            link = ""
+            if link_elem is not None:
+                if link_elem.text:
+                    link = link_elem.text
+                elif link_elem.get("href"):
+                    link = link_elem.get("href")
             description = desc_elem.text if desc_elem is not None else ""
             pub_date = date_elem.text if date_elem is not None else ""
-            description = re.sub("<[^<]+?>", "", description)
-            news_list.append({
-                "title": title,
-                "link": link,
-                "description": description,
-                "pub_date": pub_date,
-                "source": urlparse(feed_url).netloc
-            })
+            if title:
+                description = re.sub("<[^<]+?>", "", description)
+                news_list.append({
+                    "title": title,
+                    "link": link,
+                    "description": description,
+                    "pub_date": pub_date,
+                    "source": urlparse(feed_url).netloc
+                })
+                count = count + 1
+        print("Trovate " + str(count) + " notizie da " + urlparse(feed_url).netloc)
         return news_list
     except Exception as e:
         print("Errore con " + feed_url + ": " + str(e))
@@ -107,24 +128,24 @@ def process_news(raw_news):
     processed = []
     for item in raw_news:
         full_text = item["title"] + " " + item["description"]
-        if is_calabria_related(full_text):
-            priority = calculate_priority(full_text)
-            categories = categorize_news(full_text)
-            summary = item["description"]
-            if len(summary) > 300:
-                summary = summary[:300] + "..."
-            news_item = {
-                "title": item["title"],
-                "summary": summary,
-                "link": item["link"],
-                "published": item["pub_date"],
-                "source": item["source"],
-                "priority": priority,
-                "categories": categories,
-                "is_ndrangheta": True,
-                "is_high_priority": priority >= 20
-            }
-            processed.append(news_item)
+        is_ndrangheta = is_calabria_related(full_text)
+        priority = calculate_priority(full_text) if is_ndrangheta else 0
+        categories = categorize_news(full_text) if is_ndrangheta else ["generale"]
+        summary = item["description"]
+        if len(summary) > 300:
+            summary = summary[:300] + "..."
+        news_item = {
+            "title": item["title"],
+            "summary": summary,
+            "link": item["link"],
+            "published": item["pub_date"],
+            "source": item["source"],
+            "priority": priority,
+            "categories": categories,
+            "is_ndrangheta": is_ndrangheta,
+            "is_high_priority": priority >= 20
+        }
+        processed.append(news_item)
     return processed
 
 def save_to_json(news_data):
@@ -140,10 +161,15 @@ def save_to_json(news_data):
 
 def main():
     print("Avvio scraper notizie...")
+    print("=" * 50)
     raw_news = fetch_all_news()
     print("Trovate " + str(len(raw_news)) + " notizie grezze")
+    print("=" * 50)
     processed_news = process_news(raw_news)
-    print("Notizie filtrate: " + str(len(processed_news)))
+    ndrangheta_count = sum(1 for n in processed_news if n["is_ndrangheta"])
+    print("Notizie Ndrangheta/Calabria: " + str(ndrangheta_count))
+    print("Notizie generali: " + str(len(processed_news) - ndrangheta_count))
+    print("=" * 50)
     save_to_json(processed_news)
     print("Completato!")
 
