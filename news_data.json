@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-21T16:18:14.477669",
-  "total_news": 71,
+  "last_update": "2026-06-21T22:23:12.421077",
+  "total_news": 76,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -29,19 +29,6 @@
       "is_high_priority": true
     },
     {
-      "title": "il casoMadre e figlia trovate morte nella stessa casaIndagini in corso a Torino. L’ipotesi privilegiata è omicidio-suicidio",
-      "summary": "il caso",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/madre-e-figlia-trovate-morte-nella-stessa-casa/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "crime_italy",
-      "priority": 10,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Ripreso da un drone della Regione mentre appicca il rogo: denunciato per incendio boschivo doloso nel Cosentino – VIDEO02:08",
       "summary": "02:08",
       "link": "https://www.corrieredellacalabria.it/2026/06/17/ripreso-da-un-drone-della-regione-mentre-appicca-il-rogo-denunciato-per-incendio-boschivo-doloso-nel-cosentino-video/",
@@ -51,19 +38,6 @@
       "priority": 10,
       "categories": [
         "sangue"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Madre e figlia trovate morte nella stessa casa“Indagini in corso a Torino. L’ipotesi privilegiata è omicidio-suicidio21 Giugno, 15:26",
-      "summary": "“Indagini in corso a Torino. L’ipotesi privilegiata è omicidio-suicidio",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/madre-e-figlia-trovate-morte-nella-stessa-casa/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "crime_italy",
-      "priority": 10,
-      "categories": [
-        "crime_italy"
       ],
       "is_high_priority": false
     },
@@ -134,9 +108,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Maturità, dopo gli scritti è il momento della prova orale per 527mila studenti: tutte le novità di quest’anno",
+      "title": "La povertà in Italia, una “permacrisi” che trasforma l'emergenza sociale in condizione strutturale",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/attualita/maturita-dopo-gli-scritti-e-il-momento-della-prova-orale-per-527mila-studenti-tutte-le-novita-di-questanno-x1qgrcfr",
+      "link": "https://www.lacnews24.it/attualita/la-poverta-in-italia-una-permacrisi-che-trasforma-lemergenza-sociale-in-condizione-strutturale-nxnotud9",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Notizie in evidenza",
+      "summary": "L’intento è censire il capitale umano impegnato fuori regione per creare sinergie tra i professionisti e valorizzare le esperienze, favorendo la condivisione di buone pratiche",
+      "link": "https://www.lacnews24.it/sanita/leuroparlamentare-princi-lancia-la-rete-dei-talenti-calabresi-per-la-sanita-patrimonio-che-non-va-disperso-i2tabljz",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -147,7 +134,20 @@
       "is_high_priority": false
     },
     {
-      "title": "La Sila incanta anche in Europa: una tv tedesca gira un documentariotra lupi e cicognenere",
+      "title": "L’europarlamentare Princi lancia la rete dei Talenti calabresi per la Sanità: «Patrimonio che non va disperso»",
+      "summary": "L’intento è censire il capitale umano impegnato fuori regione per creare sinergie tra i professionisti e valorizzare le esperienze, favorendo la condivisione di buone pratiche",
+      "link": "https://www.lacnews24.it/sanita/leuroparlamentare-princi-lancia-la-rete-dei-talenti-calabresi-per-la-sanita-patrimonio-che-non-va-disperso-i2tabljz",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La Sila incanta anche in Europa: una tv tedesca gira un documentario tra lupi e cicogne nere",
       "summary": "La troupe del network SWR, accolta a Lorica dal direttore del Parco Nazionale silano Ilario Treccosti, ha girato anche nella Riserva del Vergari, dove vivono due coppie del rarissimo uccello. Le immagini saranno trasmesse anche in Francia",
       "link": "https://www.lacnews24.it/ambiente/la-sila-incanta-anche-in-europa-una-tv-tedesca-gira-un-documentario-tra-lupi-e-cicogne-nere-s4s1ve3s",
       "published": "",
@@ -160,22 +160,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Notizie in evidenza",
-      "summary": "La riforma voluta dal ministro dell'Istruzione Valditara modifica soprattutto la parte del colloquio: dalla cancellazione dello “spunto” a sorpresa alle nuove regole per i punti. I consigli di Skuola.net",
+      "title": "Maturità, dopo gli scritti è il momento della prova orale per 527mila studenti: tutte le novità di quest’anno",
+      "summary": "Redazione Attualità",
       "link": "https://www.lacnews24.it/attualita/maturita-dopo-gli-scritti-e-il-momento-della-prova-orale-per-527mila-studenti-tutte-le-novita-di-questanno-x1qgrcfr",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dilettanti, la neopromossa Deliese anima il mercato: nel mirino due nomi importanti come Paulino e Isma Goncalves",
-      "summary": "Vincenzo Primerano",
-      "link": "https://www.lacnews24.it/sport/dilettanti-la-neopromossa-deliese-anima-il-mercato-nel-mirino-due-nomi-importanti-come-paulino-e-isma-goncalves-unv1snl0",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -186,15 +173,94 @@
       "is_high_priority": false
     },
     {
-      "title": "Calabria meta di matrimoni: dalla Danimarca al borgo di Badolato per promettersi amore eterno",
-      "summary": "Rossella Galati",
-      "link": "https://www.lacnews24.it/cultura/dalla-danimarca-al-borgo-di-badolato-per-promettersi-amore-eterno-ei8s80fd",
+      "title": "«Un bullo cresciuto in un ambiente tossico»: la personalità di Donald Trump spiegata dalla nipote psicologa",
+      "summary": "Tacco di Ghino",
+      "link": "https://www.lacnews24.it/italia-mondo/un-bullo-cresciuto-in-un-ambiente-tossico-la-personalita-di-donald-trump-spiegata-dalla-nipote-psicologa-lu7xddel",
       "published": "",
       "source": "lacnews24.it",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Referendum Gratteri: “il no vince a Catanzaro e perde a Reggio Calabria, vuol dire che abbiamo lavorato bene”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/referendum-gratteri-il-no-vince-a-catanzaro-e-perde-a-reggio-calabria-vuol-dire-che-abbiamo-lavorato-bene/2104035/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ponte sullo Stretto e mafia: la risposta di Gratteri smonta i fanatici del no",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/ponte-sullo-stretto-e-mafia-la-risposta-di-gratteri-smonta-i-fanatici-del-no/2104034/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mondiali 2026, l'Iran punge Trump: \"Messico miglior Paese ospitante, USA hanno fallito\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/mondiali-2026-liran-punge-trump-messico-miglior-paese-ospitante-usa-hanno-fallito/2104031/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il nuovo affondo di Trump contro l’Italia: \"spesi miliardi per difenderla e ora non ci aiuta”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/il-nuovo-affondo-di-trump-contro-litalia-spesi-miliardi-per-difenderla-e-ora-non-ci-aiuta/2104027/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sondaggi politici, centrodestra e centrosinistra quasi in parità: FdI primo partito, il Pd insegue | DATI",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/sondaggi-politici-centrodestra-e-centrosinistra-quasi-in-parita-fdi-primo-partito-il-pd-insegue-dati/2104019/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Tropea, il sindaco Macrì elogia Occhiuto: \"è il miglior presidente del regionalismo italiano\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/tropea-il-sindaco-macri-elogia-occhiuto-e-il-miglior-presidente-del-regionalismo-italiano/2103929/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -277,84 +343,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Miss Italia Calabria 2026, si parte da Mirto Crosia: eletta la miss Apica Village | NOME e FOTO",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/miss-italia-calabria-2026-si-parte-da-mirto-crosia-eletta-la-miss-apica-village-nome-e-foto/2103842/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "SLA: Buonvicino (Cosenza) accende di verde il Monumento ai Caduti per la Giornata Mondiale",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sla-buonvicino-cosenza-accende-di-verde-il-monumento-ai-caduti-per-la-giornata-mondiale/2103847/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "UNARMA Catanzaro, parte il monitoraggio nei presidi dei Carabinieri: visite nei reparti per verificare le condizioni di lavoro",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/unarma-catanzaro-parte-il-monitoraggio-nei-presidi-dei-carabinieri-visite-nei-reparti-per-verificare-le-condizioni-di-lavoro/2103833/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sondaggi Politici: Cateno De Luca nella top ten della fiducia degli italiani, il Premier Meloni nettamente al primo posto | DATI",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sondaggi-politici-cateno-de-luca-nella-top-ten-della-fiducia-degli-italiani-il-premier-meloni-nettamente-al-primo-posto-dati/2103818/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reggio Calabria, a Trumbacà Bovetto due giorni dedicati a legalità e comunità con Polizia di Stato e Associazione In Cammino",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-a-trumbaca-bovetto-due-giorni-dedicati-a-legalita-e-comunita-con-polizia-di-stato-e-associazione-in-cammino/2103798/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Maxi operazione della Polizia tra Crotone e Cirò Marina: oltre 550 persone identificate",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/maxi-operazione-della-polizia-tra-crotone-e-ciro-marina-oltre-550-persone-identificate/2103785/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -368,15 +356,41 @@
       "is_high_priority": false
     },
     {
-      "title": "Faragalli, Catanzaro e De LucaMontalto Uffugo, la carica dei quarantenni: se il polo emergente dell’area urbana cosentina sforna la nuova classe dirigenteAlla ribalta il sindaco e presidente della Provincia, il presidente dell’Ordine degli ingegneri e il segretario in pectore del Pd (under 30)",
-      "summary": "Faragalli, Catanzaro e De Luca",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/montalto-uffugo-la-carica-dei-quarantenni-se-il-polo-emergente-dellarea-urbana-cosentina-sforna-la-nuova-classe-dirigente/",
+      "title": "la condannaAlmasri condannato dal Tribunale di TripoliPena di 7 anni e 4 mesi di reclusione per “aver violato i diritti dei detenuti”",
+      "summary": "la condanna",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/almasri-condannato-dal-tribunale-di-tripoli/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "italia",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "italia"
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "la mappa della penetrazioneGli affari dei clan a Roma tra summit e strategie sotto la diarchia Carzo-Alvaro: così la ‘ndrangheta ha colonizzato la CapitaleLa Cassazione blinda l’impianto accusatorio sul primo “locale” romano: un flusso costante di “imbasciate”, affari e una diarchia al vertice",
+      "summary": "la mappa della penetrazione",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/gli-affari-dei-clan-a-roma-tra-summit-e-strategie-sotto-la-diarchia-carzo-alvaro-cosi-la-ndrangheta-ha-colonizzato-la-capitale/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "«La remigrazione comunque è una str…». Occhiuto riaccende il fronte polemico con Vannaccil’affondo",
+      "summary": "l’affondo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/la-remigrazione-comunque-e-una-str-occhiuto-riaccende-il-fronte-polemico-con-vannacci/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -472,11 +486,50 @@
       "is_high_priority": false
     },
     {
-      "title": "Montalto Uffugo, la carica dei quarantenni: se il polo emergente dell’area urbana cosentina sforna la nuova classe dirigente“Alla ribalta il sindaco e presidente della Provincia, il presidente dell’Ordine degli ingegneri e il segretario in pectore del Pd (under 30)21 Giugno, 16:30",
-      "summary": "“Alla ribalta il sindaco e presidente della Provincia, il presidente dell’Ordine degli ingegneri e il segretario in pectore del Pd (under 30)",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/montalto-uffugo-la-carica-dei-quarantenni-se-il-polo-emergente-dellarea-urbana-cosentina-sforna-la-nuova-classe-dirigente/",
+      "title": "Almasri condannato dal Tribunale di Tripoli“Pena di 7 anni e 4 mesi di reclusione per “aver violato i diritti dei detenuti”21 Giugno, 22:08",
+      "summary": "“Pena di 7 anni e 4 mesi di reclusione per “aver violato i diritti dei detenuti”",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/almasri-condannato-dal-tribunale-di-tripoli/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Gli affari dei clan a Roma tra summit e strategie sotto la diarchia Carzo-Alvaro: così la ‘ndrangheta ha colonizzato la Capitale“La Cassazione blinda l’impianto accusatorio sul primo “locale” romano: un flusso costante di “imbasciate”, affari e una diarchia al vertice21 Giugno, 18:30",
+      "summary": "“La Cassazione blinda l’impianto accusatorio sul primo “locale” romano: un flusso costante di “imbasciate”, affari e una diarchia al vertice",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/gli-affari-dei-clan-a-roma-tra-summit-e-strategie-sotto-la-diarchia-carzo-alvaro-cosi-la-ndrangheta-ha-colonizzato-la-capitale/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "UltimoraLamezia, Gratteri a Trame: “La mafia oggi abbraccia l’uomo delle istituzioni”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lametino.it/ultimora/lamezia-gratteri-a-trame-la-mafia-oggi-abbraccia-luomo-delle-istituzioni.html",
+      "published": "",
+      "source": "lametino.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Michele Mari resta in gara. Si giudica il libro, non l’autore”: la decisione del Premio Strega dopo le offese a Murgia",
+      "summary": "Michele Mari resta in gara al Premio Strega. Dopo il caso delle offese a Michela Murgia, l&#8217;autore del romanzo finalista &#8220;I convitati di pietra&#8221;, edito da Einaudi, non sarà escluso. La decisione è stata presa dalla Fondazione Bellonci, organizzatrice dell&#8217;evento: la sestina ch",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/michele-mari-premio-strega-decisione-offese-murgia/8425553/",
+      "published": "Sun, 21 Jun 2026 19:00:19 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -485,15 +538,54 @@
       "is_high_priority": false
     },
     {
-      "title": "«Il Pnrr sta sostenendo la crescita, ora servono investimenti e transizione energetica»“Scalese (Cgil Area Vasta) commenta il report Bankitalia21 Giugno, 14:37",
-      "summary": "“Scalese (Cgil Area Vasta) commenta il report Bankitalia",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/il-pnrr-sta-sostenendo-la-crescita-ora-servono-investimenti-e-transizione-energetica/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "italia",
+      "title": "Solo l’Italia non ha fermato Almasri: l’ex comandante condannato in Libia a 7 anni e 4 mesi per “aver violato i diritti dei detenuti”",
+      "summary": "Condannato in Libia, salvato dall&#8217;Italia. La vicenda dell&#8217;ex comandante Osama Najeem Almasri si arricchisce di un nuovo capitolo, che fa molto riflettere. Il Tribunale penale di Tripoli ha inflitto ad Almasri una pena di 7 anni e 4 mesi di reclusione per &#8220;aver violato i diritti dei",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/caso-almasri-condanna-libia-notizie/8425466/",
+      "published": "Sun, 21 Jun 2026 18:06:51 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "italia"
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Vannacci mercoledì a Roma per l’uscita dal carcere di Gianni Alemanno: “È una risorsa, noi non lasciamo indietro nessuno”",
+      "summary": "&#8220;Futuro Nazionale non lascia indietro nessuno&#8221;: dal governo lo attaccano, dal centrodestra stigmatizzano i suoi slogan, Vannacci prepara la prossima uscita, già destinata ad alimentare nuove polemiche. La data è quella del 24 giugno, quando il generale di estrema destra ha detto che torn",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/mondo-mezzo-vannacci-alemanno-rebibbia-notizie/8425446/",
+      "published": "Sun, 21 Jun 2026 16:52:42 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Zverev racconta il malore ad Halle: “Guasto al mio sensore glicemico, ho iniettato più insulina di quanto avrei dovuto. Come bere 3 litri e mezzo di Coca Cola”",
+      "summary": "&#8220;Non mi era mai successo&#8220;. Alexander Zverev è stato eliminato sabato in semifinale da Taylor Fritz sull&#8217;erba di Halle: il tedesco è apparso debilitato nel corso dell&#8217;incontro e dopo il match ha spiegato il perché. A penalizzare il vincitore dell&#8217;ultimo Roland Garros, ch",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/zverev-malore-halle-sensore-glicemico-diabete-insulina-coca-cola/8425452/",
+      "published": "Sun, 21 Jun 2026 16:51:41 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Sto per svenire”: Rod Stewart soccorso sul palco con la maschera per l’ossigeno durante un concerto",
+      "summary": "&#8220;Lo spettacolo deve continuare. Sono quasi svenuto, vi dispiace se mi siedo?&#8221;. Momenti di forte apprensione allo Utah First Credit Union Amphitheatre di West Valley City, dove Rod Stewart ha accusato un improvviso malore durante il suo ultimo show. Il cantante scozzese, 81 anni, è stato ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/sto-per-svenire-rod-stewart-soccorso-con-la-maschera-per-lossigeno-ad-un-concerto/8425566/",
+      "published": "Sun, 21 Jun 2026 15:36:32 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -603,24 +695,11 @@
       "is_high_priority": false
     },
     {
-      "title": "“Abbiamo visto l’aereo virare bruscamente e precipitare”: è morto a 69 anni Claude Guillemot, il co-fondatore di Ubisoft",
-      "summary": "Claude Guillemot, 69 anni, co-fondatore del colosso transalpino Ubisoft e presidente della Guillemot Corporation, ha perso la vita venerdì 19 giugno in un incidente aereo avvenuto nel nord-ovest della Francia. Insieme alla sua famiglia aveva trasformato un&#8217;intuizione commerciale nata nella pro",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/abbiamo-visto-laereo-virare-bruscamente-e-precipitare-e-morto-claude-guillemot-il-co-fondatore-di-ubisoft/8425252/",
-      "published": "Sun, 21 Jun 2026 11:36:53 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Albania, palazzo del governo accerchiato dopo 3 settimane di proteste: non solo il resort di Kushner, vogliono le dimissioni di Edi Rama",
-      "summary": "Non si tratta più solo delle proteste contro un resort di lusso, la cementificazione di un&#8217;area protetta o la svendita delle eccellenze albanesi ai miliardari esteri. Le manifestazioni di piazza nel Paese dell&#8217;aquila bicefala che hanno ormai superato le tre settimane assumono ogni giorno",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/proteste-albania-rama-dimissioni-notizie/8425216/",
-      "published": "Sun, 21 Jun 2026 11:07:02 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "Legge elettorale, Pagano: non mi risulta disponibilità per slittamento a luglio",
+      "summary": "Il presidente della commissione Affari costituzionali alla Camera afferma che non c’è disponibilità della maggioranza a differire l’esame in Aula a Montecitorio, dove il testo è atteso per venerdì 26",
+      "link": "https://www.ilsole24ore.com/art/legge-elettorale-pagano-non-mi-risulta-disponibilita-slittamento-luglio-AI4DaunD",
+      "published": "Sun, 21 Jun 2026 16:45:00 GMT",
+      "source": "ilsole24ore.com",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -629,10 +708,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Cdm, in arrivo un decreto Infrastrutture su opere compensative per la Tav",
+      "title": "Cdm, in arrivo un decreto Infrastrutture su opere compensative Tav",
       "summary": "Un Consiglio dei ministri destinato ad avere tra i punti all’ordine del giorno un decreto Infrastrutture. Nella riunione che - a quanto si apprende - è in programma per lunedì...",
       "link": "https://www.ilsole24ore.com/art/cdm-arrivo-decreto-infrastrutture-opere-compensative-la-tav-AIB5EtnD",
-      "published": "Sun, 21 Jun 2026 16:14:32 GMT",
+      "published": "Sun, 21 Jun 2026 16:14:00 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -720,28 +799,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Trasporto aereo Ue, indennizzi fermi al 2005. Ecco cosa cambia con le nuove regole",
-      "summary": "Le indicazioni di RimborsoAlVolo. Previsti 250 euro per i voli entro i 1.500 km, 400 euro per tratte tra 1.500 e 3.500 km e 600 euro per tutte le tratte più lunghe",
-      "link": "https://www.ilsole24ore.com/art/trasporto-aereo-indennizzi-fermi-2005-ecco-cosa-cambia-le-nuove-regole-ue-AIG8NumD",
-      "published": "Sun, 21 Jun 2026 09:30:00 GMT",
-      "source": "ilsole24ore.com",
+      "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+      "summary": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
+      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 19:33:09 GMT",
+      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Industria difesa, in Italia l’offerta di lavoro è aumentata del 12% in sei anni",
-      "summary": "A delineare questo scenario è Indeed, una piattaforma globale di recruiting sulla base della sua esperienza",
-      "link": "https://www.ilsole24ore.com/art/industria-difesa-italia-l-offerta-lavoro-e-aumentata-12percento-sei-anni-AIwxpzmD",
-      "published": "Sun, 21 Jun 2026 08:29:23 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
+        "leader"
       ],
       "is_high_priority": false
     },
