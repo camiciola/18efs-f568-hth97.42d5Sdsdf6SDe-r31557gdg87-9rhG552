@@ -24,16 +24,17 @@ KEYWORDS_NDRANGHETA_SPECIFIC = [
     "ndrangheta", "ndranghet", "'ndrangheta", "'ndrine", "ndrina",
     "cosca calabra", "boss calabra", "mafia calabra",
     "piromalli", "molè", "nirta", "pesce", "vottari", "cordì",
-    "mantella", "bonavota", "grande aracri", "città di 'ndrangheta",
+    "mantella", "bonavota", "grande aracri", "bellocco",
     "locri", "siderno", "rosarno", "san luca", "platì", "africo",
     "aspromonte", "locride", "crotonese", "reggino",
-    "bellocco", "pesce", "piromalli", "molè", "nirta"
+    "operazione", "blitz", "arresto", "arresti"
 ]
 
 # KEYWORD CALABRIA
 KEYWORDS_CALABRIA = [
     "calabria", "reggio calabria", "cosenza", "catanzaro",
-    "vibo valentia", "crotone", "lametino", "lametzia"
+    "vibo valentia", "crotone", "lametino", "lametzia",
+    "crotonese", "reggino", "cosentino"
 ]
 
 # KEYWORD CRIMINALI
@@ -49,7 +50,7 @@ KEYWORDS_CRIME = [
     "riciclaggio", "usura", "estorsione", "pizzo",
     "traffico internazionale", "clan", "famiglia criminale",
     "latitante", "mafia", "cosa nostra", "camorra", "sacra corona unita",
-    "boss", "cosca"
+    "boss", "cosca", "indagato", "indagini"
 ]
 
 # KEYWORD ALTA PRIORITÀ
@@ -178,7 +179,7 @@ def clean_title(title):
     title = re.sub(r'^-\d{2}:\d{2}', '', title)
     return title.strip()
 
-def scrape_generic_html(url, source_name, article_selector="article"):
+def scrape_generic_html(url, source_name, article_selector="article", max_articles=50):
     try:
         print("Scraping " + source_name + " da " + url)
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -187,9 +188,9 @@ def scrape_generic_html(url, source_name, article_selector="article"):
             html = response.read()
         soup = BeautifulSoup(html, "html.parser")
         news_list = []
-        articles = soup.select(article_selector)[:30]
+        articles = soup.select(article_selector)[:max_articles]
         if not articles:
-            articles = soup.find_all(["div", "section"], class_=re.compile("article|post|news|item"), limit=30)
+            articles = soup.find_all(["div", "section"], class_=re.compile("article|post|news|item"), limit=max_articles)
         for article in articles:
             title_elem = article.find(["h1", "h2", "h3", "a"])
             link_elem = article.find("a", href=True)
@@ -218,7 +219,7 @@ def scrape_generic_html(url, source_name, article_selector="article"):
         print("  Errore scraping " + source_name + ": " + str(e))
         return []
 
-def scrape_rss(feed_url, source_name):
+def scrape_rss(feed_url, source_name, max_items=50):
     try:
         print("Leggendo RSS: " + source_name)
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -230,7 +231,7 @@ def scrape_rss(feed_url, source_name):
         if len(items) == 0:
             items = root.findall(".//{http://www.w3.org/2005/Atom}entry")
         news_list = []
-        for item in items[:30]:
+        for item in items[:max_items]:
             title_elem = item.find("title")
             link_elem = item.find("link")
             desc_elem = item.find("description")
@@ -270,28 +271,30 @@ def scrape_rss(feed_url, source_name):
 def fetch_all_news():
     all_news = []
     
-    # Fonti SPECIALIZZATE antimafia
-    all_news.extend(scrape_generic_html("https://www.antimafiaduemila.com", "antimafiaduemila.com"))
+    # Fonti SPECIALIZZATE antimafia (homepage + sezioni specifiche)
+    all_news.extend(scrape_generic_html("https://www.antimafiaduemila.com", "antimafiaduemila.com", max_articles=100))
     
-    # Fonti LOCALI calabresi (homepage + sezioni cronaca)
-    all_news.extend(scrape_generic_html("https://www.lacnews24.it", "lacnews24.it"))
-    all_news.extend(scrape_generic_html("https://www.lacnews24.it/cronaca/", "lacnews24.it-cronaca"))
-    all_news.extend(scrape_generic_html("https://www.strettoweb.com", "strettoweb.com"))
-    all_news.extend(scrape_generic_html("https://www.strettoweb.com/news/cronaca/", "strettoweb.com-cronaca"))
-    all_news.extend(scrape_generic_html("https://www.quotidianodelsud.it", "quotidianodelsud.it"))
-    all_news.extend(scrape_generic_html("https://www.corrieredellacalabria.it", "corrieredellacalabria.it"))
-    all_news.extend(scrape_generic_html("https://www.lametino.it", "lametino.it"))
-    all_news.extend(scrape_generic_html("https://www.lametino.it/cronaca/", "lametino.it-cronaca"))
-    all_news.extend(scrape_generic_html("https://www.zoom24.it", "zoom24.it"))
-    all_news.extend(scrape_generic_html("https://www.retenews24.it", "retenews24.it"))
+    # Fonti LOCALI calabresi (homepage + sezioni cronaca/antimafia)
+    all_news.extend(scrape_generic_html("https://www.lacnews24.it", "lacnews24.it", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.lacnews24.it/cronaca/", "lacnews24.it-cronaca", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.strettoweb.com", "strettoweb.com", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.strettoweb.com/news/cronaca/", "strettoweb.com-cronaca", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.quotidianodelsud.it", "quotidianodelsud.it", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.corrieredellacalabria.it", "corrieredellacalabria.it", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.corrieredellacalabria.it/cronaca/", "corrieredellacalabria.it-cronaca", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.lametino.it", "lametino.it", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.lametino.it/cronaca/", "lametino.it-cronaca", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.zoom24.it", "zoom24.it", max_articles=50))
+    all_news.extend(scrape_generic_html("https://www.retenews24.it", "retenews24.it", max_articles=50))
+    all_news.extend(scrape_generic_html("https://calabria7.it", "calabria7.it", max_articles=50))
     
     # Fonti NAZIONALI (RSS)
-    all_news.extend(scrape_rss("https://www.ilfattoquotidiano.it/feed/", "ilfattoquotidiano.it"))
-    all_news.extend(scrape_rss("https://www.ilsole24ore.com/rss/italia.xml", "ilsole24ore.com"))
-    all_news.extend(scrape_rss("https://www.ilsole24ore.com/rss/cronache.xml", "ilsole24ore.com-cronache"))
+    all_news.extend(scrape_rss("https://www.ilfattoquotidiano.it/feed/", "ilfattoquotidiano.it", max_items=50))
+    all_news.extend(scrape_rss("https://www.ilsole24ore.com/rss/italia.xml", "ilsole24ore.com", max_items=50))
+    all_news.extend(scrape_rss("https://www.ilsole24ore.com/rss/cronache.xml", "ilsole24ore.com-cronache", max_items=50))
     
     # Fonti INTERNAZIONALI
-    all_news.extend(scrape_rss("http://feeds.bbci.co.uk/news/world/rss.xml", "bbc.com"))
+    all_news.extend(scrape_rss("http://feeds.bbci.co.uk/news/world/rss.xml", "bbc.com", max_items=50))
     
     return all_news
 
