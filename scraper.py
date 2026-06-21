@@ -4,6 +4,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 import urllib.request
 import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
 
 OUTPUT_FILE = "news_data.json"
 
@@ -26,13 +27,6 @@ KEYWORDS_HIGH_PRIORITY = [
     "omicidio", "agguato", "spari", "killer", "attentato",
     "auto in fiamme", "gambizzato",
     "maxi-sequestro", "tonnellate", "maxi-operazione", "blitz"
-]
-
-RSS_FEEDS = [
-    "https://www.antimafiaduemila.com/home/feed/rss",
-    "https://www.ansa.it/sito/ansait_rss.xml",
-    "https://rss.corriere.it/rss/home.xml",
-    "https://www.repubblica.it/rss/homepage/rss2.0.xml"
 ]
 
 def is_calabria_related(text):
@@ -65,63 +59,83 @@ def categorize_news(text):
         categories.append("generico")
     return categories
 
-def parse_rss_feed(feed_url):
+def scrape_antimafiaduemila():
     try:
-        print("Leggendo: " + feed_url)
+        print("Scraping antimafiaduemila.com...")
+        url = "https://www.antimafiaduemila.com"
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        req = urllib.request.Request(feed_url, headers=headers)
+        req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=15) as response:
-            xml_content = response.read()
-        root = ET.fromstring(xml_content)
-        items = root.findall(".//item")
-        if len(items) == 0:
-            items = root.findall(".//{http://www.w3.org/2005/Atom}entry")
+            html = response.read()
+        soup = BeautifulSoup(html, "html.parser")
         news_list = []
-        count = 0
-        for item in items[:30]:
-            title_elem = item.find("title")
-            link_elem = item.find("link")
-            desc_elem = item.find("description")
-            date_elem = item.find("pubDate")
-            if title_elem is None:
-                title_elem = item.find("{http://www.w3.org/2005/Atom}title")
-            if link_elem is None:
-                link_elem = item.find("{http://www.w3.org/2005/Atom}link")
-            if desc_elem is None:
-                desc_elem = item.find("{http://www.w3.org/2005/Atom}summary")
-            if date_elem is None:
-                date_elem = item.find("{http://www.w3.org/2005/Atom}published")
-            title = title_elem.text if title_elem is not None else ""
-            link = ""
-            if link_elem is not None:
-                if link_elem.text:
-                    link = link_elem.text
-                elif link_elem.get("href"):
-                    link = link_elem.get("href")
-            description = desc_elem.text if desc_elem is not None else ""
-            pub_date = date_elem.text if date_elem is not None else ""
-            if title:
-                description = re.sub("<[^<]+?>", "", description)
-                news_list.append({
-                    "title": title,
-                    "link": link,
-                    "description": description,
-                    "pub_date": pub_date,
-                    "source": urlparse(feed_url).netloc
-                })
-                count = count + 1
-        print("Trovate " + str(count) + " notizie da " + urlparse(feed_url).netloc)
+        articles = soup.find_all("article", limit=30)
+        if not articles:
+            articles = soup.find_all("div", class_=re.compile("article|post|news"), limit=30)
+        for article in articles:
+            title_elem = article.find(["h1", "h2", "h3", "a"])
+            link_elem = article.find("a", href=True)
+            desc_elem = article.find(["p", "div"], class_=re.compile("summary|excerpt|description"))
+            if title_elem:
+                title = title_elem.get_text(strip=True)
+                link = ""
+                if link_elem:
+                    link = link_elem["href"]
+                    if not link.startswith("http"):
+                        link = url + link
+                description = ""
+                if desc_elem:
+                    description = desc_elem.get_text(strip=True)
+                if title and len(title) > 10:
+                    news_list.append({
+                        "title": title,
+                        "link": link,
+                        "description": description,
+                        "pub_date": "",
+                        "source": "antimafiaduemila.com"
+                    })
+        print("Trovate " + str(len(news_list)) + " notizie da antimafiaduemila.com")
         return news_list
     except Exception as e:
-        print("Errore con " + feed_url + ": " + str(e))
+        print("Errore scraping antimafiaduemila.com: " + str(e))
+        return []
+
+def scrape_ansa():
+    try:
+        print("Scraping ANSA...")
+        url = "https://www.ansa.it/sito/notizie/cronaca/cronaca.shtml"
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as response:
+            html = response.read()
+        soup = BeautifulSoup(html, "html.parser")
+        news_list = []
+        articles = soup.find_all(["h3", "h4"], limit=30)
+        for article in articles:
+            link_elem = article.find("a", href=True)
+            if link_elem:
+                title = link_elem.get_text(strip=True)
+                link = link_elem["href"]
+                if not link.startswith("http"):
+                    link = "https://www.ansa.it" + link
+                if title and len(title) > 10:
+                    news_list.append({
+                        "title": title,
+                        "link": link,
+                        "description": "",
+                        "pub_date": "",
+                        "source": "ansa.it"
+                    })
+        print("Trovate " + str(len(news_list)) + " notizie da ANSA")
+        return news_list
+    except Exception as e:
+        print("Errore scraping ANSA: " + str(e))
         return []
 
 def fetch_all_news():
     all_news = []
-    for feed_url in RSS_FEEDS:
-        news = parse_rss_feed(feed_url)
-        for n in news:
-            all_news.append(n)
+    all_news.extend(scrape_antimafiaduemila())
+    all_news.extend(scrape_ansa())
     return all_news
 
 def process_news(raw_news):
