@@ -8,20 +8,25 @@ from bs4 import BeautifulSoup
 
 OUTPUT_FILE = "news_data.json"
 
-KEYWORDS_NDRANGHETA = [
-    "ndrangheta", "ndranghet", "mafia", "cosca", "boss",
-    "reggio calabria", "vibo valentia", "catanzaro", "cosenza",
-    "calabria", "aspromonte", "locride", "crotonese", "lametino",
-    "arresto", "arresti", "ordinanza", "custodia cautelare",
-    "scarcerazione", "scarcerato", "fine pena",
-    "cocaina", "hashish", "droga", "narcotraffico",
-    "omicidio", "agguato", "spari", "killer", "attentato",
-    "auto in fiamme", "incendio doloso", "gambizzato",
-    "sequestro", "blitz", "operazione", "maxi-operazione",
-    "carabinieri", "guardia di finanza", "dda", "ros",
-    "procura", "antimafia", "latitante", "ergastolo"
+# Keyword per fonti SPECIALIZZATE (antimafia) - prendi tutto
+SPECIALIZED_SOURCES = ["antimafiaduemila.com"]
+
+# Keyword CRIMINALI specifiche (non solo nomi di città)
+KEYWORDS_CRIME = [
+    "ndrangheta", "ndranghet", "mafia", "cosca", "boss", "latitante",
+    "arresto", "arresti", "ordinanza", "custodia cautelare", "fermo",
+    "scarcerazione", "scarcerato", "fine pena", "domiciliari",
+    "cocaina", "hashish", "droga", "narcotraffico", "spaccio",
+    "omicidio", "agguato", "spari", "killer", "attentato", "gambizzato",
+    "auto in fiamme", "incendio doloso", "auto bruciata",
+    "sequestro", "blitz", "operazione", "maxi-operazione", "retata",
+    "carabinieri", "guardia di finanza", "dda", "ros", "scop",
+    "procura", "antimafia", "ergastolo", "condanna",
+    "riciclaggio", "usura", "estorsione", "pizzo",
+    "traffico internazionale", "clan", "famiglia criminale"
 ]
 
+# Keyword per priorità alta
 KEYWORDS_HIGH_PRIORITY = [
     "scarcerato", "fine pena", "boss fuori", "libertà",
     "omicidio", "agguato", "spari", "killer", "attentato",
@@ -30,9 +35,10 @@ KEYWORDS_HIGH_PRIORITY = [
     "ergastolo", "arresto"
 ]
 
-def is_calabria_related(text):
+def is_crime_related(text):
+    """Verifica se la notizia riguarda criminalità organizzata"""
     text_lower = text.lower()
-    for keyword in KEYWORDS_NDRANGHETA:
+    for keyword in KEYWORDS_CRIME:
         if keyword in text_lower:
             return True
     return False
@@ -48,13 +54,13 @@ def calculate_priority(text):
 def categorize_news(text):
     text_lower = text.lower()
     categories = []
-    if "arresto" in text_lower or "arresti" in text_lower or "ordinanza" in text_lower or "custodia" in text_lower:
+    if "arresto" in text_lower or "arresti" in text_lower or "ordinanza" in text_lower or "custodia" in text_lower or "fermo" in text_lower:
         categories.append("arresti")
-    if "scarcerazione" in text_lower or "scarcerato" in text_lower or "fine pena" in text_lower:
+    if "scarcerazione" in text_lower or "scarcerato" in text_lower or "fine pena" in text_lower or "domiciliari" in text_lower:
         categories.append("scarcerazioni")
-    if "cocaina" in text_lower or "hashish" in text_lower or "droga" in text_lower or "narcotraffico" in text_lower:
+    if "cocaina" in text_lower or "hashish" in text_lower or "droga" in text_lower or "narcotraffico" in text_lower or "spaccio" in text_lower:
         categories.append("droga")
-    if "omicidio" in text_lower or "agguato" in text_lower or "spari" in text_lower or "attentato" in text_lower or "incendio" in text_lower or "gambizzato" in text_lower:
+    if "omicidio" in text_lower or "agguato" in text_lower or "spari" in text_lower or "attentato" in text_lower or "incendio" in text_lower or "gambizzato" in text_lower or "auto in fiamme" in text_lower:
         categories.append("sangue")
     if len(categories) == 0:
         categories.append("generico")
@@ -157,25 +163,21 @@ def scrape_rss(feed_url, source_name):
 def fetch_all_news():
     all_news = []
     
-    # Giornali calabresi e antimafia
+    # Fonti SPECIALIZZATE in antimafia - prendi tutto
     all_news.extend(scrape_generic_html("https://www.antimafiaduemila.com", "antimafiaduemila.com"))
+    
+    # Fonti LOCALI calabresi - filtra solo notizie criminali
     all_news.extend(scrape_generic_html("https://www.lacnews24.it", "lacnews24.it"))
     all_news.extend(scrape_generic_html("https://www.strettoweb.com", "strettoweb.com"))
-    all_news.extend(scrape_generic_html("https://calabria7.it", "calabria7.it"))
     all_news.extend(scrape_generic_html("https://www.quotidianodelsud.it", "quotidianodelsud.it"))
     all_news.extend(scrape_generic_html("https://www.retenews24.it", "retenews24.it"))
     
-    # Grandi giornali nazionali (RSS)
-    all_news.extend(scrape_rss("https://www.ansa.it/sito/ansait_rss.xml", "ansa.it"))
-    all_news.extend(scrape_rss("https://rss.corriere.it/rss/home.xml", "corriere.it"))
-    all_news.extend(scrape_rss("https://www.repubblica.it/rss/homepage/rss2.0.xml", "repubblica.it"))
+    # Fonti NAZIONALI (RSS) - filtra solo notizie criminali
     all_news.extend(scrape_rss("https://www.ilfattoquotidiano.it/feed/", "ilfattoquotidiano.it"))
-    all_news.extend(scrape_rss("https://www.lastampa.it/rss/home.xml", "lastampa.it"))
     all_news.extend(scrape_rss("https://www.ilsole24ore.com/rss/italia.xml", "ilsole24ore.com"))
     
-    # Fonti internazionali
+    # Fonti INTERNAZIONALI - filtra solo notizie criminali
     all_news.extend(scrape_rss("http://feeds.bbci.co.uk/news/world/rss.xml", "bbc.com"))
-    all_news.extend(scrape_rss("https://rss.cnn.com/rss/edition.rss", "cnn.com"))
     
     return all_news
 
@@ -183,12 +185,26 @@ def process_news(raw_news):
     processed = []
     for item in raw_news:
         full_text = item["title"] + " " + item["description"]
-        is_ndrangheta = is_calabria_related(full_text)
-        priority = calculate_priority(full_text) if is_ndrangheta else 0
-        categories = categorize_news(full_text) if is_ndrangheta else ["generale"]
+        
+        # Se è da fonte specializzata (antimafia), prendi tutto
+        if item["source"] in SPECIALIZED_SOURCES:
+            is_crime = True
+            priority = calculate_priority(full_text)
+            categories = categorize_news(full_text)
+        else:
+            # Per fonti generiche, filtra solo notizie criminali
+            is_crime = is_crime_related(full_text)
+            if is_crime:
+                priority = calculate_priority(full_text)
+                categories = categorize_news(full_text)
+            else:
+                priority = 0
+                categories = ["generale"]
+        
         summary = item["description"]
         if len(summary) > 300:
             summary = summary[:300] + "..."
+        
         news_item = {
             "title": item["title"],
             "summary": summary,
@@ -197,7 +213,7 @@ def process_news(raw_news):
             "source": item["source"],
             "priority": priority,
             "categories": categories,
-            "is_ndrangheta": is_ndrangheta,
+            "is_ndrangheta": is_crime,
             "is_high_priority": priority >= 20
         }
         processed.append(news_item)
@@ -221,9 +237,9 @@ def main():
     print("Trovate " + str(len(raw_news)) + " notizie grezze")
     print("=" * 50)
     processed_news = process_news(raw_news)
-    ndrangheta_count = sum(1 for n in processed_news if n["is_ndrangheta"])
-    print("Notizie Ndrangheta/Calabria: " + str(ndrangheta_count))
-    print("Notizie generali: " + str(len(processed_news) - ndrangheta_count))
+    crime_count = sum(1 for n in processed_news if n["is_ndrangheta"])
+    print("Notizie criminalità/mafia: " + str(crime_count))
+    print("Notizie generali: " + str(len(processed_news) - crime_count))
     print("=" * 50)
     save_to_json(processed_news)
     print("Completato!")
