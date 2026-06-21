@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-21T09:45:17.105187",
-  "total_news": 137,
+  "last_update": "2026-06-21T09:54:20.793399",
+  "total_news": 139,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -49,9 +49,9 @@
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -62,9 +62,9 @@
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -88,9 +88,9 @@
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -101,9 +101,9 @@
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -114,9 +114,9 @@
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -154,9 +154,9 @@
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -167,35 +167,74 @@
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "-09:45Il solstizio dà il benvenuto all’estate, oggi è il giorno più lungo dell’anno: ecco cosa accade",
+      "summary": "",
+      "link": "https://www.lacnews24.it/meteo/il-solstizio-da-il-benvenuto-allestate-oggi-e-il-giorno-piu-lungo-dellanno-ecco-cosa-accade-ebnue6p8",
+      "published": "",
+      "source": "lacnews24.it",
+      "priority": 0,
+      "categories": [
         "generale"
       ],
       "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
-      "title": "-09:27Il villaggio Sayonara di Nicotera Marina set del nuovo fotoromanzo di Antonio Zequila: «Calabria bellissima»",
+      "title": "-09:45Il solstizio dà il benvenuto all’estate, oggi è il giorno più lungo dell’anno: ecco cosa accade",
       "summary": "",
-      "link": "https://www.lacnews24.it/costume-e-societa/il-villaggio-sayonara-di-nicotera-marina-set-del-nuovo-fotoromanzo-di-antonio-zequila-calabria-bellissima-ggbohtyi",
+      "link": "https://www.lacnews24.it/meteo/il-solstizio-da-il-benvenuto-allestate-oggi-e-il-giorno-piu-lungo-dellanno-ecco-cosa-accade-ebnue6p8",
       "published": "",
       "source": "lacnews24.it",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
-      "title": "-09:27Il villaggio Sayonara di Nicotera Marina set del nuovo fotoromanzo di Antonio Zequila: «Calabria bellissima»",
-      "summary": "",
-      "link": "https://www.lacnews24.it/costume-e-societa/il-villaggio-sayonara-di-nicotera-marina-set-del-nuovo-fotoromanzo-di-antonio-zequila-calabria-bellissima-ggbohtyi",
+      "title": "Il solstizio dà il benvenuto all’estate, oggi è il giorno più lungo dell’anno: ecco cosa accade",
+      "summary": "Cade il 21 giugno alle 10,24. Il sole sorge alle 05.36 e tramonta alle 20.51, regalandoci così 15 ore e 15 minuti di luce",
+      "link": "https://www.lacnews24.it/meteo/il-solstizio-da-il-benvenuto-allestate-oggi-e-il-giorno-piu-lungo-dellanno-ecco-cosa-accade-ebnue6p8",
       "published": "",
       "source": "lacnews24.it",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Il solstizio dà il benvenuto all’estate, oggi è il giorno più lungo dell’anno: ecco cosa accade",
+      "summary": "Cade il 21 giugno alle 10,24. Il sole sorge alle 05.36 e tramonta alle 20.51, regalandoci così 15 ore e 15 minuti di luce",
+      "link": "https://www.lacnews24.it/meteo/il-solstizio-da-il-benvenuto-allestate-oggi-e-il-giorno-piu-lungo-dellanno-ecco-cosa-accade-ebnue6p8",
+      "published": "",
+      "source": "lacnews24.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Il solstizio dà il benvenuto all’estate, oggi è il giorno più lungo dell’anno: ecco cosa accade",
+      "summary": "Cade il 21 giugno alle 10,24. Il sole sorge alle 05.36 e tramonta alle 20.51, regalandoci così 15 ore e 15 minuti di luce",
+      "link": "https://www.lacnews24.it/meteo/il-solstizio-da-il-benvenuto-allestate-oggi-e-il-giorno-piu-lungo-dellanno-ecco-cosa-accade-ebnue6p8",
+      "published": "",
+      "source": "lacnews24.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -232,9 +271,9 @@
       "source": "lacnews24.it",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -264,19 +303,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Edizione Mattina",
-      "summary": "",
-      "link": "https://www.lacplay.it/video/lac-news24_470/21-06-26-tg-mattina_106868/",
-      "published": "",
-      "source": "lacnews24.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
       "title": "Reggio Calabria, 40 anni dopo il diploma: una classe del Liceo Classico “T. Campanella” si ritrova tra emozioni e ricordi",
       "summary": "",
       "link": "https://www.strettoweb.com/2026/06/reggio-calabria-40-anni-dopo-il-diploma-una-classe-del-liceo-classico-t-campanella-si-ritrova-tra-emozioni-e-ricordi/2103809/",
@@ -284,9 +310,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -297,9 +323,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -310,9 +336,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -336,9 +362,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -362,9 +388,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -375,9 +401,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -388,9 +414,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -401,9 +427,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -492,9 +518,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -505,9 +531,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -544,9 +570,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -583,9 +609,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -596,9 +622,9 @@
       "source": "strettoweb.com",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -765,9 +791,9 @@
       "source": "quotidianodelsud.it",
       "priority": 0,
       "categories": [
-        "generico"
+        "generale"
       ],
-      "is_ndrangheta": true,
+      "is_ndrangheta": false,
       "is_high_priority": false
     },
     {
@@ -927,6 +953,19 @@
       "is_high_priority": false
     },
     {
+      "title": "“A Marracash una volta ho scritto ‘ti amo’ in direct dopo un concerto. All’artefice delle mie t***e finte farei una statua”: così Nilufar Addati",
+      "summary": "“Preferisco Marra. Gio, ti mando un bacio. Un gran bono pure Giordano Mazzocchi ma Marra, vuoi mettere?&#8221;. Non ha usato troppi giri di parole l’ex tronista di “Uomini e Donne”, Nilufar Addati, nell’esprimere le proprie preferenze (soprattutto) estetiche su alcune celebrità del mondo dello spett",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/a-marracash-una-volta-ho-scritto-ti-amo-in-direct-dopo-un-concerto-allartefice-delle-mie-te-finte-farei-una-statua-cosi-nilufar-addati/8425223/",
+      "published": "Sun, 21 Jun 2026 09:46:09 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
       "title": "Seconda ondata di calore in Italia: oggi 8 città con bollino rosso. In Spagna temperature fino a 42°, in Francia vietata la vendita di alcol",
       "summary": "Bollino rosso in Italia, temperature fino a 42° in Spagna, allarme anche in Francia, dove è stata anche vietata la vendita di alcol. Le alte temperature hanno colpito diversi Paesi europei, con il picco previsto per oggi, domenica 21 giugno. Partendo dall&#8217;Italia, anticiclone africano e caldo i",
       "link": "https://www.ilfattoquotidiano.it/2026/06/21/ondata-calore-italia-europa-bollino-rosso-oggi/8425208/",
@@ -947,9 +986,9 @@
       "source": "ilfattoquotidiano.it",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -1025,9 +1064,9 @@
       "source": "ilfattoquotidiano.it",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
@@ -1217,19 +1256,6 @@
       "summary": "Riccardo è un ragazzo di 25 anni, quasi 26, abbandonato dalla sua famiglia. Ha un passato di tossicodipendenza e vive per strada. Si è presentato casualmente alla mia porta. L’ho osservato: è poco più grande di mia figlia maggiore, ma di poco. L’ho visto distratto, perso, con la testa tra le nuvole.",
       "link": "https://www.ilfattoquotidiano.it/2026/06/21/riccardo-senzatetto-rinascita-comunita-attiva/8423595/",
       "published": "Sun, 21 Jun 2026 05:47:47 +0000",
-      "source": "ilfattoquotidiano.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Mondiali, i risultati della notte: la Germania ribalta la Costa d’Avorio, è ai sedicesimi. Primo storico punto per Curacao – La nuova classifica dei gironi",
-      "summary": "I risultati del 21-22 giugno Ecuador-Curacao 0-0 Tunisia-Giappone 0-4 Germania-Costa d&#8217;Avorio 2-1 Olanda-Svezia 5-1 Mondiali, la nuova classifica aggiornata oggi Mondiali 2026, la classifica marcatori in diretta Mondiali 2026, i gironi e il nuovo regolamento Calendario Mondiali: date e orari, ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/mondiali-2026-risultati-oggi-nuova-classifica-gironi/8416831/",
-      "published": "Sun, 21 Jun 2026 05:16:37 +0000",
       "source": "ilfattoquotidiano.it",
       "priority": 0,
       "categories": [
