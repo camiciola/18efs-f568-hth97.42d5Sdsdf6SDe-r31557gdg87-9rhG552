@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-22T17:57:47.500813",
-  "total_news": 61,
+  "last_update": "2026-06-22T23:06:29.692508",
+  "total_news": 68,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -134,15 +134,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Bombardieri alcongresso Uil Calabria: «La strage di Amendolara? Tratta degli schiavi». Senese: «Meno Irpef per under 35»",
-      "summary": "ll segretario nazionale del sindacato: «Si deve parlare di mafia calabrese, più che di mafia pakistana». La proposta di Mariaelena Senese (Uil Calabria) contro la fuga dei giovani: «Bisogna ridurre l’Irpef agli under 35»",
-      "link": "https://www.lacnews24.it/economia-e-lavoro/bombardieri-uil-a-maierato-la-strage-di-amendolara-non-e-caporalato-e-tratta-degli-schiavi-rivjlotx",
+      "title": "Tragedia a Bisignano,morto un 16ennecoinvolto nello scontro tra scooter e auto",
+      "summary": "Il tragico sinistro si era verificato nella notte tra domenica e lunedì. Il giovane, soccorso dal 118 e trasferito d’urgenza all’Annunziata di Cosenza, è deceduto a causa delle gravissime lesioni riportate",
+      "link": "https://www.lacnews24.it/cronaca/tragedia-a-bisignano-morto-un-16enne-coinvolto-nello-scontro-tra-scooter-e-auto-ak116mtx",
       "published": "",
       "source": "lacnews24.it",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Maggioranza in crisi a Lamezia, Ferro (Fdi): «Rapporto di fiducia con il sindaco Murone compromesso, consiglieri liberi di valutare»",
+      "summary": "Conferenza stampa convocata dalla coordinatrice regionale di Fratelli d’Italia: «Non siamo qui per ritirare le truppe. Sempre più difficile costruire un confronto leale e stabile»",
+      "link": "https://www.lacnews24.it/politica/maggioranza-in-crisi-a-lamezia-ferro-fdi-rapporto-di-fiducia-con-il-sindaco-murone-compromesso-consiglieri-liberi-di-valutare-olhga4gx",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -173,11 +186,141 @@
       "is_high_priority": false
     },
     {
-      "title": "Sanità, estate difficile per Occhiuto (che attacca i sindacati): mancano medici e il Pnrr mette a rischio le Case della Salute",
-      "summary": "La riforma Schillaci si è arenata, tra botta e risposta in Calabria restano dubbi sulla piena operatività delle 63 strutture previste. Il leghista Stefani, governatore del Veneto, ha fatto direttamente un'intesa con le associazioni. Cosa succederà nella nostra regione?",
-      "link": "https://www.lacnews24.it/politica/sanita-estate-difficile-per-occhiuto-che-attacca-i-sindacati-mancano-medici-e-il-pnrr-mette-a-rischio-le-case-della-salute-vlmuo4dk",
+      "title": "Fuga dal Sud, la Calabria perde energie e possibilità di sviluppo. Napoli (Confapi): «Passare dalle analisi ai fatti»",
+      "summary": "I dati del Sole 24 Ore fotografano un Mezzogiorno sempre più povero dei propri giovani. Il presidente regionale della Confederazione della piccola e media industria: «Contrastare lo spopolamento per difendere il capitale umano della nostra regione»",
+      "link": "https://www.lacnews24.it/attualita/fuga-dal-sud-la-calabria-perde-energie-e-possibilita-di-sviluppo-napoli-confapi-passare-dalle-analisi-ai-fatti-f1rnhci0",
       "published": "",
       "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Campo rom di Scordovillo, riunione in Prefettura per fare il punto e accelerare i tempi di smantellamento",
+      "summary": "All’incontro a Catanzaro hanno preso parte la sottosegretaria Ferro e il presidente Occhiuto. Obiettivo delineare i prossimi passaggi per la definitiva delocalizzazione dei nuclei familiari e la demolizione delle dimore fatiscenti",
+      "link": "https://www.lacnews24.it/attualita/campo-rom-di-scordovillo-riunione-in-prefettura-per-accelerare-i-tempi-di-smantellamento-vfa4ja7i",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Rizzetta segue il consiglio di StrettoWeb: sfumata la Reggina, pensa a Praticò e lo porta a cena a Campobasso. La FOTO eloquente e quella battuta di 9 giorni fa...",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/rizzetta-segue-il-consiglio-di-strettoweb-sfumata-la-reggina-pensa-a-pratico-e-lo-porta-a-cena-a-campobasso-la-foto-eloquente-e-quella-battuta-di-9-giorni-fa/2104568/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "\"Italodisco Arena\" conquista Buscemi (Siracusa): Piazza Roma gremita per il live show dei grandi successi",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/italodisco-arena-conquista-buscemi-siracusa-piazza-roma-gremita-per-il-live-show-dei-grandi-successi/2104558/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Malagò parla di Reggina: le parole del neo Presidente Figc su Lotito e multiproprietà",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/malago-parla-di-reggina-le-parole-del-neo-presidente-figc-su-lotito-e-multiproprieta/2104546/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il ministro Giuli annuncia: \"l'Ecce Homo farà tappa a Reggio Calabria, Messina e Palermo\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/il-ministro-giuli-annuncia-lecce-homo-fara-tappa-a-reggio-calabria-messina-e-palermo/2104545/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Università Mediterranea, due giornate di studio sulla Terza Missione del dipartimento di Architettura e Design",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/universita-mediterranea-due-giornate-di-studio-sulla-terza-missione-del-dipartimento-di-architettura-e-design/2104532/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Maltempo, dal Consiglio dei Ministri altri 35 milioni per le province di Catania e Messina",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/maltempo-dal-consiglio-dei-ministri-altri-35-milioni-per-le-province-di-catania-e-messina/2104523/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Scuola punisce studenti per lo striscione “L’Italia agli italiani”: italiani divisi tra libertà di espressione, dialogo e sanzioni",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/scuola-punisce-studenti-per-lo-striscione-litalia-agli-italiani-italiani-divisi-tra-liberta-di-espressione-dialogo-e-sanzioni/2104513/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Governo: la fiducia nel Premier Meloni, il 38,7% esprime un giudizio positivo",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/governo-la-fiducia-nel-premier-meloni-il-387-esprime-un-giudizio-positivo/2104493/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Calendario Venatorio 2026/2027, allarme sulla ZPS Costa Viola: “la Regione Calabria chiarisca subito su VINCA e divieti”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/calendario-venatorio-2026-2027-allarme-sulla-zps-costa-viola-la-regione-calabria-chiarisca-subito-su-vinca-e-divieti/2104473/",
+      "published": "",
+      "source": "strettoweb.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -199,76 +342,38 @@
       "is_high_priority": false
     },
     {
-      "title": "Taurianova, il Circolo PD Taurianova rafforza il direttivo e avvia il Movimento Femminile",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/taurianova-il-circolo-pd-taurianova-rafforza-il-direttivo-e-avvia-il-movimento-femminile/2104419/",
+      "title": "Scontro tra uno scooter e un’auto, muore un 16enne di Bisignano",
+      "summary": "UltimeScontro tra uno scooter e un’auto, muore un 16enne di BisignanoA 10 anni si scontra con la minimoto contro un SuvDa ore non si hanno notizie di una donna di 91 anni, grande apprensione nella Locride«Il disaccordo tra i leader non significa disaccordo tra i paesi»«L’Asp annuncia l’Ospedale di C...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/scontro-tra-uno-scooter-e-unauto-muore-un-16enne-di-bisignano/",
       "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "italia"
+        "generico"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Contrordine gente! Trump forse non è tanto sano!",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/contrordine-gente-trump-forse-non-e-tanto-sano/2104389/",
+      "title": "la polemica trump-meloni«Il disaccordo tra i leader non significa disaccordo tra i paesi»L’ambasciatore Usa Fertitta: resta una fortissima partnership",
+      "summary": "la polemica trump-meloni",
+      "link": "https://www.corrieredellacalabria.it/2026/06/22/il-disaccordo-tra-i-leader-non-significa-disaccordo-tra-i-paesi/",
       "published": "",
-      "source": "strettoweb.com",
+      "source": "corrieredellacalabria.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Rifiuti in Sicilia, Barbagallo: “emergenza continua a causa della mancata programmazione di Schifani”",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/rifiuti-in-sicilia-barbagallo-emergenza-continua-a-causa-della-mancata-programmazione-di-schifani/2104318/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
+        "leader",
         "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Reggio Calabria, scommesse clandestine e cosca Tegano: la Cassazione conferma la confisca all’imprenditore",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-scommesse-clandestine-e-cosca-tegano-la-cassazione-conferma-la-confisca-allimprenditore/2104314/",
+      "title": "le proposteOcchiuto: «Più università e “scatti di futuro” per trattenere i giovani. Sanità? Servono riforme»Il presidente della Regione al congresso Uil: «Basta con la “sindrome di Calimero”, la Calabria può essere un modello». Presto novità sulle liste di attesa",
+      "summary": "le proposte",
+      "link": "https://www.corrieredellacalabria.it/2026/06/22/occhiuto-piu-universita-e-scatti-di-futuro-per-trattenere-i-giovani-sanita-servono-riforme/",
       "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reggio Calabria, incassa 187 mila euro destinati allo Stato: condanna definitiva per peculato",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-incassa-187-mila-euro-destinati-allo-stato-condanna-definitiva-per-peculato/2104300/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Nessuna sorpresa, Giovanni Malagò è il nuovo Presidente della FIGC: battuto nettamente Abate",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/nessuna-sorpresa-giovanni-malago-e-il-nuovo-presidente-della-figc-battuto-nettamente-abate/2104305/",
-      "published": "",
-      "source": "strettoweb.com",
+      "source": "corrieredellacalabria.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -277,41 +382,15 @@
       "is_high_priority": false
     },
     {
-      "title": "L'ora in Italia:",
-      "summary": "L'ora in Italia:",
-      "link": "https://time.is/Italy",
-      "published": "",
-      "source": "quotidianodelsud.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "il marciatore italianoNuove accuse di doping per Schwazer, avviato procedimentoL’agenzia antidoping tedesca ha aperto un’indagine",
-      "summary": "il marciatore italiano",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/nuove-accuse-di-doping-per-schwazer-avviato-procedimento/",
+      "title": "Da ore non si hanno notizie di una donna di 91 anni, grande apprensione nella Locridela scomparsa",
+      "summary": "la scomparsa",
+      "link": "https://www.corrieredellacalabria.it/2026/06/22/da-ore-non-si-hanno-notizie-di-una-donna-di-91-anni-grande-apprensione-nella-locride/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "l’affondoLamezia, FdI scuote il Comune. Ferro: «Compromesso il rapporto di fiducia con Murone, il sindaco ora cambi passo»Conferenza stampa della leader regionale di Fratelli d’Italia, Wanda Ferro. «I nostri consiglieri liberi di fare le proprie valutazioni, ma questo non modifica il giudizio politico del partito»",
-      "summary": "l’affondo",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/lamezia-fdi-scuote-il-comune-ferro-compromesso-il-rapporto-di-fiducia-con-murone-il-sindaco-ora-cambi-passo/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -382,33 +461,20 @@
       "is_high_priority": false
     },
     {
-      "title": "Occhiuto: «Più università e “scatti di futuro” per trattenere i giovani. Sanità? Servono riforme»“Il presidente della Regione al congresso Uil: «Basta con la “sindrome di Calimero”, la Calabria può essere un modello». Presto novità sulle liste di…22 Giugno, 19:43",
-      "summary": "“Il presidente della Regione al congresso Uil: «Basta con la “sindrome di Calimero”, la Calabria può essere un modello». Presto novità sulle liste di…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/occhiuto-piu-universita-e-scatti-di-futuro-per-trattenere-i-giovani-sanita-servono-riforme/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Lamezia, FdI scuote il Comune. Ferro: «Compromesso il rapporto di fiducia con Murone, il sindaco ora cambi passo»“Conferenza stampa della leader regionale di Fratelli d’Italia, Wanda Ferro. «I nostri consiglieri liberi di fare le proprie valutazioni, ma questo no…22 Giugno, 18:42",
-      "summary": "“Conferenza stampa della leader regionale di Fratelli d’Italia, Wanda Ferro. «I nostri consiglieri liberi di fare le proprie valutazioni, ma questo no…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/lamezia-fdi-scuote-il-comune-ferro-compromesso-il-rapporto-di-fiducia-con-murone-il-sindaco-ora-cambi-passo/",
+      "title": "«Il disaccordo tra i leader non significa disaccordo tra i paesi»“L’ambasciatore Usa Fertitta: resta una fortissima partnership22 Giugno, 21:55",
+      "summary": "“L’ambasciatore Usa Fertitta: resta una fortissima partnership",
+      "link": "https://www.corrieredellacalabria.it/2026/06/22/il-disaccordo-tra-i-leader-non-significa-disaccordo-tra-i-paesi/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "UltimeLamezia, Wanda Ferro (FdI) avverte il sindaco: \"Si è incrinato rapporto di fiducia con nostro partito\"",
+      "title": "UltimeLamezia, Wanda Ferro (FdI) avverte il sindaco: \"Si è incrinato rapporto di fiducia con il nostro partito\"",
       "summary": "Clicca per leggere l'articolo completo",
       "link": "https://www.lametino.it/ultime/lamezia-wanda-ferro-fdi-avverte-il-sindaco-si-e-inclinato-rapporto-di-fiducia-con-nostro-partito.html",
       "published": "",
@@ -417,6 +483,101 @@
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Trump ancora all’attacco: “L’Italia si è comportata molto male, noi abbiamo speso miliardi per la Nato”",
+      "summary": "Proprio mentre Giorgia Meloni sceglie la strada della diplomazia decidendo di inviare i vicepremier alla festa del 4 luglio all&#8217;ambasciata Usa, Donald Trump torna ad attaccare l&#8217;Italia. &#8220;L&#8217;Italia si è comportata molto male&#8220;, ha dichiarato il presidente americano parland",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/22/trump-ancora-allattacco-litalia-si-e-comportata-molto-male-noi-abbiamo-speso-miliardi-per-la-nato/8426891/",
+      "published": "Mon, 22 Jun 2026 20:52:27 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre",
+        "leader",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ucraina, la guerra al petrolio di Putin arriva fino in Siberia: colpita una raffineria russa a 2mila km dal confine",
+      "summary": "Un nuovo attacco ucraino alle raffinerie russe, ma questa volta la notizia è che i due droni che hanno colpito l&#8217;impianto dove viene lavorato il greggio del Cremlino è quello di Tjumén, regione che si trova nel cuore della Siberia, a ben 2mila chilometri di distanza dal confine con il Paese di",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/22/ucraina-la-guerra-al-petrolio-di-putin-arriva-fino-in-siberia-colpita-una-raffineria-russa-a-2mila-km-dal-confine/8426521/",
+      "published": "Mon, 22 Jun 2026 19:14:18 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre",
+        "leader",
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Leggi ad personam, affari, ostilità contro le regole della legalità: Travaglio e Corrias presentano Berlusconi Files. “I media padronali hanno resettato la memoria sui suoi disastri”",
+      "summary": "&#8220;Tre anni fa ho scritto Il Santo, prevedendo che dopo la sua morte avrebbero iniziato a beatificarlo&#8221;. Marco Travaglio alla Paper Fest di Carrara presenta con Pino Corrias Berlusconi Files, il libro di Paper First che rimette in fila la storia dell’ex presidente del Consiglio: affari, pr",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/22/berlusconi-files-travaglio-corrias-leggi-personam-notizie/8426641/",
+      "published": "Mon, 22 Jun 2026 18:52:02 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Slitta da luglio a ottobre la tassa italiana da 2 euro sui piccoli pacchi. Ma scatterà quella Ue da 3 euro per ogni oggetto",
+      "summary": "Slitta di tre mesi l&#8217;entrata in vigore del contributo amministrativo da 2 euro sui pacchi di valore inferiore a 150 euro provenienti da Paesi extra Ue. Il Consiglio dei ministri di lunedì ha approvato una proroga che sposta l&#8217;applicazione della tassa dal 1° luglio al 1° ottobre. Il contr",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/22/tassa-pacchi-cina-rinvio-ottobre-notizie/8426686/",
+      "published": "Mon, 22 Jun 2026 18:42:36 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Gli Usa autorizzano produzione e vendita di petrolio iraniano: annullati 40 anni di sanzioni",
+      "summary": "Petrolio iraniano di nuovo autorizzato, almeno per 60 giorni. Il segretario al Tesoro Usa Scott Bessent ha infatti annunciato una licenza generale temporanea che autorizza &#8220;la produzione, la consegna e la vendita di petrolio iraniano&#8221;. Per capire la portata dell&#8217;annuncio va ricorda",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/22/sanzioni-petrolio-iraniano-usa-sospese-notizie/8426689/",
+      "published": "Mon, 22 Jun 2026 18:26:04 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Bambino su una minimoto travolto da una Jeep: morto a 10 anni nell’Avellinese",
+      "summary": "Un bambino di dieci anni è morto in un incidente stradale avvenuto nel pomeriggio in provincia di Avellino. Il piccolo era alla guida della sua moto minicross che si è scontrata con una Jeep sulla provinciale che collega il comune di Moschiano, di cui era originaria la vittima, e quello di Lauro. L&",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/22/bambino-morto-incidente-stradale-avellino-minimoto-jeep/8426695/",
+      "published": "Mon, 22 Jun 2026 18:00:25 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Qatargate, “mandato d’arresto per l’ex commissario Ue greco Dimitris Avramopoulos”",
+      "summary": "Partecipazione a un&#8217;organizzazione criminale. È con questa accusa che la Procura belga che indaga sullo scandalo delle mazzette in Ue del 2022 ribattezzato Qatargate ha emesso, secondo quanto scrive Kathimerini, un mandato d&#8217;arresto europeo nei confronti dell&#8217;ex commissario greco d",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/22/qatargate-mandato-arresto-avramopoulos-notizie/8426677/",
+      "published": "Mon, 22 Jun 2026 17:57:57 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
       ],
       "is_high_priority": false
     },
@@ -486,49 +647,10 @@
       "is_high_priority": false
     },
     {
-      "title": "“Ma non era più grande?”: ecco perché i gelati sembrano sempre più piccoli (ma costano di più). Cos’è la “shrinkflation”",
-      "summary": "C&#8217;è una frase che ogni estate torna puntuale davanti al banco dei surgelati o al chiosco in spiaggia: &#8220;Ma questo gelato non era più grande?&#8221;. La risposta, sempre più spesso, è sì. Negli ultimi anni molti dei gelati confezionati più popolari hanno perso qualche grammo, qualche milli",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/ma-non-era-piu-grande-ecco-perche-i-gelati-sembrano-sempre-piu-piccoli-ma-costano-di-piu-cose-la-shrinkflation/8426439/",
-      "published": "Mon, 22 Jun 2026 15:23:30 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Direttiva anticorruzione, Busia: “Compromesso al ribasso, ma resta positiva. Abrogando l’abuso d’ufficio Roma ha fatto passi indietro”",
-      "summary": "&#8220;Con l&#8217;abrogazione dell&#8217;abuso d&#8217;ufficio abbiamo fatto dei passi indietro. Avrebbe dovuto almeno essere compensato dall&#8217;aumento delle garanzie amministrative, ma siamo andati indietro anche su quello. Questo provoca un indebolimento generale degli anticorpi. Nonostante n",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/direttiva-anticorruzione-ue-busia-abuso-ufficio-notizie/8426428/",
-      "published": "Mon, 22 Jun 2026 15:12:09 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“C’è un ragno nella fodera”, poi l’incredibile scoperta: la disavventura di Brittany Jade con la borsa comprata su Shein è virale su TikTok",
-      "summary": "Gli acquisti online possono riservare sorprese, ma trovare quello che sembra un insetto intrappolato nella fodera di un accessorio appena consegnato va oltre i normali imprevisti di spedizione. È quanto accaduto a Brittany Jade, una cliente del colosso del fast fashion Shein, che ha documentato sui ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/ce-un-ragno-nella-fodera-poi-lincredibile-scoperta-la-disavventura-di-brittany-jade-con-la-borsa-comprata-su-shein-e-virale-su-tiktok/8426437/",
-      "published": "Mon, 22 Jun 2026 15:09:02 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Meloni in Cdm sullo scontro con Trump: «Non impatti sui rapporti con gli Usa»",
-      "summary": "Il battibecco con Donald Trump non deve compromettere i rapporti tra il governo italiano e gli Stati Uniti. È il messaggio che Giorgia Meloni avrebbe rimarcato durante il Consiglio dei...",
+      "title": "Trump ribadisce le accuse all’Italia. Meloni: «Lo scontro non impatti sui rapporti con gli Usa»",
+      "summary": "Donald Trump ha ribadito le accuse all’Italia e agli altri alleati della Nato. «L’Italia si è comportata molto male», ha detto il presidente Usa nello Studio Ovale. E poi rivolto...",
       "link": "https://www.ilsole24ore.com/art/meloni-cdm-scontro-trump-non-impatti-rapporti-gli-usa-AIk1XsoD",
-      "published": "Mon, 22 Jun 2026 17:22:34 GMT",
+      "published": "Mon, 22 Jun 2026 17:22:00 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -600,32 +722,6 @@
       "priority": 0,
       "categories": [
         "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dalla Nave Garibaldi all’intesa tra Fincantieri e Republikorp, l’Italia guarda ancora all’Indonesia",
-      "summary": "La collaborazione con Republikorp prevede la produzione di unità anfibie, fregate, corvette, pattugliatori e sottomarini",
-      "link": "https://www.ilsole24ore.com/art/dalla-nave-garibaldi-all-intesa-fincantieri-e-republikorp-l-italia-guarda-ancora-all-indonesia-AIipvvmD",
-      "published": "Mon, 22 Jun 2026 06:36:24 GMT",
-      "source": "ilsole24ore.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Fisco, la GdF scopre a Imola sei milioni nascosti nei paradisi all’estero",
-      "summary": "Operazione del comando provinciale delle Fiamme gialle di Bologna. Dall’incrocio dei dati scoperte le somme non dichiarate da tre contribuenti ",
-      "link": "https://www.ilsole24ore.com/art/fisco-gdf-scopre-imola-sei-milioni-nascosti-paradisi-all-estero-AIgGKxnD",
-      "published": "Mon, 22 Jun 2026 05:02:01 GMT",
-      "source": "ilsole24ore.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
       ],
       "is_high_priority": false
     },
