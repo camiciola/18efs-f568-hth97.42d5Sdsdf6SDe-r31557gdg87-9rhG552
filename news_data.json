@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-22T23:06:29.692508",
-  "total_news": 68,
+  "last_update": "2026-06-23T11:43:16.167148",
+  "total_news": 61,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -29,15 +29,29 @@
       "is_high_priority": true
     },
     {
-      "title": "Duplice omicidio al centro ippico di Catanzaro, familiari e amici delle vittimesmentiscono lo stalliere: «Mai stato maltrattato»",
-      "summary": "La Corte d’Assise d’Appello ha ridotto nuovamente la pena nei confronti del cittadino pakistano accusato di aver ucciso a colpi di zappa due persone nel 2021. «Tanta amarezza, lo abbiamo sempre aiutato»",
-      "link": "https://www.lacnews24.it/cronaca/duplice-omicidio-al-centro-ippico-di-catanzaro-familiari-e-amici-delle-vittime-smentiscono-lo-stalliere-mai-stato-maltrattato-o01tds6v",
+      "title": "l’agguatoNapoli, 21enne incensurato ucciso davanti casaIndagano i carabinieri, dinamica ancora da chiarire",
+      "summary": "l’agguato",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/napoli-21enne-incensurato-ucciso-davanti-casa/",
       "published": "",
-      "source": "lacnews24.it",
+      "source": "corrieredellacalabria.it",
+      "section": "crime_italy",
+      "priority": 10,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "il blitzScambio elettorale politico-mafioso, arrestato sindaco del MessineseAi domiciliari Letterio Pistone",
+      "summary": "il blitz",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/scambio-elettorale-politico-mafioso-arrestato-sindaco-del-messinese/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "sangue"
+        "arresti",
+        "scarcerazioni"
       ],
       "is_high_priority": false
     },
@@ -134,22 +148,35 @@
       "is_high_priority": false
     },
     {
-      "title": "Tragedia a Bisignano,morto un 16ennecoinvolto nello scontro tra scooter e auto",
-      "summary": "Il tragico sinistro si era verificato nella notte tra domenica e lunedì. Il giovane, soccorso dal 118 e trasferito d’urgenza all’Annunziata di Cosenza, è deceduto a causa delle gravissime lesioni riportate",
-      "link": "https://www.lacnews24.it/cronaca/tragedia-a-bisignano-morto-un-16enne-coinvolto-nello-scontro-tra-scooter-e-auto-ak116mtx",
+      "title": "Pesca illegale nel Tirreno calabrese, confiscati 19 chilometri di spadare:nelle reti mante e delfini morti",
+      "summary": "L'operazione congiunta di Sea Sheperd, Gdf e Guardia Costiera ha consentito di sequestrare le attrezzature disseminate al largo della costa tirrenica e vietate dal 2002. Salvataggio in extremis per quattro Mobula mobular, un pesce luna, una tartaruga Caretta caretta e due tonni rossi",
+      "link": "https://www.lacnews24.it/cronaca/guardia-di-finanza-di-vibo-e-sea-shepherd-scoprono-19-chilometri-di-spadare-mante-e-delfini-morti-nelle-reti-illegali-xb3xtodj",
       "published": "",
       "source": "lacnews24.it",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "superpotenze"
+        "arresti"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Maggioranza in crisi a Lamezia, Ferro (Fdi): «Rapporto di fiducia con il sindaco Murone compromesso, consiglieri liberi di valutare»",
-      "summary": "Conferenza stampa convocata dalla coordinatrice regionale di Fratelli d’Italia: «Non siamo qui per ritirare le truppe. Sempre più difficile costruire un confronto leale e stabile»",
-      "link": "https://www.lacnews24.it/politica/maggioranza-in-crisi-a-lamezia-ferro-fdi-rapporto-di-fiducia-con-il-sindaco-murone-compromesso-consiglieri-liberi-di-valutare-olhga4gx",
+      "title": "Maxi frodesul carburante agricolo tra Crotone e la Germania: sequestro da 8 milioni di euro e 29 indagati - NOMI",
+      "summary": "La Guardia di Finanza smantella due organizzazioni criminali dedite al traffico illecito di gasolio agevolato. Coinvolte 25 aziende e 29 indagati: ecco come funzionava il sistema delle \"false serre\"",
+      "link": "https://www.lacnews24.it/cronaca/maxi-frode-sul-carburante-agricolo-tra-crotone-e-la-germania-sequestro-da-8-milioni-di-euro-e-29-indagati-nomi-aaliw9tx",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Depositi costieri a Vibo Marina,riunione “segreta”tra Romeo e Ammaturo: nuova bozza per la delocalizzazione",
+      "summary": "Nel corso di un Consiglio comunale fiume il sindaco ha raccontato di un incontro riservato a cui ha partecipato il presidente del Gruppo Ludoil, l’Autorità portuale e un rappresentante del Ministero. Ricucito lo strappo con Meridionale Petroli. Coinvolto anche il deputato Mangialavori per la ricerca...",
+      "link": "https://www.lacnews24.it/politica/depositi-costieri-a-vibo-marina-romeo-rivela-la-riunione-segreta-con-ammaturo-nuova-bozza-per-la-delocalizzazione-q8daliij",
       "published": "",
       "source": "lacnews24.it",
       "section": "italia",
@@ -160,22 +187,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Iran-Usa, passi avanti nei colloqui in Svizzera: accordo sullo Stretto di Hormuz e tregua in Libano",
-      "summary": "Redazione",
-      "link": "https://www.lacnews24.it/italia-mondo/iran-usa-passi-avanti-nei-colloqui-in-svizzera-accordo-sullo-stretto-di-hormuz-e-tregua-in-libano-qv4oeywn",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Petrolio in netto calo con i colloqui Usa Ira. Il ministro iraniano: «Segnali incoraggianti»",
+      "title": "Iran-Usa, svolta nei negoziati: sbloccati 12 miliardi e quattro gruppi di lavoro. Teheran: «Hormuz sarà gestito da noi»",
       "summary": "Redazione Esteri",
-      "link": "https://www.lacnews24.it/italia-mondo/petrolio-in-netto-calo-con-i-colloqui-usa-ira-il-ministro-iraniano-segnali-incoraggianti-xlmb98di",
+      "link": "https://www.lacnews24.it/italia-mondo/iran-usa-svolta-nei-negoziati-sbloccati-12-miliardi-e-quattro-gruppi-di-lavoro-teheran-hormuz-sara-gestito-da-noi-rwftgppr",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -186,11 +200,37 @@
       "is_high_priority": false
     },
     {
-      "title": "Fuga dal Sud, la Calabria perde energie e possibilità di sviluppo. Napoli (Confapi): «Passare dalle analisi ai fatti»",
-      "summary": "I dati del Sole 24 Ore fotografano un Mezzogiorno sempre più povero dei propri giovani. Il presidente regionale della Confederazione della piccola e media industria: «Contrastare lo spopolamento per difendere il capitale umano della nostra regione»",
-      "link": "https://www.lacnews24.it/attualita/fuga-dal-sud-la-calabria-perde-energie-e-possibilita-di-sviluppo-napoli-confapi-passare-dalle-analisi-ai-fatti-f1rnhci0",
+      "title": "Hezbollah non si fida dell’accordo: «Rimaniamo col dito sul grilletto, Israele non violi patti»",
+      "summary": "Redazione Esteri",
+      "link": "https://www.lacnews24.it/italia-mondo/hezbollah-non-si-fida-dellaccordo-rimaniamo-col-dito-sul-grilletto-israele-non-violi-patti-q3xgbebb",
       "published": "",
       "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "medio-oriente"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Notizie in evidenza",
+      "summary": "Il dramma dei quattro migranti uccisi sulla Ss 106 diventa la spinta per un patto di legalità volto a tutelare i diritti dei raccoglitori stagionali nei campi: il 4 luglio l’evento organizzato dalla Cec",
+      "link": "https://www.lacnews24.it/attualita/contro-caporalato-e-sfruttamento-la-chiesa-calabrese-si-mobilita-ad-amendolara-dopo-la-strage-dei-braccianti-u6yt8lp1",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Karate, Michael Mollica e la Fortitudo Reggio sul tetto d'Italia: i complimenti di Don Zampaglione",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/karate-michael-mollica-e-la-fortitudo-reggio-sul-tetto-ditalia-i-complimenti-di-don-zampaglione/2104718/",
+      "published": "",
+      "source": "strettoweb.com",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -199,11 +239,37 @@
       "is_high_priority": false
     },
     {
-      "title": "Campo rom di Scordovillo, riunione in Prefettura per fare il punto e accelerare i tempi di smantellamento",
-      "summary": "All’incontro a Catanzaro hanno preso parte la sottosegretaria Ferro e il presidente Occhiuto. Obiettivo delineare i prossimi passaggi per la definitiva delocalizzazione dei nuclei familiari e la demolizione delle dimore fatiscenti",
-      "link": "https://www.lacnews24.it/attualita/campo-rom-di-scordovillo-riunione-in-prefettura-per-accelerare-i-tempi-di-smantellamento-vfa4ja7i",
+      "title": "Messina, la nuova Giunta Basile nasce tra qualche mal di pancia ed equilibrismi politici con vista sulle elezioni regionali",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/messina-la-nuova-giunta-basile-nasce-tra-qualche-mal-di-pancia-ed-equilibrismi-politici-con-vista-sulle-elezioni-regionali/2104703/",
       "published": "",
-      "source": "lacnews24.it",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il premio “Bronzi di Riace” premia l’Arma dei Carabinieri | FOTO",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/il-premio-bronzi-di-riace-premia-larma-dei-carabinieri-foto/2104677/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Lamezia-Catanzaro, proseguono i test ERTMS: passo decisivo per la nuova gestione ferroviaria",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/lamezia-catanzaro-proseguono-i-test-ertms-passo-decisivo-per-la-nuova-gestione-ferroviaria/2104664/",
+      "published": "",
+      "source": "strettoweb.com",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
@@ -212,22 +278,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Rizzetta segue il consiglio di StrettoWeb: sfumata la Reggina, pensa a Praticò e lo porta a cena a Campobasso. La FOTO eloquente e quella battuta di 9 giorni fa...",
+      "title": "Reggio Calabria, Demetrio Marino ricorda Carmelo Caridi: “uomo delle istituzioni, legato alla sua Gallina e alla comunità reggina\"",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/rizzetta-segue-il-consiglio-di-strettoweb-sfumata-la-reggina-pensa-a-pratico-e-lo-porta-a-cena-a-campobasso-la-foto-eloquente-e-quella-battuta-di-9-giorni-fa/2104568/",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-demetrio-marino-ricorda-carmelo-caridi-uomo-delle-istituzioni-legato-alla-sua-gallina-e-alla-comunita-reggina/2104620/",
       "published": "",
       "source": "strettoweb.com",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "\"Italodisco Arena\" conquista Buscemi (Siracusa): Piazza Roma gremita per il live show dei grandi successi",
+      "title": "Nuova Giunta comunale, “Rispetto Messina\": “la città usata come merce di scambio e poltronificio”",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/italodisco-arena-conquista-buscemi-siracusa-piazza-roma-gremita-per-il-live-show-dei-grandi-successi/2104558/",
+      "link": "https://www.strettoweb.com/2026/06/nuova-giunta-comunale-rispetto-messina-la-citta-usata-come-merce-di-scambio-e-poltrronificio/2104600/",
       "published": "",
       "source": "strettoweb.com",
       "section": "mondo",
@@ -238,11 +304,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Malagò parla di Reggina: le parole del neo Presidente Figc su Lotito e multiproprietà",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/malago-parla-di-reggina-le-parole-del-neo-presidente-figc-su-lotito-e-multiproprieta/2104546/",
+      "title": "L'ora in Italia:",
+      "summary": "L'ora in Italia:",
+      "link": "https://time.is/Italy",
       "published": "",
-      "source": "strettoweb.com",
+      "source": "quotidianodelsud.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -251,11 +317,51 @@
       "is_high_priority": false
     },
     {
-      "title": "Il ministro Giuli annuncia: \"l'Ecce Homo farà tappa a Reggio Calabria, Messina e Palermo\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/il-ministro-giuli-annuncia-lecce-homo-fara-tappa-a-reggio-calabria-messina-e-palermo/2104545/",
+      "title": "OPERAZIONE A PADOVADroga e soldi “ripuliti” nelle lavanderie self-service: 14 arrestiSequestrati anche 120mila euro in contanti, pistole, una katana e un taser",
+      "summary": "OPERAZIONE A PADOVA",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/droga-soldi-lavanderie-self-service-padova-sequestri-arresti/",
       "published": "",
-      "source": "strettoweb.com",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti",
+        "droga"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Operazione “Carta Canta”, dissequestrata una porzione di area della Calabria Macerila decisione",
+      "summary": "la decisione",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/operazione-carta-canta-dissequestrata-una-porzione-di-area-della-calabria-maceri/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Arrestato a Manchester un latitante a capo di una organizzazione italo-albanese con ramificazioni in Calabria – VIDEOl’operazione",
+      "summary": "l’operazione",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/arrestato-a-manchester-un-latitante-a-capo-di-una-organizzazione-italo-albanese-con-ramificazioni-in-calabria-video/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Lamezia, Sinistra Italiana: «Crisi evidente nella maggioranza del sindaco Murone»l’affondo",
+      "summary": "l’affondo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/lamezia-sinistra-italiana-crisi-evidente-nella-maggioranza-del-sindaco-murone/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -264,87 +370,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Università Mediterranea, due giornate di studio sulla Terza Missione del dipartimento di Architettura e Design",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/universita-mediterranea-due-giornate-di-studio-sulla-terza-missione-del-dipartimento-di-architettura-e-design/2104532/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Maltempo, dal Consiglio dei Ministri altri 35 milioni per le province di Catania e Messina",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/maltempo-dal-consiglio-dei-ministri-altri-35-milioni-per-le-province-di-catania-e-messina/2104523/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Scuola punisce studenti per lo striscione “L’Italia agli italiani”: italiani divisi tra libertà di espressione, dialogo e sanzioni",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/scuola-punisce-studenti-per-lo-striscione-litalia-agli-italiani-italiani-divisi-tra-liberta-di-espressione-dialogo-e-sanzioni/2104513/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Governo: la fiducia nel Premier Meloni, il 38,7% esprime un giudizio positivo",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/governo-la-fiducia-nel-premier-meloni-il-387-esprime-un-giudizio-positivo/2104493/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Calendario Venatorio 2026/2027, allarme sulla ZPS Costa Viola: “la Regione Calabria chiarisca subito su VINCA e divieti”",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/calendario-venatorio-2026-2027-allarme-sulla-zps-costa-viola-la-regione-calabria-chiarisca-subito-su-vinca-e-divieti/2104473/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Campionato Regionale Nuoto Artistico: l'ASD Gas brilla fra 80 società calabresi",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/campionato-regionale-nuoto-artistico-lasd-gas-brilla-fra-80-societa-calabresi/2104430/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Scontro tra uno scooter e un’auto, muore un 16enne di Bisignano",
-      "summary": "UltimeScontro tra uno scooter e un’auto, muore un 16enne di BisignanoA 10 anni si scontra con la minimoto contro un SuvDa ore non si hanno notizie di una donna di 91 anni, grande apprensione nella Locride«Il disaccordo tra i leader non significa disaccordo tra i paesi»«L’Asp annuncia l’Ospedale di C...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/scontro-tra-uno-scooter-e-unauto-muore-un-16enne-di-bisignano/",
+      "title": "Crotone, è l’ora delle scelte: Longo tra Foggia e Catania. Società al lavoro per il nuovo corsofuturo rossoblù",
+      "summary": "futuro rossoblù",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/crotone-e-lora-delle-scelte-longo-tra-foggia-e-catania-societa-al-lavoro-per-il-nuovo-corso/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -355,23 +383,61 @@
       "is_high_priority": false
     },
     {
-      "title": "la polemica trump-meloni«Il disaccordo tra i leader non significa disaccordo tra i paesi»L’ambasciatore Usa Fertitta: resta una fortissima partnership",
-      "summary": "la polemica trump-meloni",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/il-disaccordo-tra-i-leader-non-significa-disaccordo-tra-i-paesi/",
+      "title": "Catanzaro-Turati, si attende solo l’annuncio. Staff già definitonuovo tecnico in arrivo",
+      "summary": "nuovo tecnico in arrivo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/catanzaro-turati-si-attende-solo-lannuncio-staff-gia-definito/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader",
-        "superpotenze"
+        "mondo"
       ],
       "is_high_priority": false
     },
     {
-      "title": "le proposteOcchiuto: «Più università e “scatti di futuro” per trattenere i giovani. Sanità? Servono riforme»Il presidente della Regione al congresso Uil: «Basta con la “sindrome di Calimero”, la Calabria può essere un modello». Presto novità sulle liste di attesa",
-      "summary": "le proposte",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/occhiuto-piu-universita-e-scatti-di-futuro-per-trattenere-i-giovani-sanita-servono-riforme/",
+      "title": "Violenza e resistenza in un villaggio turistico, un arresto a Isola Capo Rizzutola misura",
+      "summary": "la misura",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/violenza-e-resistenza-in-un-villaggio-turistico-un-arresto-a-isola-capo-rizzuto/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Eros Ramazzotti è ufficialmente cittadino onorario di JoppoloMeraviglie di Calabria",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.meravigliedicalabria.it/eros-ramazzotti-e-ufficialmente-cittadino-onorario-di-joppolo/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "l’eventoTricologia, a Catanzaro il primo grande congresso del Sud Italia",
+      "summary": "l’evento",
+      "link": "https://www.corrieredellacalabria.it/2026/06/22/tricologia-a-catanzaro-il-primo-grande-congresso-del-sud-italia/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Espulsione eseguita a Crotone: brasiliano rimpatriato e stop al rientro per tre anniIrregolare in Italia",
+      "summary": "Irregolare in Italia",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/espulsione-eseguita-a-crotone-brasiliano-rimpatriato-e-stop-al-rientro-per-tre-anni/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "italia",
@@ -395,50 +461,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Galati: «Il Consiglio di Stato conferma il voto, la democrazia non si ribalta nei tribunali»ricorsi respinti",
-      "summary": "ricorsi respinti",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/galati-il-consiglio-di-stato-conferma-il-voto-la-democrazia-non-si-ribalta-nei-tribunali/",
+      "title": "Clima, le città italiane in cui si vive meglio. Vibo Valentia sul podio“Vince Ancona, seguita da  Bari e la città vibonese. Male il Nord, mentre il Sud domina per vivibilità climatica. Reggio Calabria tra le ultime per “n…23 Giugno, 13:03",
+      "summary": "“Vince Ancona, seguita da  Bari e la città vibonese. Male il Nord, mentre il Sud domina per vivibilità climatica. Reggio Calabria tra le ultime per “n…",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/clima-le-citta-italiane-in-cui-si-vive-meglio-vibo-valentia-sul-podio/",
       "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Gli affari dei clan a Roma tra summit e strategie sotto la diarchia Carzo-Alvaro: così la ‘ndrangheta ha colonizzato la Capitalela mappa della penetrazione",
-      "summary": "la mappa della penetrazione",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/gli-affari-dei-clan-a-roma-tra-summit-e-strategie-sotto-la-diarchia-carzo-alvaro-cosi-la-ndrangheta-ha-colonizzato-la-capitale/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Nel borsello una calibro 38 pronta a sparare, arrestato dai carabinieri nel Catanzarese – VIDEO00:53",
-      "summary": "00:53",
-      "link": "https://www.corrieredellacalabria.it/2026/06/17/nel-borsello-una-calibro-38-pronta-a-sparare-arrestato-dai-carabinieri-nel-catanzarese-video/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "l’eventoTricologia, a Catanzaro il primo grande congresso del Sud Italia",
-      "summary": "l’evento",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/tricologia-a-catanzaro-il-primo-grande-congresso-del-sud-italia/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
+      "source": "corrieredellacalabria.it-cronaca",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -447,36 +474,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Sorpreso con un “kit” per lo smercio di droga in casa, un arresto nel Cosentinocontrolli antidroga",
-      "summary": "controlli antidroga",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/sorpreso-con-un-kit-per-lo-smercio-di-droga-in-casa-un-arresto-nel-cosentino/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti",
-        "droga"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "«Il disaccordo tra i leader non significa disaccordo tra i paesi»“L’ambasciatore Usa Fertitta: resta una fortissima partnership22 Giugno, 21:55",
-      "summary": "“L’ambasciatore Usa Fertitta: resta una fortissima partnership",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/il-disaccordo-tra-i-leader-non-significa-disaccordo-tra-i-paesi/",
+      "title": "Napoli, 21enne incensurato ucciso davanti casa“Indagano i carabinieri, dinamica ancora da chiarire23 Giugno, 12:50",
+      "summary": "“Indagano i carabinieri, dinamica ancora da chiarire",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/napoli-21enne-incensurato-ucciso-davanti-casa/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
-      "section": "mondo",
+      "section": "crime_italy",
       "priority": 0,
       "categories": [
-        "superpotenze"
+        "crime_italy"
       ],
       "is_high_priority": false
     },
     {
-      "title": "UltimeLamezia, Wanda Ferro (FdI) avverte il sindaco: \"Si è incrinato rapporto di fiducia con il nostro partito\"",
+      "title": "UltimoraSgombero campo rom, cinque sindaci del Lametino chiedono incontro urgente: \"Preoccupazione e perplessità su iter\"",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lametino.it/ultime/lamezia-wanda-ferro-fdi-avverte-il-sindaco-si-e-inclinato-rapporto-di-fiducia-con-nostro-partito.html",
+      "link": "https://www.lametino.it/ultimora/sgombero-campo-rom-cinque-sindaci-del-lametino-chiedono-incontro-urgente-preoccupazione-e-perplessita-su-iter.html",
       "published": "",
       "source": "lametino.it",
       "section": "mondo",
@@ -487,53 +500,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Trump ancora all’attacco: “L’Italia si è comportata molto male, noi abbiamo speso miliardi per la Nato”",
-      "summary": "Proprio mentre Giorgia Meloni sceglie la strada della diplomazia decidendo di inviare i vicepremier alla festa del 4 luglio all&#8217;ambasciata Usa, Donald Trump torna ad attaccare l&#8217;Italia. &#8220;L&#8217;Italia si è comportata molto male&#8220;, ha dichiarato il presidente americano parland",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/trump-ancora-allattacco-litalia-si-e-comportata-molto-male-noi-abbiamo-speso-miliardi-per-la-nato/8426891/",
-      "published": "Mon, 22 Jun 2026 20:52:27 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "guerre",
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Ucraina, la guerra al petrolio di Putin arriva fino in Siberia: colpita una raffineria russa a 2mila km dal confine",
-      "summary": "Un nuovo attacco ucraino alle raffinerie russe, ma questa volta la notizia è che i due droni che hanno colpito l&#8217;impianto dove viene lavorato il greggio del Cremlino è quello di Tjumén, regione che si trova nel cuore della Siberia, a ben 2mila chilometri di distanza dal confine con il Paese di",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/ucraina-la-guerra-al-petrolio-di-putin-arriva-fino-in-siberia-colpita-una-raffineria-russa-a-2mila-km-dal-confine/8426521/",
-      "published": "Mon, 22 Jun 2026 19:14:18 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "guerre",
-        "leader",
-        "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Leggi ad personam, affari, ostilità contro le regole della legalità: Travaglio e Corrias presentano Berlusconi Files. “I media padronali hanno resettato la memoria sui suoi disastri”",
-      "summary": "&#8220;Tre anni fa ho scritto Il Santo, prevedendo che dopo la sua morte avrebbero iniziato a beatificarlo&#8221;. Marco Travaglio alla Paper Fest di Carrara presenta con Pino Corrias Berlusconi Files, il libro di Paper First che rimette in fila la storia dell’ex presidente del Consiglio: affari, pr",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/berlusconi-files-travaglio-corrias-leggi-personam-notizie/8426641/",
-      "published": "Mon, 22 Jun 2026 18:52:02 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Slitta da luglio a ottobre la tassa italiana da 2 euro sui piccoli pacchi. Ma scatterà quella Ue da 3 euro per ogni oggetto",
-      "summary": "Slitta di tre mesi l&#8217;entrata in vigore del contributo amministrativo da 2 euro sui pacchi di valore inferiore a 150 euro provenienti da Paesi extra Ue. Il Consiglio dei ministri di lunedì ha approvato una proroga che sposta l&#8217;applicazione della tassa dal 1° luglio al 1° ottobre. Il contr",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/tassa-pacchi-cina-rinvio-ottobre-notizie/8426686/",
-      "published": "Mon, 22 Jun 2026 18:42:36 +0000",
+      "title": "Mercato auto Europa, a maggio crescita del 3,4%. Cinesi oltre il 10% di quota",
+      "summary": "A maggio il mercato europeo dell&#8217;auto ha confermato il trend positivo già visto nei mesi precedenti. Secondo i dati relativi a Unione Europea, Regno Unito e Paesi Efta, le immatricolazioni sono cresciute del 3,4% rispetto allo stesso mese del 2025, portando il bilancio dei primi cinque mesi de",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/mercato-auto-europa-a-maggio-crescita-del-34-cinesi-oltre-il-10-di-quota/8427285/",
+      "published": "Tue, 23 Jun 2026 11:35:00 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -543,62 +513,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Gli Usa autorizzano produzione e vendita di petrolio iraniano: annullati 40 anni di sanzioni",
-      "summary": "Petrolio iraniano di nuovo autorizzato, almeno per 60 giorni. Il segretario al Tesoro Usa Scott Bessent ha infatti annunciato una licenza generale temporanea che autorizza &#8220;la produzione, la consegna e la vendita di petrolio iraniano&#8221;. Per capire la portata dell&#8217;annuncio va ricorda",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/sanzioni-petrolio-iraniano-usa-sospese-notizie/8426689/",
-      "published": "Mon, 22 Jun 2026 18:26:04 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Bambino su una minimoto travolto da una Jeep: morto a 10 anni nell’Avellinese",
-      "summary": "Un bambino di dieci anni è morto in un incidente stradale avvenuto nel pomeriggio in provincia di Avellino. Il piccolo era alla guida della sua moto minicross che si è scontrata con una Jeep sulla provinciale che collega il comune di Moschiano, di cui era originaria la vittima, e quello di Lauro. L&",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/bambino-morto-incidente-stradale-avellino-minimoto-jeep/8426695/",
-      "published": "Mon, 22 Jun 2026 18:00:25 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Qatargate, “mandato d’arresto per l’ex commissario Ue greco Dimitris Avramopoulos”",
-      "summary": "Partecipazione a un&#8217;organizzazione criminale. È con questa accusa che la Procura belga che indaga sullo scandalo delle mazzette in Ue del 2022 ribattezzato Qatargate ha emesso, secondo quanto scrive Kathimerini, un mandato d&#8217;arresto europeo nei confronti dell&#8217;ex commissario greco d",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/qatargate-mandato-arresto-avramopoulos-notizie/8426677/",
-      "published": "Mon, 22 Jun 2026 17:57:57 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Stalking e lesioni all’ex compagna: confermata in appello la condanna a 10 mesi per Enrico Varriale",
-      "summary": "È stata confermata in appello la condanna a 10 mesi, pena sospesa, per il giornalista televisivo Enrico Varriale, imputato per stalking e lesioni nei confronti della sua ex. I giudici della prima sezione penale della Corte di Appello di Roma hanno ribadito la sentenza emessa nel giugno dello scorso ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/varriale-condanna-appello-stalking-confermata-10-mesi/8426630/",
-      "published": "Mon, 22 Jun 2026 17:21:48 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Il nuovo Renzi, Schlein e l’anti-lingua, Trump primitivo”: Daniela Ranieri presenta a Paper Fest il suo “manuale di resistenza al linguaggio dei politici”",
-      "summary": "&#8220;Decodificare le strategie linguistiche della politica vuol dire ribaltare i rapporti di forza e ripristinare, in definitiva, la democrazia&#8221;. Alla terza edizione di Paper Fest di Carrara, Daniela Ranieri presenta &#8220;Ma come parli?!&#8221;, il suo &#8220;manuale di resistenza al lingu",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/linguaggio-politici-ranieri-paper-fest-notizie/8426571/",
-      "published": "Mon, 22 Jun 2026 17:20:40 +0000",
+      "title": "“I felt sorry for her”: ecco l’audio originale della telefonata tra il giornalista Compatangelo e Trump su Meloni",
+      "summary": "In esclusiva su La7, durante la trasmissione L’Aria che tira è stato mandato in onda l’audio integrale della telefonata tra Donald Trump e il giornalista Daniele Compatangelo, dopo il via libera arrivato dal governo americano, che ha autorizzato la diffusione delle voci originali del colloquio. Nei ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/esclusivo-la7-trump-meloni/8427308/",
+      "published": "Tue, 23 Jun 2026 11:23:53 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -608,10 +526,10 @@
       "is_high_priority": false
     },
     {
-      "title": "“Turandot” tra trolley e passeggeri all’aeroporto di Cagliari: scatta il flash mob a sorpresa – IL VIDEO",
-      "summary": "Un insolito flash mob ha animato questa mattina l&#8217;aeroporto di Cagliari-Elmas, dove i passeggeri in attesa nell&#8217;area partenze si sono trovati catapultati nell&#8217;incantevole mondo della Turandot. L&#8217;opera lirica di Giacomo Puccini ha fatto così il suo ingresso trionfale in Sardeg",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/turandot-tra-trolley-e-passeggeri-allaeroporto-di-cagliari-scatta-il-flash-mob-a-sorpresa-il-video/8426470/",
-      "published": "Mon, 22 Jun 2026 17:04:45 +0000",
+      "title": "Pier Ferdinando Casini ironizza sui ritardi dei treni postando una foto dalla stazione: “Solita bella puntualità”",
+      "summary": "Due borsoni a tracolla, occhi sgranati e sullo sfondo il tabellone delle partenze della stazione ferroviaria con un lungo elenco di treni in ritardo, dai 20 minuti fino a oltre tre ore. È la foto che Pier Ferdinando Casini ha postato su Instagram per lamentarsi dei disagi commentando con un laconico",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/casini-ritardi-treni-caos-ferroviario-notizie/8427289/",
+      "published": "Tue, 23 Jun 2026 11:22:42 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -621,10 +539,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Sinner riparte dopo lo stop: debutto sull’erba al “Giorgio Armani Tennis Classic” | Quando gioca e dove vederlo in tv e streaming",
-      "summary": "Da quel 28 maggio non si è più visto in campo in match ufficiali e non si vedrà fino al primo turno di Wimbledon, ma c&#8217;è grande attesa per il ritorno di Jannik Sinner al &#8220;Giorgio Armani Tennis Classic&#8221;, prestigiosa esibizione sull&#8217;erba all&#8217;Hurlingham Club di Londra, che",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/sinner-giorgio-armani-tennis-classic-quando-gioca-dove-vedere-tv-streaming-orari/8426550/",
-      "published": "Mon, 22 Jun 2026 16:48:24 +0000",
+      "title": "“Signor presidente…”. “Signora deputata…”. Botta e risposta alla Camera tra Anna Ascani (Pd) e il vannacciano Pozzolo",
+      "summary": "Momenti di tensione in Aula alla Camera. Nella tarda serata di ieri, durante le votazioni sugli odg sul piano casa, c&#8217;è stato un acceso botta e risposta tra la presidente di turno Anna Ascani (Pd) e Emanuele Pozzolo (FnV). Il vannacciano a un certo punto si è rivolto ad Ascani chiamandola ripe",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/pozzolo-ascani-signor-presidente-scontro-camera-notizie/8427287/",
+      "published": "Tue, 23 Jun 2026 11:22:13 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -634,10 +552,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Sanzioni, lo yacht sequestrato all’oligarca? Ora bisogna pagare pure il tagliando: la spesa totale sale a 40 milioni",
-      "summary": "“Un caso raro di sanzioni contro se stessi”. C’è tutto lo spirito triestino, caustico e irriverente, nella battuta che senti sul molo San Carlo (chiamato anche Audace) all’ora del tramonto. Lì davanti, in mezzo al golfo, ecco l’oggetto dell’ironia: il più grande yacht a vela del mondo. “A”, si chiam",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/22/yacht-melnichenko-sequestro-trieste-notizie/8422051/",
-      "published": "Mon, 22 Jun 2026 16:35:52 +0000",
+      "title": "Nick Cave: “I fan anziani mi chiedono i selfie, che odio. La sola differenza tra me e questi vecchi rincoglioniti con la dentiera è che io mi tingo i capelli di nero”",
+      "summary": "Nick Cave è tornato a farsi sentire sulla piattaforma The Red Hand Files, dove risponde personalmente e approfonditamente alle lettere inviate dai fan. Il tema toccato dall&#8217;artista stavolta è la voglia spasmodica dei fan di fare i selfie con l&#8217;artista. La premessa è doverosa: &#8220;Odio",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/nick-cave-i-fan-anziani-mi-chiedono-i-selfie-che-odio-la-sola-differenza-tra-me-e-questi-vecchi-rincoglioniti-con-la-dentiera-e-che-io-mi-tingo-i-capelli-di-nero/8427242/",
+      "published": "Tue, 23 Jun 2026 10:54:52 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -647,50 +565,88 @@
       "is_high_priority": false
     },
     {
-      "title": "Trump ribadisce le accuse all’Italia. Meloni: «Lo scontro non impatti sui rapporti con gli Usa»",
-      "summary": "Donald Trump ha ribadito le accuse all’Italia e agli altri alleati della Nato. «L’Italia si è comportata molto male», ha detto il presidente Usa nello Studio Ovale. E poi rivolto...",
-      "link": "https://www.ilsole24ore.com/art/meloni-cdm-scontro-trump-non-impatti-rapporti-gli-usa-AIk1XsoD",
-      "published": "Mon, 22 Jun 2026 17:22:00 GMT",
-      "source": "ilsole24ore.com",
+      "title": "Da “Off Campus” all’amore vero: Josh Heuston e Mika Abdalla “paparazzati” in atteggiamenti intimi a Parigi",
+      "summary": "C&#8217;è chi aspetta la seconda stagione di Off Campus e chi, nel frattempo, segue con attenzione una trama che sembra svilupparsi lontano dal set. Nelle ultime ore i riflettori si sono accesi su Josh Heuston e Mika Abdalla, protagonisti della serie romance di Prime Video, dopo la comparsa online d",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/da-off-campus-allamore-vero-josh-heuston-e-mika-abdalla-paparazzati-in-atteggiamenti-intimi-a-parigi/8427095/",
+      "published": "Tue, 23 Jun 2026 09:59:36 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader",
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La Rai cancella il programma di Stefano Bollani e Valentina Cenni, Via dei Matti numero 0. Loro sui social: “Avremmo voluto darvi una buona notizia, ma non è così”",
+      "summary": "La Rai ha deciso di cancellare dai palinsesti della prossima stagione &#8220;Via dei Matti numero 0&#8220;, il programma condotto da Stefano Bollani e Valentina Cenni. Lo show, apprezzato dalla critica e dal pubblico, aveva debuttato a marzo 2021 su Rai3 ed è stato trasmesso per cinque stagioni. &#8",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/la-rai-cancella-il-programma-di-stefano-bollani-e-valentina-cenni-via-dei-matti-numero-0-loro-sui-social-avremmo-voluto-darvi-una-buona-notizia-ma-non-e-cosi/8427173/",
+      "published": "Tue, 23 Jun 2026 09:55:13 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il momento d’oro di Marc Marquez: rinnova con la Ducati dopo le 2 vittorie consecutive. “È il posto giusto per raggiungere i miei obiettivi”",
+      "summary": "Prima la vittoria in Ungheria, poi quella a Brno, infine il rinnovo in Ducati. Per Marc Marquez è un momento d&#8217;oro. Il pilota infatti rimarrà in Ducati anche nel 2027 e nel 2028, con l&#8217;ufficialità del rinnovo arrivata nella mattinata del 23 giugno. Dopo un periodo complicato a causa di a",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/marc-marquez-rinnovo-ducati-2028-convinto-che-questo-sia-il-posto-giusto-per-raggiungere-obiettivi-piu-ambiziosi/8427148/",
+      "published": "Tue, 23 Jun 2026 09:37:18 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
         "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Mini pacchi, arriva la proroga della tassa di 2 euro fino al 1° ottobre",
-      "summary": "Prelievo in stand by fino all’applicazione del prelievo di gestione in vigore in tutta la Ue entro novembre",
-      "link": "https://www.ilsole24ore.com/art/mini-pacchi-arriva-proroga-tassa-2-euro-fino-2-ottobre-AIVYjhoD",
-      "published": "Mon, 22 Jun 2026 17:16:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "La nuova piattaforma 24 ORE NextMed entra nella sua piena dimensione multimediale",
-      "summary": "Così il Gruppo Il Sole 24 ORE accende un faro strategico permanente sul futuro del Mediterraneo allargato. Dal 22 giugno debutta online l’hub digitale 24orenextmed.com con contenuti esclusivi in italiano, inglese e arabo. Il 24 giugno parte il podcast “Nome in codice”, il 25 giugno la serie video “C",
-      "link": "https://www.ilsole24ore.com/art/la-nuova-piattaforma-24-ore-nextmed-entra-sua-piena-dimensione-multimediale-AIGnUioD",
-      "published": "Mon, 22 Jun 2026 15:28:51 GMT",
+      "title": "Strage dei giovani sulle strade, vertice Salvini-Piantedosi. Il governo lavora a un piano",
+      "summary": "Il ministro dei Trasporti: «Sono ancora troppi i ragazzi che non tornano a casa e quindi vorrei trovare il modo di raggiungerli tutti e di incontrarli»",
+      "link": "https://www.ilsole24ore.com/art/strage-giovani-strade-vertice-salvini-piantedosi-governo-lavora-un-piano-AIOqxmoD",
+      "published": "Tue, 23 Jun 2026 10:33:35 GMT",
       "source": "ilsole24ore.com",
       "section": "italia",
       "priority": 0,
       "categories": [
-        "italia"
+        "politica"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Piano Casa approvato alla Camera: novità su affitti calmierati, fondi esteri e sostegno ai dipendenti pubblici",
-      "summary": "La Camera approva la legge di conversione del decreto che a questo punto è blindato",
-      "link": "https://www.ilsole24ore.com/art/piano-casa-si-fiducia-affitti-fondi-esteri-e-dipendenti-pa-novita-AIxCERoD",
-      "published": "Mon, 22 Jun 2026 12:55:00 GMT",
+      "title": "80 anni dalla Costituente, il 25 giugno cerimonia alla Camera con Mattarella, Meloni e La Russa",
+      "summary": "L’appuntamento sarà trasmesso in diretta su Rai 1 e sulla webTv della Camera dalle 10:15, con l’accoglienza al Capo dello Stato e la visita alla mostra “1946: nasce la Repubblica, l’Assemblea Costituente a Montecitorio”",
+      "link": "https://www.ilsole24ore.com/art/80-anni-costituente-25-giugno-cerimonia-camera-mattarella-meloni-e-russa-AITsxQpD",
+      "published": "Tue, 23 Jun 2026 10:25:51 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Regeni, la Procura di Roma: «Esercizio metodico e freddo della violenza su un uomo inerme»",
+      "summary": "Dieci anni e mezzo di attesa per arrivare all’aula bunker di Rebibbia. Oggi la Procura di Roma ha svolto la requisitoria nel processo a carico di quattro appartenenti ai servizi...",
+      "link": "https://www.ilsole24ore.com/art/regeni-procura-roma-esercizio-metodico-e-freddo-violenza-un-uomo-inerme-AIrLHTpD",
+      "published": "Tue, 23 Jun 2026 09:24:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Evasione e frodi, sequestrati 4,7 miliardi di euro nell’ultimo anno e mezzo",
+      "summary": "Quasi cinque miliardi di euro disponibilità patrimoniali e finanziarie sequestrate perché ritenute profitto di evasione e frodi fiscali. Ma non solo: più di cento milioni di euro in criptovalute sottoposte...",
+      "link": "https://www.ilsole24ore.com/art/evasione-e-frodi-sequestrati-47-miliardi-euro-nell-ultimo-anno-e-mezzo-AIpa0PpD",
+      "published": "Tue, 23 Jun 2026 08:30:30 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -700,35 +656,48 @@
       "is_high_priority": false
     },
     {
-      "title": "La nave Yasa Moon del gruppo D’Amico esce dal Golfo Persico grazie alla Marina Militare",
-      "summary": "Nota del gruppo. L’operazione costituisce il primo dispiegamento operativo di fatto della Marina italiana nell’area di Hormuz dopo l’intesa tra Usa e Iran, in sinergia con la Marina americana",
-      "link": "https://www.ilsole24ore.com/art/d-amico-grazie-marina-il-supporto-all-uscita-yasa-moon-golfo-persico-AI9u5PoD",
-      "published": "Mon, 22 Jun 2026 11:37:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "ndrangheta",
+      "title": "Trump anticipates better relationship with Colombia under new leader",
+      "summary": "Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement. ",
+      "link": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 10:27:04 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "arresti"
+        "leader"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Dalla crisi dell’ottobre 1985 al no di marzo ai caccia, Sigonella ancora una volta centro dello scontro Italia-Usa",
-      "summary": "Spiri (Luiss): «In forme diverse, tanto nel 1985 quanto nel 2026 a Washington emerge la convinzione di poter contare in via preventiva sul consenso di Roma»",
-      "link": "https://www.ilsole24ore.com/art/dalla-crisi-dell-ottobre-1985-no-marzo-caccia-sigonella-ancora-volta-centro-scontro-italia-e-stati-uniti-AIZIDdnD",
-      "published": "Mon, 22 Jun 2026 07:02:00 GMT",
-      "source": "ilsole24ore.com",
+      "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+      "summary": "The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\".",
+      "link": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 08:05:07 GMT",
+      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Inquiry ordered after building fire kills 15 in north India city",
+      "summary": "Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 06:37:24 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
     {
       "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
       "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
-      "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 21 Jun 2026 23:57:59 GMT",
       "source": "bbc.com",
       "section": "mondo",
@@ -741,7 +710,7 @@
     {
       "title": "Trump-backed political outsider wins Colombia election, initial count shows",
       "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
-      "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 03:31:40 GMT",
       "source": "bbc.com",
       "section": "mondo",
@@ -754,7 +723,7 @@
     {
       "title": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
       "summary": "Despite a multi-million dollar renovation, the Washington DC landmark has peeling paint and algae. Trump claims vandals are partly to blame.",
-      "link": "https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 00:54:43 GMT",
       "source": "bbc.com",
       "section": "mondo",
@@ -765,35 +734,35 @@
       "is_high_priority": false
     },
     {
-      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
-      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
-      "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 02:33:30 GMT",
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 23:31:21 GMT",
       "source": "bbc.com",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-      "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 10:55:05 GMT",
+      "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
+      "summary": "The case from Begusarai in Bihar comes close in brutality to that inflicted on a woman during a sexual assault in 2012.",
+      "link": "https://www.bbc.co.uk/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 22:03:54 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "ucraina-russia"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
       "title": "Is Germany looking again at coal-powered electricity?",
       "summary": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
-      "link": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 21 Jun 2026 23:27:11 GMT",
       "source": "bbc.com",
       "section": "mondo",
@@ -806,7 +775,7 @@
     {
       "title": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
       "summary": "As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.",
-      "link": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 21 Jun 2026 23:44:31 GMT",
       "source": "bbc.com",
       "section": "mondo",
@@ -817,80 +786,15 @@
       "is_high_priority": false
     },
     {
-      "title": "At CrimeCon true crime obsessives come face-to-face with real loss",
-      "summary": "Victims' families say there are ways to be an ethical true-crime fan - not an exploitative one.",
-      "link": "https://www.bbc.com/news/articles/cr47z6ykp2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 23:26:45 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 10:19:34 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
-      "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
-      "link": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 01:29:32 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Will Putin change tactics after Ukrainian drone attacks?",
       "summary": "Steve Rosenberg explains what Russia's next steps may be after frequent Ukrainian drone attacks.",
-      "link": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 18 Jun 2026 10:52:38 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "leader",
-        "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Moment Trump signs US-Iran agreement at Palace of Versailles",
-      "summary": "The 14-point Memorandum of Understanding was signed at a post-G7 dinner in France.",
-      "link": "https://www.bbc.com/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 01:59:38 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
-      "summary": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
-      "link": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 22:01:34 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
         "ucraina-russia"
       ],
       "is_high_priority": false
