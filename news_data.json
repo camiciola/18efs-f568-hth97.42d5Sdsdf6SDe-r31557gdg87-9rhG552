@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-23T19:24:17.725594",
-  "total_news": 78,
+  "last_update": "2026-06-23T23:38:38.397956",
+  "total_news": 82,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -172,21 +172,20 @@
       "is_high_priority": false
     },
     {
-      "title": "Usa, Trump ancora in calo nei sondaggi, il gradimento del presidente scende al 30%",
+      "title": "Medea, la lunga notte: al Teatro del museo e parco archeologico di Locri nuova tappa di Borghi in scena",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/italia-mondo/usa-trump-ancora-in-calo-nei-sondaggi-il-gradimento-del-presidente-scende-al-30-b6qzzxyh",
+      "link": "https://www.lacnews24.it/lacalabriavisione/eventi/medea-la-lunga-notte-al-teatro-del-museo-e-parco-archeologico-di-locri-nuova-tappa-di-borghi-in-scena-vvpzb25y",
       "published": "",
       "source": "lacnews24.it",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "leader",
-        "superpotenze"
+        "generico"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Sanità, il M5s: «Fine del commissariamento in Calabria? Il governo Meloni fa favori agli amici»",
+      "title": "Sanità, il M5s: «Fine del commissariamento in Calabria? Il governo Melonifa favori agli amici»",
       "summary": "I parlamentari delle commissioni Affari sociali di Camera e Senato contestano la decisione dell’esecutivo di far uscire la Calabria dal regime commissariale, richiamando i rilievi della Corte dei Conti e le criticità ancora presenti nel sistema sanitario regionale",
       "link": "https://www.lacnews24.it/politica/sanita-il-m5s-fine-del-commissariamento-in-calabria-il-governo-meloni-fa-favori-agli-amici-e1yr2eas",
       "published": "",
@@ -260,6 +259,45 @@
       "priority": 0,
       "categories": [
         "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Messina, voto di scambio politico-mafioso: sospeso il sindaco di Spadafora",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/messina-voto-di-scambio-politico-mafioso-sospeso-il-sindaco-di-spadafora/2104994/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Catania, il sindaco Trantino insegue un borseggiatore nei vicoli di San Berillo Vecchio",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/catania-il-sindaco-trantino-insegue-un-borseggiatore-nei-vicoli-di-san-berillo-vecchio/2104988/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Gioia Tauro, torna \"Borgo diVino\": due serate tra vini calabresi, struncatura, street food e musica",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/gioia-tauro-torna-borgo-divino-due-serate-tra-vini-calabresi-struncatura-street-food-e-musica/2104981/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -344,32 +382,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Pesca illegale nel Tirreno calabrese, sequestrati 19 chilometri di reti vietate",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/pesca-illegale-nel-tirreno-calabrese-sequestrati-19-chilometri-di-reti-vietate/2104850/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Messina, Basile ha partecipato a Roma al Coordinamento dei Sindaci dei Comuni capoluogo e delle Città metropolitane",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/messina-basile-ha-partecipato-a-roma-al-coordinamento-dei-sindaci-dei-comuni-capoluogo-e-delle-citta-metropolitane/2104833/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -383,15 +395,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Catanzaro, Pitaro lancia “Punto di svolta“ (e sé stesso…). E’ un “alert” per Pd, centrosinistra e Fiorita",
-      "summary": "UltimeCatanzaro, Pitaro lancia “Punto di svolta“ (e sé stesso…). E’ un “alert” per Pd, centrosinistra e FioritaDomani allerta gialla in 7 regioni (anche in Calabria)Nuova aggressione nel carcere di Rossano, agente finisce in ospedaleReggio Calabria, controlli della Polizia Locale tra abusivismo e al...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/catanzaro-pitaro-lancia-punto-di-svolta-e-se-stesso-e-un-alert-per-pd-centrosinistra-e-fiorita/",
+      "title": "Calabria al femminile, a Zambrone il museo diffuso delle donne che hanno fatto la storia",
+      "summary": "UltimeCalabria al femminile, a Zambrone il museo diffuso delle donne che hanno fatto la storiaLamezia, il Pd convoca un’assemblea pubblica sulle difficoltà dell’amministrazione MuroneSpiagge di Reggio, parte il piano di pulizia straordinaria. Cannizzaro: «Recuperiamo il tempo perso»Meloni: «Colpita ...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/calabria-al-femminile-a-zambrone-il-museo-diffuso-delle-donne-che-hanno-fatto-la-storia/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "arresti"
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -405,6 +417,19 @@
       "priority": 0,
       "categories": [
         "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "gli incastriIl futuro di Forza Italia, l’avanzata di due governatori e il «fattore Marina»L’analisi de l’Espresso sulla leadership in casa azzurra",
+      "summary": "gli incastri",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/il-futuro-di-forza-italia-lavanzata-di-due-governatori-e-il-fattore-marina/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -539,33 +564,59 @@
       "is_high_priority": false
     },
     {
-      "title": "Capistrano, via libera al «super regolamento antimafia» sugli appalti pubbliciil provvedimento",
-      "summary": "il provvedimento",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/capistrano-via-libera-al-super-regolamento-antimafia-sugli-appalti-pubblici/",
+      "title": "Lamezia, il Pd convoca un’assemblea pubblica sulle difficoltà dell’amministrazione Muroneil dibattito",
+      "summary": "il dibattito",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/lamezia-il-pd-convoca-unassemblea-pubblica-sulle-difficolta-dellamministrazione-murone/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "crime_italy",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "crime_italy"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Uil Calabria, Mariaelena Senese confermata segretaria generale. «Saremo il rumore della società»“Su proposta di Pierpaolo Bombardieri, il congresso ha rinnovato all’unanimità il mandato della dirigente sindacale e ha nominato la nuova segreteria…23 Giugno, 19:43",
-      "summary": "“Su proposta di Pierpaolo Bombardieri, il congresso ha rinnovato all’unanimità il mandato della dirigente sindacale e ha nominato la nuova segreteria…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/uil-calabria-mariaelena-senese-confermata-segretaria-generale-saremo-il-rumore-della-societa/",
+      "title": "Meloni: «Colpita da Trump, politica non è Temptation Island»“Così la premier a “Il giorno de La Verità”23 Giugno, 22:09",
+      "summary": "“Così la premier a “Il giorno de La Verità”",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/meloni-colpita-da-trump-politica-non-e-temptation-island/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "leader"
       ],
       "is_high_priority": false
     },
     {
-      "title": "UltimoraSgombero campo rom, cinque sindaci del Lametino chiedono incontro urgente: \"Preoccupazione e perplessità su iter\"",
+      "title": "Catanzaro, Pitaro lancia “Punto di svolta“ (e sé stesso…). E’ un “alert” per Pd, centrosinistra e Fiorita“Presentato in una convention molto affollata il movimento civico (ma già soggetto politico a tutti gli effetti). «Qui persone che vogliono rimboccars…23 Giugno, 21:02",
+      "summary": "“Presentato in una convention molto affollata il movimento civico (ma già soggetto politico a tutti gli effetti). «Qui persone che vogliono rimboccars…",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/catanzaro-pitaro-lancia-punto-di-svolta-e-se-stesso-e-un-alert-per-pd-centrosinistra-e-fiorita/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "SportLamezia, taglio del nastro per il nuovo Palascherma con il presidente federale Mazzone",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lametino.it/sport/lamezia-taglio-del-nastro-per-il-nuovo-palascherma-con-il-presidente-federale-mazzone.html",
+      "published": "",
+      "source": "lametino.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sgombero campo rom, cinque sindaci del Lametino chiedono incontro urgente: \"Preoccupazione e perplessità su iter\"",
       "summary": "Clicca per leggere l'articolo completo",
       "link": "https://www.lametino.it/ultimora/sgombero-campo-rom-cinque-sindaci-del-lametino-chiedono-incontro-urgente-preoccupazione-e-perplessita-su-iter.html",
       "published": "",
@@ -578,15 +629,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Strage braccianti Amendolara, legali indagati: \"Movente legato a fatti personali\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lametino.it/cronaca/strage-braccianti-amendolara-legali-indagati-movente-legato-a-fatti-personali.html",
-      "published": "",
-      "source": "lametino.it",
-      "section": "italia",
+      "title": "“Tutti imploreremo l’estinzione. La rovina è il nostro ultimo invito”: MUSE apocalittici in “The Wow! Signal”",
+      "summary": "Inarrestabili MUSE. La band sta per partire per il tour nordamericano negli anfiteatri dal 2 luglio, ma nel frattempo pubblica il 26 giugno il nuovo album “The Wow! Signal”, trainato dai singoli “Cryogen”, “Be With You” e l&#8217;ultimo “Nightshift Superstar”. Il titolo “The Wow! Signal” non è scelt",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/tutti-imploreremo-lestinzione-la-rovina-e-il-nostro-ultimo-invito-muse-apocalittici-in-the-wow-signal/8427636/",
+      "published": "Tue, 23 Jun 2026 22:01:44 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "italia"
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "L’Islanda riprende a cacciare le balene dopo due anni di stop: la carne finisce nei piatti dei turisti",
+      "summary": "Due balene sono state uccise al largo delle coste islandesi due giorni dopo la ripresa della caccia commerciale, che ha posto fine a una pausa di alcuni anni, secondo quanto riportato dai media locali e dagli attivisti per i diritti degli animali. L’emittente pubblica islandese RUV ha riferito che d",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/caccia-balene-islanda-ripresa-notizie/8428124/",
+      "published": "Tue, 23 Jun 2026 19:35:48 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -852,6 +916,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+      "summary": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption. ",
+      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 22:44:57 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
       "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
       "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
@@ -861,6 +938,19 @@
       "priority": 0,
       "categories": [
         "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "E-commerce giant Alibaba sues US government over defence blacklist",
+      "summary": "The e-commerce giant is suing the US defence department after it was added to a blacklist of firms with ties to the Chinese military.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 23:25:07 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -956,19 +1046,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
-      "summary": "Despite a multi-million dollar renovation, the Washington DC landmark has peeling paint and algae. Trump claims vandals are partly to blame.",
-      "link": "https://www.bbc.co.uk/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 00:54:43 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
       "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
       "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
@@ -991,33 +1068,6 @@
       "priority": 0,
       "categories": [
         "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Is Germany looking again at coal-powered electricity?",
-      "summary": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
-      "link": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:27:11 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Will Putin change tactics after Ukrainian drone attacks?",
-      "summary": "Steve Rosenberg explains what Russia's next steps may be after frequent Ukrainian drone attacks.",
-      "link": "https://www.bbc.co.uk/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 10:52:38 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "ucraina-russia"
       ],
       "is_high_priority": false
     }
