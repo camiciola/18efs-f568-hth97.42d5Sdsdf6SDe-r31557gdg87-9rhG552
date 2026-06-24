@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-24T18:21:43.916744",
-  "total_news": 66,
+  "last_update": "2026-06-24T23:52:50.751069",
+  "total_news": 73,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -16,11 +16,37 @@
       "is_high_priority": true
     },
     {
+      "title": "Guardia di Finanza, il nuovo comandante Borrelli: «Nel mirinoi soldi dei clan». Negli ultimi 3 anni confiscati 230 milioni",
+      "summary": "Il passaggio di consegne con Gianluigi D’Alessio («Calabria terra difficile e meravigliosa») si è svolto nel corso della cerimonia per il 252° anniversario della fondazione del Corpo. Nel bilancio delle attività anche il sequestro di 11 tonnellate di cocaina al porto di Gioia Tauro",
+      "link": "https://www.lacnews24.it/cronaca/guardia-di-finanza-il-nuovo-comandante-borrelli-nel-mirino-i-soldi-dei-clan-negli-ultimi-tre-anni-confische-per-230-milioni-mrru10l9",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "droga"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "UltimoraLamezia, quei “nuovi elementi” che potrebbero portare a svelare il duplice omicidio dei netturbini",
       "summary": "Clicca per leggere l'articolo completo",
       "link": "https://www.lametino.it/ultimora/lamezia-quei-nuovi-elementi-che-potrebbero-portate-a-svelare-il-duplice-omicidio-dei-netturbini.html",
       "published": "",
       "source": "lametino.it",
+      "section": "crime_italy",
+      "priority": 10,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Brutto pensare che un padre ti preferisca morto che gay”: chi era Mirko Moriconi ucciso a fucilate con la madre Kety Andreoni",
+      "summary": "&#8220;Brutto pensare che un padre ti preferisca morto che gay&#8221;. È una frase pubblicata sui social nel 2022 da Mirko Moriconi, il 24enne ucciso a colpi di fucile dal padre Piero a Camaiore, in Versilia, costata la vita anche alla madre Kety. Parole che, dopo il duplice omicidio, sono riemerse ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/brutto-pensare-che-un-padre-ti-preferisca-morto-che-gay-chi-era-mirko-moriconi-ucciso-a-fucilate-con-la-madre-kety-andreoni/8429209/",
+      "published": "Wed, 24 Jun 2026 18:42:35 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "crime_italy",
       "priority": 10,
       "categories": [
@@ -94,16 +120,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Vertice E5 a Berlino, Meloni: «La Nato deve avere una componente europea più forte. Positivo l’accordo Stati Uniti-Iran»",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/italia-mondo/vertice-e5-a-berlino-meloni-la-nato-deve-avere-una-componente-europea-piu-forte-positivo-laccordo-stati-uniti-iran-ud2u68hj",
+      "title": "Occhiuto lancia il“social taxi”in Calabria: autista gratuito per gli over 65 diretti a visite mediche lontane",
+      "summary": "Il governatore presenta il nuovo servizio durante un evento con Uber: «Chi prenota al Cup e deve percorrere oltre 15 chilometri sarà accompagnato gratuitamente. Credeteci, non è una truffa». E rivendica la liberalizzazione del trasporto pubblico non di linea: «I tassisti mi apprezzano poco...»",
+      "link": "https://www.lacnews24.it/politica/occhiuto-lancia-il-social-taxi-in-calabria-autista-gratuito-per-gli-over-65-diretti-a-visite-mediche-lontane-v0m7afac",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader",
-        "superpotenze"
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -117,58 +142,6 @@
       "priority": 0,
       "categories": [
         "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Occhiuto lancia il “social taxi” in Calabria: autista gratuito per gli over 65 diretti a visite mediche lontane",
-      "summary": "Il governatore presenta il nuovo servizio durante un evento con Uber: «Chi prenota al Cup e deve percorrere oltre 15 chilometri sarà accompagnato gratuitamente. Credeteci, non è una truffa». E rivendica la liberalizzazione del trasporto pubblico non di linea: «I tassisti mi apprezzano poco...»",
-      "link": "https://www.lacnews24.it/politica/occhiuto-lancia-il-social-taxi-in-calabria-autista-gratuito-per-gli-over-65-diretti-a-visite-mediche-lontane-v0m7afac",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dal referendum sulla giustizia alle mafie nell’informazione: il monito di Gratteri sui pilastri della democrazia",
-      "summary": "Se la magistratura accerta la verità dei fatti e ricostruisce le responsabilità, il giornalismo rende edotti i cittadini. Per questo il procuratore invita ad accendere i riflettori sui pericoli che derivano dall’infiltrazione dei clan in giornali e tv",
-      "link": "https://www.lacnews24.it/attualita/dal-referendum-sulla-giustizia-alle-mafie-nellinformazione-il-monito-di-gratteri-sui-pilastri-della-democrazia-nq38ugq2",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Lega in crisi,i finanziatori scappanoe guardano a Vannacci (che supera a destra il Carroccio): il denaro cambia rotta",
-      "summary": "Le aziende vedono in Futuro Nazionale non un fenomeno mediatico ma un soggetto politico su cui investire. Salvini cerca un’identità per il partito ora che il sovranismo è diventato offerta politica di massa. E nel dibattito alla Camera sul Piano Casa incassa gli attacchi del suo ex fedelissimo Furgi...",
-      "link": "https://www.lacnews24.it/politica/lega-in-crisi-i-finanziatori-scappano-e-guardano-a-vannacci-che-supera-a-destra-il-carroccio-il-denaro-cambia-rotta-hxkpnpo9",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Calunnia, per il senatore di FdiErnesto Rapaniarriva la condanna anche in appello",
-      "summary": "La Corte di Catanzaro conferma un anno e sei mesi. Il processo nasce da una denuncia su un assegno del 2017",
-      "link": "https://www.lacnews24.it/cronaca/calunnia-condanna-ernesto-rapani-appello-catanzaro-q2a1oqxn",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
       ],
       "is_high_priority": false
     },
@@ -210,6 +183,73 @@
       "priority": 0,
       "categories": [
         "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Lega in crisi, i finanziatori scappano e guardano a Vannacci (che supera a destra il Carroccio): il denaro cambia rotta",
+      "summary": "Le aziende vedono in Futuro Nazionale non un fenomeno mediatico ma un soggetto politico su cui investire. Salvini cerca un’identità per il partito ora che il sovranismo è diventato offerta politica di massa. E nel dibattito alla Camera sul Piano Casa incassa gli attacchi del suo ex fedelissimo Furgi...",
+      "link": "https://www.lacnews24.it/politica/lega-in-crisi-i-finanziatori-scappano-e-guardano-a-vannacci-che-supera-a-destra-il-carroccio-il-denaro-cambia-rotta-hxkpnpo9",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Calunnia, per il senatore di Fdi Ernesto Rapani arriva la condanna anche in appello",
+      "summary": "La Corte di Catanzaro conferma un anno e sei mesi. Il processo nasce da una denuncia su un assegno del 2017",
+      "link": "https://www.lacnews24.it/cronaca/calunnia-condanna-ernesto-rapani-appello-catanzaro-q2a1oqxn",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Drammatico incidente a Roma, muore un maresciallo di Messina dell'Aeronautica Militarre",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/drammatico-incidente-a-roma-muore-un-maresciallo-di-messina-dellaeronautica-militarre/2105571/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mondiali 2026, Partey accusato di stupro: il gesto di Spence in Inghilterra-Ghana è virale | VIDEO",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/mondiali-2026-partey-accusato-di-stupro-il-gesto-di-spence-in-inghilterra-ghana-e-virale-video/2105558/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "E5, Meloni: \"Europa si assuma responsabilità Difesa\". Il ruolo dell'Italia nella guerra in Ucraina e la precarietà dell'Iran",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/e5-meloni-europa-si-assuma-responsabilita-difesa-il-ruolo-dellitalia-nella-guerra-in-ucraina-e-la-precarieta-delliran/2105458/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre",
+        "leader",
+        "ucraina-russia"
       ],
       "is_high_priority": false
     },
@@ -305,32 +345,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Dal salario giusto agli incentivi, il decreto lavoro (da quasi un miliardo) è legge. Meloni: \"manteniamo gli impegni presi\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/dal-salario-giusto-agli-incentivi-il-decreto-lavoro-da-quasi-un-miliardo-e-legge-meloni-manteniamo-gli-impegni-presi/2105428/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Catania, dal mito dei Beatles all’energia dei Queen: tutto pronto per il concerto sotto le stelle | DETTAGLI",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/catania-dal-mito-dei-beatles-allenergia-dei-queen-tutto-pronto-per-il-concerto-sotto-le-stelle-dettagli/2105401/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -340,6 +354,45 @@
       "priority": 0,
       "categories": [
         "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Pentiti e politici locali nella lista testi della Dda, così i pm vogliono provare il «sistema mafioso lombardo» – I NOMI",
+      "summary": "UltimePentiti e politici locali nella lista testi della Dda, così i pm vogliono provare il «sistema mafioso lombardo» – I NOMIRiforma della caccia, Mario Occhiuto si smarca: «no» al ddl«Calabria regione complessa. Priorità al contrasto alla ‘ndrangheta e all’aggressione ai patrimoni illeciti»Camaior...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/pentiti-e-politici-locali-nella-lista-testi-della-dda-cosi-i-pm-vogliono-provare-il-sistema-mafioso-lombardo-i-nomi/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "ControcorrenteRiforma della caccia, Mario Occhiuto si smarca: «no» al ddlVia libera al Senato alla legge ribattezzata «sparatutto». Il voto contrario del senatore azzurro accende il dibattito sui social",
+      "summary": "Controcorrente",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/riforma-della-caccia-mario-occhiuto-si-smarca-no-al-ddl/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "LA TRAGEDIACamaiore, uccide moglie e figlio. «Mi sono liberato»Piero Moriconi, 63 anni, avrebbe pronunciato la frase davanti ai carabinieri",
+      "summary": "LA TRAGEDIA",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/camaiore-uccide-moglie-e-figlio-mi-sono-liberato/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
       ],
       "is_high_priority": false
     },
@@ -379,6 +432,19 @@
       "priority": 0,
       "categories": [
         "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "’Ndrangheta, i soldi dalla Svizzera per gli affari della rete con Cosa nostra e camorra. Il pentito: «Era la gallina dalle uova d’oro»L’INCHIESTA HYDRA",
+      "summary": "L’INCHIESTA HYDRA",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/ndrangheta-i-soldi-dalla-svizzera-per-gli-affari-della-rete-con-cosa-nostra-e-camorra-il-pentito-era-la-gallina-dalle-uova-doro/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -448,15 +514,41 @@
       "is_high_priority": false
     },
     {
-      "title": "Sanità, la Corte dei conti frena la fine del commissariamento: il centrosinistra attacca Occhiuto e Melonireazioni",
-      "summary": "reazioni",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/sanita-la-corte-dei-conti-frena-la-fine-del-commissariamento-pd-e-m5s-attaccano-occhiuto-e-melonisanita-la-corte-dei-conti-frena-la-fine-del-commissariamento-il-centrosinistra-attacca-occhiuto-e-mel/",
+      "title": "Riforma della caccia, Mario Occhiuto si smarca: «no» al ddl“Via libera al Senato alla legge ribattezzata «sparatutto». Il voto contrario del senatore azzurro accende il dibattito sui social24 Giugno, 21:49",
+      "summary": "“Via libera al Senato alla legge ribattezzata «sparatutto». Il voto contrario del senatore azzurro accende il dibattito sui social",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/riforma-della-caccia-mario-occhiuto-si-smarca-no-al-ddl/",
       "published": "",
-      "source": "corrieredellacalabria.it",
+      "source": "corrieredellacalabria.it-cronaca",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader"
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "«Calabria regione complessa. Priorità al contrasto alla ‘ndrangheta e all’aggressione ai patrimoni illeciti»“Il neo comandante regionale della Guardia di Finanza Borrelli alla festa delle Fiamme Gialle a Catanzaro: «Lavoreremo con attenzione e con spirito di…24 Giugno, 20:42",
+      "summary": "“Il neo comandante regionale della Guardia di Finanza Borrelli alla festa delle Fiamme Gialle a Catanzaro: «Lavoreremo con attenzione e con spirito di…",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/calabria-regione-complessa-priorita-al-contrasto-alla-ndrangheta-e-allaggressione-ai-patrimoni-illeciti/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Camaiore, uccide moglie e figlio. «Mi sono liberato»“Piero Moriconi, 63 anni, avrebbe pronunciato la frase davanti ai carabinieri24 Giugno, 20:26",
+      "summary": "“Piero Moriconi, 63 anni, avrebbe pronunciato la frase davanti ai carabinieri",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/camaiore-uccide-moglie-e-figlio-mi-sono-liberato/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
       ],
       "is_high_priority": false
     },
@@ -474,11 +566,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Sanità, Occhiuto: «Da domani le prime delibere da assessore» – VIDEO“Il presidente della Regione, a margine dell’incontro al Centro Studi Americani, torna sulla pronuncia della Corte dei Conti: «Credo sia già risolto d…24 Giugno, 18:21",
-      "summary": "“Il presidente della Regione, a margine dell’incontro al Centro Studi Americani, torna sulla pronuncia della Corte dei Conti: «Credo sia già risolto d…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/sanita-occhiuto-da-domani-le-prime-delibere-da-assessore/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
+      "title": "Strage di Ferragosto, si riapre il caso: scarcerati cinque libici condannati per la morte di 49 migranti",
+      "summary": "Undici anni dopo la tragedia e dopo anni di carcere scontati sulla base di sentenze passate in giudicato, si riapre uno dei casi più controversi legati alle stragi dei migranti nel Mediterraneo. La Corte d&#8217;appello di Messina ha disposto la scarcerazione di cinque degli otto cittadini libici co",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/strage-ferragosto-scarcerazione-libici-notizie/8429405/",
+      "published": "Wed, 24 Jun 2026 20:17:20 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -487,15 +579,68 @@
       "is_high_priority": false
     },
     {
-      "title": "Mobilità e innovazione, Occhiuto presenta il “social taxi” per la sanità calabrese – VIDEO“Al Centro Studi Americani il confronto con Tony West, global chief legal officer di Uber. Il governatore: «Una macchina sotto casa per accompagnare i…24 Giugno, 18:07",
-      "summary": "“Al Centro Studi Americani il confronto con Tony West, global chief legal officer di Uber. Il governatore: «Una macchina sotto casa per accompagnare i…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/mobilita-e-innovazione-occhiuto-presenta-il-social-taxi-per-la-sanita-calabrese-video/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
+      "title": "Falso in bilancio e frode, prosciolti i vertici di Original Marines. Per il Gup di Nola “il fatto non sussiste”",
+      "summary": "Non luogo a procedere e proscioglimento. Così si è concluso il procedimento giudiziario scaturito circa un anno fa dal sequestro da ben 38 milioni di euro notificato a otto indagati &#8211; tra amministratori, componenti il collegio sindacale e la stessa società Original Marines spa &#8211; a cui la",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/falso-in-bilancio-e-frode-prosciolti-i-vertici-di-original-marines-per-il-gup-di-nola-il-fatto-non-sussiste/8429062/",
+      "published": "Wed, 24 Jun 2026 19:25:08 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Ci abitueremo al clima caraibico, non moriremo”: La Russa scatenato alla presentazione del libro di Procaccini (che loda per aver “fatto incazzare Floris”)",
+      "summary": "Per il presidente del Senato, Ignazio La Russa, il danno del mutamento climatico è un luogo comune: “Ci abitueremo al clima caraibico, non vuol dire che moriremo”. E il responsabile Energia e Ambiente di Fratelli d’Italia, Nicola Procaccini, “meriterebbe una piccola statua” per aver fatto “incazzare",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/la-russa-cambiamenti-climatici-scatenato-leggi-fasciste-libro-procaccini-video/8429266/",
+      "published": "Wed, 24 Jun 2026 19:15:14 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La Rai nega a Ranucci la tutela delle spese legali sul caso Cipriani-Uruguay. Ms5 all’attacco: “Così TeleMeloni prova a indebolire Report”",
+      "summary": "L&#8217;ultima trincea si chiama tutela legale. Ed è qui che si consuma l&#8217;ennesimo scontro su Sigfrido Ranucci, conduttore della trasmissione di inchiesta Report su Rai 3. Secondo quanto anticipato da Dagospia, l&#8217;azienda avrebbe deciso di non garantire la copertura delle spese legali al ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/ranucci-rai-tutela-legale-notizie/8429262/",
+      "published": "Wed, 24 Jun 2026 19:02:09 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre",
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La destra mette il turbo per cambiare la legge elettorale: ok in commissione, venerdì testo in Aula. Con l’ombra della tagliola",
+      "summary": "L&#8217;urgenza della destra per una nuova legge elettorale porta la corsa della riforma al suo primo traguardo. La commissione Affari costituzionali della Camera ha dato il primo via libera al testo ribattezzato &#8220;Bignami bis&#8221; (dal nome del capogruppo di Fdi a Montecitorio) che recepisce",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/legge-elettorale-bignami-bis-commissione-notizie/8429219/",
+      "published": "Wed, 24 Jun 2026 18:57:50 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il vertice dei leader E5: più soldi per la difesa comune e sostegno a Kiev. Trump insiste: “Deluso da Italia, Gran Bretagna, Germania e Francia”",
+      "summary": "Rafforzare il pilastro europeo della Nato, aumentare gli investimenti nella difesa, sostenere l’Ucraina contro l’aggressione russa e consolidare la cooperazione industriale militare. Sono questi i punti centrali della dichiarazione congiunta adottata oggi a Berlino dai leader di Francia, Germania, I",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/24/vertice-e5-berlino-difesa-ucraina-meloni/8429203/",
+      "published": "Wed, 24 Jun 2026 18:28:46 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
       ],
       "is_high_priority": false
     },
@@ -618,36 +763,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Tre gip per gli arresti, l’allarme dell’Anm: “Il rinvio non basta, rischio di paralisi anche sui reati di mafia e codice rosso”",
-      "summary": "Con il gip collegiale voluto dal governo &#8220;si rischierà la paralisi&#8221; nei piccoli tribunali, mentre in quelli grandi e medio-grandi il pericolo è di &#8220;un significativo rallentamento nell&#8217;emissione delle misure cautelari&#8220;, anche per i reati di mafia e di violenza di genere.",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/gip-collegiale-anm-rischio-mafia-codice-rosso-notizie/8428725/",
-      "published": "Wed, 24 Jun 2026 14:47:32 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Corea del Nord, Kim Jong Un alla cerimonia di inaugurazione di una nuova nave da guerra per i missili nucleari",
-      "summary": "La Corea del Nord rafforza la propria presenza militare sul mare con il varo di un nuovo cacciatorpediniere. In un filmato diffuso dai media statali, il leader Kim Jong Un appare alla cerimonia di inaugurazione della “Choe Hyon”, nave da guerra da 5mila tonnellate, tenutasi nel porto di Nampo. L’uni",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/corea-nord-kim-jong-un-nave-guerra-notizie/8428872/",
-      "published": "Wed, 24 Jun 2026 14:30:21 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "guerre"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Spiagge sicure 2026, dal Viminale 1,5 milioni contro abusivismo e contraffazione",
       "summary": "Contributi da 25mila euro a 60 Comuni costieri. Le risorse serviranno per rafforzare i controlli nelle località balneari, assumere agenti di Polizia locale a tempo determinato, acquistare mezzi e avviare campagne di sensibilizzazione",
       "link": "https://www.ilsole24ore.com/art/spiagge-sicure-2026-viminale-15-milioni-contro-abusivismo-e-contraffazione-AIi12vqD",
-      "published": "Wed, 24 Jun 2026 15:46:24 GMT",
+      "published": "Wed, 24 Jun 2026 15:46:00 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -741,32 +860,6 @@
       "link": "https://www.ilsole24ore.com/art/corte-conti-deficit-2025-sopra-attese-emersione-inattesa-superbonus-AIHHIYqD",
       "published": "Wed, 24 Jun 2026 09:34:00 GMT",
       "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Allarme Anm: con Gip collegiale rischio paralisi su reati mafia e codice rosso",
-      "summary": "«Il provvedimento del Gip collegiale provocherà dei danni enormi sotto il profilo del rallentamento delle emissioni delle misure cautelari che per loro definizioni sono urgenti. Penso soprattutto ai reati mafiosi...",
-      "link": "https://www.ilsole24ore.com/art/allarme-anm-gip-collegiale-rischio-paralisi-reati-mafia-e-codice-rosso-AIJwSVqD",
-      "published": "Wed, 24 Jun 2026 08:15:54 GMT",
-      "source": "ilsole24ore.com",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Power outages hit France as it records hottest day since measurements began",
-      "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 17:29:55 GMT",
-      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
