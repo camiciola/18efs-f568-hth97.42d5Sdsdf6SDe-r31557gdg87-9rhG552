@@ -1,11 +1,11 @@
 {
-  "last_update": "2026-06-26T18:13:16.771839",
-  "total_news": 67,
+  "last_update": "2026-06-26T23:48:10.879012",
+  "total_news": 69,
   "news": [
     {
-      "title": "Fiamme nella notte al Lido Comunale di Reggio Calabria, indagini in corsol’incendio",
-      "summary": "l’incendio",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/fiamme-nella-notte-al-lido-comunale-di-reggio-calabria-indagini-in-corso/",
+      "title": "Scivola dalla scogliera sulla spiaggia di Santa Domenica di Ricadi, ferito un uomo",
+      "summary": "UltimeScivola dalla scogliera sulla spiaggia di Santa Domenica di Ricadi, ferito un uomoFiorello e Amadeus insieme ad Occhiuto: «Un saluto ai nostri cugini calabresi» – VIDEOIncendio alla baraccopoli di Corigliano Rossano, è morto il migrante rimasto ustionato nel rogoReggina, il gruppo Lotito acqui...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/scivola-dalla-scogliera-sulla-spiaggia-di-santa-domenica-di-ricadi-ferito-un-uomo/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -16,15 +16,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Blitz contro il lavoro nero nel Vibonese: 4 aziende sospese e sanzioni per oltre 30 mila euroi controlli",
-      "summary": "i controlli",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/blitz-contro-il-lavoro-nero-nel-vibonese-4-aziende-sospese-e-sanzioni-per-oltre-30-mila-euro/",
+      "title": "Fiamme nella notte al Lido Comunale di Reggio Calabria, indagini in corsol’incendio",
+      "summary": "l’incendio",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/fiamme-nella-notte-al-lido-comunale-di-reggio-calabria-indagini-in-corso/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "arresti"
+        "sangue"
       ],
       "is_high_priority": false
     },
@@ -107,6 +107,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Altomonte, corsa alla panchina: Aita e Magarò sono i due nomi per puntare all'Eccellenza",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lacnews24.it/sport/altomonte-corsa-alla-panchina-aita-e-magaro-sono-i-due-nomi-per-puntare-alleccellenza-skkkla02",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "L'ombra della 'ndranghetanell'ecosistema criminale europeo: dalla Calabria al dominio globale",
       "summary": "Il nuovo rapporto Europol sulle reti criminali più minacciose decodifica il successo dei clan che «collaborano con avvocati, contabili ed esperti di logistica». Tra alleanze globali in America Latina e infiltrazioni silenziose nelle imprese legali, ecco come l'organizzazione calabrese è diventata un...",
       "link": "https://www.lacnews24.it/cronaca/lombra-della-ndrangheta-nellecosistema-criminale-europeo-dalla-calabria-al-dominio-globale-isnnh4vq",
@@ -116,6 +129,45 @@
       "priority": 0,
       "categories": [
         "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Corigliano Rossano, morto il bracciante rimasto gravemente ferito nel rogo della baraccopoli di Boscarello",
+      "summary": "Il lavoratore è deceduto nel Centro Grandi Ustionati di Brindisi dopo due giorni di ricovero. Aveva ustioni sull'85% del corpo. Proseguono le indagini sulle cause dell'esplosione",
+      "link": "https://www.lacnews24.it/cronaca/corigliano-rossano-morto-il-bracciante-rimasto-gravemente-ferito-nel-rogo-della-baraccopoli-di-boscarello-sygl3r2f",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Pil e occupazione, il Mezzogiorno cresce più del Centro-Nord: Sud locomotiva nel 2025",
+      "summary": "L'economia meridionale registra un Pil in aumento dello 0,6%, superiore alla media nazionale, e guida la crescita dell'occupazione con un +1,5%, trainata soprattutto dai servizi e dall'agricoltura",
+      "link": "https://www.lacnews24.it/economia-e-lavoro/pil-e-occupazione-il-mezzogiorno-cresce-piu-del-centro-nord-sud-locomotiva-nel-2025-gmp66kc0",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Nuova era per la Reggina, completato il passaggio societario al gruppo della famiglia Lotito",
+      "summary": "Il presidente Virgilio Minniti e i soci riconducibili alla famiglia Ballarino hanno sottoscritto l'atto di cessione. Presente anche il sindaco di Reggio Calabria",
+      "link": "https://www.lacnews24.it/sport/reggina-ecco-il-closing-inizia-lera-lotito-npu1ewyr",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -133,54 +185,67 @@
       "is_high_priority": false
     },
     {
-      "title": "Notizie in evidenza",
-      "summary": "Dopo il via libera al collegamento diretto senza cambi si stringe il cerchio sulla tabella di marcia. Due corse al giorno e soste mirate nelle aree più popolose",
-      "link": "https://www.lacnews24.it/attualita/intercity-locride-roma-ecco-come-saranno-scelte-le-fermate-tutte-le-ipotesi-xa32p0ol",
+      "title": "Strage di Ustica: 46 anni fa uno dei più grandi misteri italiani, una ferita ancora aperta nella storia italiana",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/strage-di-ustica-456-anni-fa-uno-dei-piu-grandi-misteri-italiani-una-ferita-ancora-aperta-nella-storia-italiana/2106454/",
       "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Caro benzina, in Calabria 316 violazioni in un anno: prezzi irregolari e 135 anomalie sotto indagine",
-      "summary": "Controlli della Guardia di finanza in 211 distributori: 79 ispezioni hanno rilevato irregolarità. Il Codacons chiede sanzioni e un tavolo regionale: «Il caro carburanti non era una percezione»",
-      "link": "https://www.lacnews24.it/economia-e-lavoro/caro-benzina-in-calabria-316-violazioni-in-un-anno-prezzi-irregolari-e-135-anomalie-sotto-indagine-w6uwizzn",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "«Sfigati», scoppia il caso del reel sulla sanità: il dissing Occhiuto-opposizione e i dubbi sul ruolo della Corte dei Conti",
-      "summary": "Il presidente va avanti per la sua strada: lo scontro dopo il video con lo sfottò al centrosinistra. La capogruppo del M5s, Elisa Scutellà, definisce vergognosa questa dichiarazione da un uomo delle istituzioni. Sullo sfondo resta il dubbio sulla validità degli atti firmati d Occhiuto ieri in giunta",
-      "link": "https://www.lacnews24.it/politica/sfigati-scoppia-il-caso-del-reel-sulla-sanita-il-dissing-occhiuto-opposizione-e-i-dubbi-sul-ruolo-della-corte-dei-conti-isqmv7ut",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Scontro Occhiuto-opposizione, Tridico: «Non ha argomenti. Noi non ci facciamo intimidire dal suo turpiloquio»",
-      "summary": "Redazione",
-      "link": "https://www.lacnews24.it/politica/scontro-occhiuto-opposizione-tridico-non-ha-argomenti-noi-non-ci-facciamo-intimidire-dal-suo-turpiloquio-dfgxol04",
-      "published": "",
-      "source": "lacnews24.it",
+      "source": "strettoweb.com",
       "section": "italia",
       "priority": 0,
       "categories": [
-        "economia"
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La Reggina è di Lotito. Don Zampaglione: \"un presidente che ci porterà in B!\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/la-reggina-e-di-lotito-don-zampaglione-un-presidente-che-ci-portera-in-b/2106485/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Operazione \"Piazza Pulita\", Cardia: \"con Cannizzaro messaggio chiaro, a Reggio non c'è più spazio per il degrado\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/operazione-piazza-pulita-cardia-con-cannizzaro-messaggio-chiaro-a-reggio-non-ce-piu-spazio-per-il-degrado/2106461/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Elezioni comunali Messina, depositato ricorso al Tar: nel mirino firme e simboli delle liste collegate a Basile",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/elezioni-comunali-messina-depositato-ricorso-al-tar-nel-mirino-firme-e-simboli-delle-liste-collegate-a-basile/2106464/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La Reggina a Claudio Lotito, adesso è ufficiale! A Roma la firma con Ballarino, l'annuncio (in latino) del Sindaco Cannizzaro scatena l'entusiasmo dei tifosi",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/reggina-lotito/2098264/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -302,58 +367,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Messina orgogliosa del pugile Francesco Natoli, a 15 anni arriva la quarta convocazione in Nazionale",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/messina-orgogliosa-del-pugile-francesco-natoli-a-15-anni-arriva-la-quarta-convocazione-in-nazionale/2106367/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reggio Calabria, meraviglioso parto trigemellare al GOM: nati due maschietti e una femminuccia",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-meraviglioso-parto-trigemellare-spontaneo-al-gom-nati-due-maschietti-e-una-femminuccia/2106356/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Gibellina Capitale Italiana dell’Arte Contemporanea 2026: il programma di tutti gli eventi | INFO e DATE",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/gibellina-capitale-italiana-dellarte-contemporanea-2026-il-programma-di-tutti-gli-eventi-info-e-date/2106220/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sondaggi politici, le intenzioni di voto: cresce Futuro Nazionale, in calo FdI e Lega | DATI",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sondaggi-politici-le-intenzioni-di-voto-cresce-futuro-nazionale-in-calo-fdi-e-lega-dati/2106317/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -367,9 +380,9 @@
       "is_high_priority": false
     },
     {
-      "title": "il sismaTerremoto in Venezuela, tra le vittime anche un italianoGiuseppe Colaianni è morto dopo aver salvato la moglie",
-      "summary": "il sisma",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/terremoto-in-venezuela-tra-le-vittime-anche-un-italiano/",
+      "title": "il terremotoVenezuela, bilancio drammatico: oltre 900 morti e 3 mila feritiTra le vittime 3 italo venezuelani",
+      "summary": "il terremoto",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/venezuela-bilancio-drammatico-oltre-900-morti-e-3-mila-feriti/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
@@ -393,6 +406,32 @@
       "is_high_priority": false
     },
     {
+      "title": "Incendio alla baraccopoli di Corigliano Rossano, è morto il migrante rimasto ustionato nel rogola tragedia",
+      "summary": "la tragedia",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/incendio-alla-baraccopoli-di-corigliano-rossano-e-morto-il-migrante-rimasto-ustionato-nel-rogo/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggina, il gruppo Lotito acquisisce il club: chiuso il passaggio di proprietàla nuova era",
+      "summary": "la nuova era",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/reggina-il-gruppo-lotito-acquisisce-il-club-chiuso-il-passaggio-di-proprieta/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "‘Ndrangheta, la polizia tedesca in visita in Calabria. Vertice con le autorità italianeprogetto i can",
       "summary": "progetto i can",
       "link": "https://www.corrieredellacalabria.it/2026/06/26/ndrangheta-la-polizia-tedesca-in-visita-in-calabria-vertice-con-le-autorita-italiane/",
@@ -402,32 +441,6 @@
       "priority": 0,
       "categories": [
         "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dua Lipa incantata dall’Italia, sui social pubblica il tramonto di Tropeail viaggio nel sud",
-      "summary": "il viaggio nel sud",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/dua-lipa-incantata-dallitalia-sui-social-pubblica-il-tramonto-di-tropea/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dal Senato il ricordo di Paolo Orsi, l’archeologo che raccontò la Calabria antica e medievalela presentazione",
-      "summary": "la presentazione",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/dal-senato-il-ricordo-di-paolo-orsi-larcheologo-che-racconto-la-calabria-antica-e-medievale/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
       ],
       "is_high_priority": false
     },
@@ -445,9 +458,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Terremoto in Calabria, scossa da 3.2 nel Catanzareseil sisma",
-      "summary": "il sisma",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/terremoto-catanzarese-scossa-magnitudo-32-petrona/",
+      "title": "Caccia all’uomo a Montebello Jonico: catturato un condannato per furto in abitazionele ricerche",
+      "summary": "le ricerche",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/caccia-alluomo-a-montebello-jonico-catturato-un-condannato-per-furto-in-abitazione/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
@@ -458,15 +471,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Caccia all’uomo a Montebello Jonico: catturato un condannato per furto in abitazionele ricerche",
-      "summary": "le ricerche",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/caccia-alluomo-a-montebello-jonico-catturato-un-condannato-per-furto-in-abitazione/",
+      "title": "Dua Lipa incantata dall’Italia, sui social pubblica il tramonto di Tropeail viaggio nel sud",
+      "summary": "il viaggio nel sud",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/dua-lipa-incantata-dallitalia-sui-social-pubblica-il-tramonto-di-tropea/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ospitalità diffusa, la sfida vinta da Santa Caterina dello IonioMeraviglie di Calabria",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.meravigliedicalabria.it/ospitalita-diffusa-la-sfida-vinta-da-santa-caterina-ello-ionio/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -497,11 +523,50 @@
       "is_high_priority": false
     },
     {
-      "title": "Arriva l’ambasciatore Usa, rinviato il Light Fest di Vibo Marina. Gli organizzatori assicurano: «Sarà un evento unico»la conferenza stampa",
-      "summary": "la conferenza stampa",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/arriva-lambasciatore-usa-rinviato-il-light-fest-di-vibo-marina-gli-organizzatori-assicurano-sara-un-evento-unico/",
+      "title": "Fiorello e Amadeus insieme ad Occhiuto: «Un saluto ai nostri cugini calabresi» – VIDEO“Siparietto tra il presidente della Regione e i due grandi protagonisti dello spettacolo italiano. «È “longa” la Calabria»26 Giugno, 22:51",
+      "summary": "“Siparietto tra il presidente della Regione e i due grandi protagonisti dello spettacolo italiano. «È “longa” la Calabria»",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/fiorello-e-amadeus-insieme-ad-occhiuto-un-saluto-ai-nostri-cugini-calabresi-video/",
       "published": "",
-      "source": "corrieredellacalabria.it",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Venezuela, bilancio drammatico: oltre 900 morti e 3 mila feriti“Tra le vittime 3 italo venezuelani26 Giugno, 20:33",
+      "summary": "“Tra le vittime 3 italo venezuelani",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/venezuela-bilancio-drammatico-oltre-900-morti-e-3-mila-feriti/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mauro Moretti, l’ultimo “martire” dell’alleanza bipartisan dei garantisti: “È uno dei migliori manager”. Perché è stato condannato: cosa dicono le sentenze",
+      "summary": "Una condanna &#8220;assurda&#8220;. Di più: &#8220;Il garantismo qui non è un favore a Moretti: è una garanzia per tutti&#8221;. Ancora: &#8220;Che senso ha mandarlo in carcere?&#8221;. Insomma, siamo &#8220;alla deriva della cultura dello scalpo&#8220;. A qualcuno, addirittura, &#8220;ribolle il sa",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/26/strage-viareggio-moretti-condanna-sentenze-notizie/8431530/",
+      "published": "Fri, 26 Jun 2026 20:39:46 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Morte di Chiara Jaconis, rinviati a giudizio i genitori del 13enne che per l’accusa lanciò la statuetta da un balcone",
+      "summary": "Il giudice dell&#8217;udienza preliminare di Napoli ha disposto il rinvio a giudizio dei genitori del ragazzino ritenuto responsabile del lancio della pesante statuetta che il 15 settembre 2024 colpì alla testa Chiara Jaconi, la turista padovana mentre passeggiava con il fidanzato nei Quartieri Spag",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/26/undefined-22/8431778/",
+      "published": "Fri, 26 Jun 2026 20:27:29 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -510,41 +575,14 @@
       "is_high_priority": false
     },
     {
-      "title": "Ospitalità diffusa, la sfida vinta da Santa Caterina dello IonioMeraviglie di Calabria",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.meravigliedicalabria.it/ospitalita-diffusa-la-sfida-vinta-da-santa-caterina-ello-ionio/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Cosenza, assolto nel processo penale: il Tar sospende la revoca dell’accoglienza SAIl’ordinanza",
-      "summary": "l’ordinanza",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/cosenza-assolto-nel-processo-penale-il-tar-sospende-la-revoca-dellaccoglienza-sai/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Firmato accordo Israele-Libano, Rubio: “È un primo passo”. Trump: “Droni iraniani su navi a Hormuz, folle violazione del cessate il fuoco”",
-      "summary": "Il Libano, Israele e gli Stati Uniti hanno annunciato di aver firmato un accordo quadro a Washington al termine di un quinto round di negoziati diretti. &#8220;È solo l’inizio dell’inizio&#8220;, ha detto il Segretario di Stato americano Marco Rubio durante la cerimonia della firma. &#8220;C&#8217;è",
+      "title": "Firmato l’accordo Israele-Libano, Rubio: “È un primo passo”. Netanyahu: “Non ci ritireremo dal sud”. Hezbollah rifiuta l’intesa",
+      "summary": "Il Libano, Israele e gli Stati Uniti hanno annunciato di aver siglato un accordo quadro a Washington al termine del quinto round di negoziati diretti. &#8220;È solo l’inizio dell’inizio&#8221;, ha detto il Segretario di Stato americano Marco Rubio durante la cerimonia della firma. &#8220;C&#8217;è a",
       "link": "https://www.ilfattoquotidiano.it/2026/06/26/trump-iran-droni-hormuz-notizie/8431579/",
       "published": "Fri, 26 Jun 2026 17:53:30 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader",
         "medio-oriente",
         "superpotenze"
       ],
@@ -669,6 +707,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Mattarella firma il decreto Infrastrutture: la tassa sui pacchi slitta al 1° ottobre",
+      "summary": "Il presidente della Repubblica Sergio Mattarella ha firmato il decreto Infrastrutture-Pnrr, varato in Consiglio dei ministri lo scorso lunedì. Il testo, dopo la promulgazione, è diretto in Gazzetta ufficiale per...",
+      "link": "https://www.ilsole24ore.com/art/mattarella-firma-decreto-infrastrutture-tassa-pacchi-slitta-1-ottobre-AIiLiStD",
+      "published": "Fri, 26 Jun 2026 18:20:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Trenitalia, attacco hacker su alcuni dati dei clienti",
       "summary": "A ottobre 2025 Trenitalia ha rilevato un tentativo di attacco informatico causato da soggetti esterni non identificati. L’evento ha determinato “un accesso ad alcuni dati personali di una parte dei...",
       "link": "https://www.ilsole24ore.com/art/trenitalia-attacco-hacker-alcuni-dati-clienti-AIC4mGtD",
@@ -696,41 +747,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Legge elettorale: perché tutti parlano delle preferenze ma nessuno le vuole",
-      "summary": "Premio di maggioranza con tetto di 220 seggi alla Camera e 113 in Senato per la coalizione che maggiormente supera il 42% dei voti; obbligo di indicare il candidato premier...",
-      "link": "https://www.ilsole24ore.com/art/legge-elettorale-perche-tutti-parlano-preferenze-ma-nessuno-vuole-AI2VdpsD",
-      "published": "Fri, 26 Jun 2026 06:05:19 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
+      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 17:00:31 GMT",
+      "published": "Fri, 26 Jun 2026 18:36:32 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 18:03:32 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
       ],
       "is_high_priority": false
     },
@@ -739,19 +764,6 @@
       "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
       "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Jun 2026 16:45:21 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 06:16:01 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -770,6 +782,19 @@
       "priority": 0,
       "categories": [
         "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 06:16:01 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
       ],
       "is_high_priority": false
     },
@@ -840,6 +865,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
+      "summary": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
+      "link": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 21:44:54 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Moment woman pulled from rubble alive after Venezuela earthquake",
       "summary": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
       "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
@@ -857,19 +895,6 @@
       "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
       "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Jun 2026 05:13:22 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Rescues and prayers a day after Venezuelan earthquakes",
-      "summary": "The BBC's Vanessa Silva reports from Caracas as the city faces the aftermath of back-to-back tremors.",
-      "link": "https://www.bbc.co.uk/news/videos/cz6vny382q9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 01:54:39 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
