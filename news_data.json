@@ -1,11 +1,11 @@
 {
-  "last_update": "2026-06-26T23:48:10.879012",
-  "total_news": 69,
+  "last_update": "2026-06-27T09:19:21.371234",
+  "total_news": 62,
   "news": [
     {
-      "title": "Scivola dalla scogliera sulla spiaggia di Santa Domenica di Ricadi, ferito un uomo",
-      "summary": "UltimeScivola dalla scogliera sulla spiaggia di Santa Domenica di Ricadi, ferito un uomoFiorello e Amadeus insieme ad Occhiuto: «Un saluto ai nostri cugini calabresi» – VIDEOIncendio alla baraccopoli di Corigliano Rossano, è morto il migrante rimasto ustionato nel rogoReggina, il gruppo Lotito acqui...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/scivola-dalla-scogliera-sulla-spiaggia-di-santa-domenica-di-ricadi-ferito-un-uomo/",
+      "title": "Triplice omicidio a Roma, sequestrata l’arma della strage",
+      "summary": "UltimeTriplice omicidio a Roma, sequestrata l’arma della strageAmministrative Cosenza, Azione c’è (ma per adesso si tiene le mani libere): «Nessun candidato sindaco»Ustica, Mattarella: «Ricostruire quanto avvenne resta un dovere irrinunciabile»Un nuovo Piano Fanfani per la Calabria’Ndrangheta, tenta...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/triplice-omicidio-a-roma-sequestrata-larma-della-strage/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -16,15 +16,41 @@
       "is_high_priority": false
     },
     {
-      "title": "Fiamme nella notte al Lido Comunale di Reggio Calabria, indagini in corsol’incendio",
-      "summary": "l’incendio",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/fiamme-nella-notte-al-lido-comunale-di-reggio-calabria-indagini-in-corso/",
+      "title": "si cerca l’assassinoTriplice omicidio a Roma, sequestrata l’arma della strageUccisi Kamal Udu, la moglie Arzu e la figlia Alicia di 6 anni. Il figlio 20enne è in prognosi riservata",
+      "summary": "si cerca l’assassino",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/triplice-omicidio-a-roma-sequestrata-larma-della-strage/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "crime_italy",
+      "priority": 10,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "’Ndrangheta, tentato omicidio Inzitari: assolto Tripodi. Condanna a 15 anni per CandiloroIl verdetto",
+      "summary": "Il verdetto",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/ndrangheta-tentato-omicidio-inzitari-assolto-tripodi-condanna-a-15-anni-per-candiloro/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 10,
       "categories": [
         "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Padre, madre e figlia di otto anni uccisi a coltellate a Roma: ferito il figlio maggiore. Ricercato un amico di famiglia",
+      "summary": "Triplice omicidio nella notte a Roma. Una famiglia è stata uccisa a coltellate in via Montiglio, nella periferia nord-ovest della Capitale. Padre, madre e figlia di otto anni sono stati trovati morti nella loro abitazione. Ferito il figlio più grande della coppia: il 20enne, trasportato in ospedale,",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/padre-madre-e-figlia-di-otto-anni-uccisi-a-coltellate-a-roma-ferito-il-figlio-maggiore-si-cerca-laggressore/8431813/",
+      "published": "Sat, 27 Jun 2026 07:26:02 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 10,
+      "categories": [
+        "crime_italy"
       ],
       "is_high_priority": false
     },
@@ -107,9 +133,36 @@
       "is_high_priority": false
     },
     {
-      "title": "Altomonte, corsa alla panchina: Aita e Magarò sono i due nomi per puntare all'Eccellenza",
+      "title": "Legalità e privacy, Gentile: «Lo Stato anticipi le sfide dell'innovazione»",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/sport/altomonte-corsa-alla-panchina-aita-e-magaro-sono-i-due-nomi-per-puntare-alleccellenza-skkkla02",
+      "link": "https://www.lacnews24.it/attualita/legalita-e-privacy-gentile-lo-stato-anticipi-le-sfide-dellinnovazione-qaj73grk",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "In auto con 22 chili di cocaina, un arresto della Finanza allo svincolo autostradale di Tarsia",
+      "summary": "La sostanza stupefacente in 20 panetti avvolti in cellophane. Una volta immessa sul mercato, avrebbe potuto fruttare alla criminalità organizzata oltre 5 milioni di euro",
+      "link": "https://www.lacnews24.it/cronaca/in-auto-con-22-chili-di-cocaina-un-arresto-della-finanza-allo-svincolo-autostradale-di-tarsia-bnr0p6a2",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti",
+        "droga"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Aree dismessee in disuso, oltre 17 milioni alla Calabria: finanziati sei Comuni, ecco l'elenco",
+      "summary": "Il programma nazionale da circa 210 milioni punta alla rigenerazione e al rilancio economico di aree sottoutilizzate. La quota maggiore va alla provincia cosentina con tre Municipi ammessi, poi quelle di Vibo Valentia, Catanzaro e Reggio Calabria con un progetto ciascuno",
+      "link": "https://www.lacnews24.it/video/economia-e-lavoro/aree-dismesse-e-in-disuso-oltre-17-milioni-alla-calabria-finanziati-sei-comuni-ce-anche-nardodipace-dz0cinhu",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -120,115 +173,11 @@
       "is_high_priority": false
     },
     {
-      "title": "L'ombra della 'ndranghetanell'ecosistema criminale europeo: dalla Calabria al dominio globale",
-      "summary": "Il nuovo rapporto Europol sulle reti criminali più minacciose decodifica il successo dei clan che «collaborano con avvocati, contabili ed esperti di logistica». Tra alleanze globali in America Latina e infiltrazioni silenziose nelle imprese legali, ecco come l'organizzazione calabrese è diventata un...",
-      "link": "https://www.lacnews24.it/cronaca/lombra-della-ndrangheta-nellecosistema-criminale-europeo-dalla-calabria-al-dominio-globale-isnnh4vq",
+      "title": "Caccia: lalegge “sparatutto”passa al Senato, ma Mario Occhiuto rivendica il suo voto contrario",
+      "summary": "Il senatore dice che lo ha ispirato il suo inseparabile amico Barrett, ma dice anche che la norma pur partendo dal giusto presupposto di salvaguardare le produzioni agricole, non aveva centrato il punto di equilibro con la tutela della fauna. Il plauso delle associazioni animaliste",
+      "link": "https://www.lacnews24.it/politica/caccia-la-legge-sparatutto-passa-al-senato-ma-mario-occhiuto-rivendica-il-suo-voto-contrario-cfhapqmj",
       "published": "",
       "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Corigliano Rossano, morto il bracciante rimasto gravemente ferito nel rogo della baraccopoli di Boscarello",
-      "summary": "Il lavoratore è deceduto nel Centro Grandi Ustionati di Brindisi dopo due giorni di ricovero. Aveva ustioni sull'85% del corpo. Proseguono le indagini sulle cause dell'esplosione",
-      "link": "https://www.lacnews24.it/cronaca/corigliano-rossano-morto-il-bracciante-rimasto-gravemente-ferito-nel-rogo-della-baraccopoli-di-boscarello-sygl3r2f",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Pil e occupazione, il Mezzogiorno cresce più del Centro-Nord: Sud locomotiva nel 2025",
-      "summary": "L'economia meridionale registra un Pil in aumento dello 0,6%, superiore alla media nazionale, e guida la crescita dell'occupazione con un +1,5%, trainata soprattutto dai servizi e dall'agricoltura",
-      "link": "https://www.lacnews24.it/economia-e-lavoro/pil-e-occupazione-il-mezzogiorno-cresce-piu-del-centro-nord-sud-locomotiva-nel-2025-gmp66kc0",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "economia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Nuova era per la Reggina, completato il passaggio societario al gruppo della famiglia Lotito",
-      "summary": "Il presidente Virgilio Minniti e i soci riconducibili alla famiglia Ballarino hanno sottoscritto l'atto di cessione. Presente anche il sindaco di Reggio Calabria",
-      "link": "https://www.lacnews24.it/sport/reggina-ecco-il-closing-inizia-lera-lotito-npu1ewyr",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Cetraro, il riscatto di una comunità attraverso la memoria diGiannino Losardo",
-      "summary": "Nel ricordo del politico ucciso dalla 'ndrangheta si riaffermano i valori di legalità e democrazia, nella consapevolezza che il contrasto alle mafie passa anzitutto attraverso la cultura",
-      "link": "https://www.lacnews24.it/rubriche/lo-stato-siamo-noi/cetraro-il-riscatto-di-una-comunita-attraverso-la-memoria-di-giannino-losardo-hmpbf5s8",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Strage di Ustica: 46 anni fa uno dei più grandi misteri italiani, una ferita ancora aperta nella storia italiana",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/strage-di-ustica-456-anni-fa-uno-dei-piu-grandi-misteri-italiani-una-ferita-ancora-aperta-nella-storia-italiana/2106454/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "La Reggina è di Lotito. Don Zampaglione: \"un presidente che ci porterà in B!\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/la-reggina-e-di-lotito-don-zampaglione-un-presidente-che-ci-portera-in-b/2106485/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Operazione \"Piazza Pulita\", Cardia: \"con Cannizzaro messaggio chiaro, a Reggio non c'è più spazio per il degrado\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/operazione-piazza-pulita-cardia-con-cannizzaro-messaggio-chiaro-a-reggio-non-ce-piu-spazio-per-il-degrado/2106461/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Elezioni comunali Messina, depositato ricorso al Tar: nel mirino firme e simboli delle liste collegate a Basile",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/elezioni-comunali-messina-depositato-ricorso-al-tar-nel-mirino-firme-e-simboli-delle-liste-collegate-a-basile/2106464/",
-      "published": "",
-      "source": "strettoweb.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -237,11 +186,24 @@
       "is_high_priority": false
     },
     {
-      "title": "La Reggina a Claudio Lotito, adesso è ufficiale! A Roma la firma con Ballarino, l'annuncio (in latino) del Sindaco Cannizzaro scatena l'entusiasmo dei tifosi",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggina-lotito/2098264/",
+      "title": "Il MiG libico in Sila, la strage di Ustica e laverità manipolata dal tempo: il cadavere che non sapeva mentire",
+      "summary": "Il volume di Paolo Cucchiarelli rilancia le domande sul caccia precipitato in Calabria e sulle incongruenze emerse nelle indagini successive all’abbattimento del DC9. Così una comunità dell'entroterra è diventata custode forzata di un segreto di Stato",
+      "link": "https://www.lacnews24.it/attualita/il-mig-libico-in-sila-la-strage-di-ustica-e-la-verita-manipolata-dal-tempo-il-cadavere-che-non-sapeva-mentire-jyhuvwx1",
       "published": "",
-      "source": "strettoweb.com",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Notizie in evidenza",
+      "summary": "In Italia i giovani che non studiano e non lavorano scendono al 13,3%, ma nel Mezzogiorno l'incidenza supera il 20%. Le donne restano le più penalizzate e la famiglia continua a fare da ammortizzatore sociale.",
+      "link": "https://www.lacnews24.it/economia-e-lavoro/neet-sei-giovani-su-dieci-cercano-lavoro-ma-restano-senza-opportunita-e-emergenza-al-sud-w9jztnp9",
+      "published": "",
+      "source": "lacnews24.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -250,89 +212,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Sud chiama Nord mette radici in Molise, De Luca: \"questa regione merita rispetto\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sud-chiama-nord-mette-radici-in-molise-de-luca-questa-regione-merita-rispetto/2106424/",
+      "title": "Neet, sei giovani su dieci cercano lavoro ma restano senza opportunità: è emergenza al Sud",
+      "summary": "In Italia i giovani che non studiano e non lavorano scendono al 13,3%, ma nel Mezzogiorno l'incidenza supera il 20%. Le donne restano le più penalizzate e la famiglia continua a fare da ammortizzatore sociale.",
+      "link": "https://www.lacnews24.it/economia-e-lavoro/neet-sei-giovani-su-dieci-cercano-lavoro-ma-restano-senza-opportunita-e-emergenza-al-sud-w9jztnp9",
       "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Mondiali 2026, terremoto in Norvegia? No! La terra trema a ogni gol di Haaland",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/mondiali-2026-terremoto-in-norvegia-no-la-terra-trema-a-ogni-gol-di-haaland/2106421/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reggio Calabria, Minasi sull'operazione “Piazza Pulita”: \"finisce l’era del degrado della sinistra, parte la stagione del buon governo\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-minasi-sulloperazione-piazza-pulita-finisce-lera-del-degrado-della-sinistra-parte-la-stagione-del-buon-governo/2106399/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Montebello, irreperibile dopo la condanna: catturato dai Carabinieri, deve scontare un anno per furto in abitazione",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/montebello-irreperibile-dopo-la-condanna-catturato-dai-carabinieri-deve-scontare-un-anno-per-furto-in-abitazione/2106402/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Operazione \"Piazza Pulita\", Falduto scrive a Cannizzaro: \"Sindaco, dal 6 luglio puoi fare quello che nessuno ha avuto il coraggio di fare\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/operazione-piazza-pulita-falduto-scrive-a-cannizzaro-sindaco-dal-6-luglio-puoi-fare-quello-che-nessuno-ha-avuto-il-coraggio-di-fare/2106394/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Piano Mattei per l’Africa, riunione della Cabina di regia: focus su bozza 3ª Relazione annuale",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/piano-mattei-per-lafrica-riunione-della-cabina-di-regia-focus-su-bozza-3a-relazione-annuale/2106385/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Messina, il ministro Schillaci premia il Prof. Bramanti",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/il-ministro-schillaci-premia-il-prof-bramanti-il-libro-la-fabbrica-dei-risvegli-sara-presentato-a-messina/2106391/",
-      "published": "",
-      "source": "strettoweb.com",
+      "source": "lacnews24.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -341,28 +225,41 @@
       "is_high_priority": false
     },
     {
-      "title": "La Domotek Volley si gode Boiko: esordio con l'Ucraina in VNL e vittoria contro l'Italia",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/la-domotek-volley-si-gode-boiko-esordio-con-lucraina-in-vnl-e-vittoria-contro-litalia/2106351/",
+      "title": "Sondaggi, Vannacci sorpassa Salvini: il generale diventa un rebus per Meloni e il centrodestra",
+      "summary": "Secondo l’Osservatorio Delphi, Futuro Nazionale è la quinta forza politica del Paese e supera la Lega. Renzi, intanto, può diventare game changer: con lui il campo largo salirebbe al 42,4%, sopra il centrodestra al 41,9%",
+      "link": "https://www.lacnews24.it/italia-mondo/sondaggi-vannacci-sorpassa-salvini-il-generale-diventa-un-rebus-per-meloni-e-il-centrodestra-nzgsessm",
       "published": "",
-      "source": "strettoweb.com",
+      "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "ucraina-russia"
+        "leader"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Operazione \"Piazza Pulita\", i Consiglieri di Reggio Futura: \"così Cannizzaro restituisce dignità e normalità\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/operazione-piazza-pulita-i-consiglieri-di-reggio-futura-cosi-cannizzaro-restituisce-dignita-e-normalita/2106370/",
+      "title": "Crollo del ponte di Longobucco tre anni fa, al via la ricostruzione: «Passo importante per il ripristino della normalità»",
+      "summary": "Dopo oltre tre anni dal crollo del collegamento sulla Sila Mare riprende il cantiere. Soddisfazione tra cittadini e istituzioni",
+      "link": "https://www.lacnews24.it/cronaca/crollo-del-ponte-di-longobucco-tre-anni-fa-al-via-la-ricostruzione-passo-importante-per-il-ripristino-della-normalita-ew6hkemr",
       "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
+      "source": "lacnews24.it",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "arresti"
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Famiglia sterminata a Roma: uccisi a coltellate padre, madre e figlia di 6 anni. È caccia al killer",
+      "summary": "Ferito l’altro figlio della coppia. Le vittime sono originarie del Bangladesh e senza precedenti di polizia",
+      "link": "https://www.lacnews24.it/italia-mondo/famiglia-sterminata-a-roma-uccisi-a-coltellate-padre-madre-e-figlia-di-6-anni-e-caccia-al-killer-y75v9su3",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -380,6 +277,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Il ricordoUstica, Mattarella: «Ricostruire quanto avvenne resta un dovere irrinunciabile»«Ottantuno vite distrutte, vicinanza ai familiari delle vittime»",
+      "summary": "Il ricordo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/ustica-mattarella-ricostruire-quanto-avvenne-resta-un-dovere-irrinunciabile/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "il terremotoVenezuela, bilancio drammatico: oltre 900 morti e 3 mila feritiTra le vittime 3 italo venezuelani",
       "summary": "il terremoto",
       "link": "https://www.corrieredellacalabria.it/2026/06/26/venezuela-bilancio-drammatico-oltre-900-morti-e-3-mila-feriti/",
@@ -393,41 +303,28 @@
       "is_high_priority": false
     },
     {
-      "title": "la condannaStrage di Viareggio, Moretti in carcere: «Rispetto lo Stato»Si è consegnato l’ex ad di Fs e Rfi",
-      "summary": "la condanna",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/strage-di-viareggio-moretti-in-carcere-rispetto-lo-stato/",
+      "title": "Ospedale della Sibaritide, al Siemens Tech Talks Buildings 2026 presentato il modello del primo Smart Hospital d’Italiasanità e innovazione",
+      "summary": "sanità e innovazione",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/ospedale-della-sibaritide-al-siemens-tech-talks-buildings-2026-presentato-il-modello-del-primo-smart-hospital-ditalia/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Incendio alla baraccopoli di Corigliano Rossano, è morto il migrante rimasto ustionato nel rogola tragedia",
-      "summary": "la tragedia",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/incendio-alla-baraccopoli-di-corigliano-rossano-e-morto-il-migrante-rimasto-ustionato-nel-rogo/",
+      "title": "Furto di 28mila euro alla parrocchia “San Giovanni Calabria”, arrestato un 53ennele indagini",
+      "summary": "le indagini",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/furto-di-28mila-euro-alla-parrocchia-san-giovanni-calabria-arrestato-un-53enne/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reggina, il gruppo Lotito acquisisce il club: chiuso il passaggio di proprietàla nuova era",
-      "summary": "la nuova era",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/reggina-il-gruppo-lotito-acquisisce-il-club-chiuso-il-passaggio-di-proprieta/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -445,15 +342,54 @@
       "is_high_priority": false
     },
     {
-      "title": "L’ambasciatore degli Stati Uniti “sbarca” in Calabria, atteso a Vibo Marina con il suo yachtcoastal diplomacy",
-      "summary": "coastal diplomacy",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/lambasciatore-degli-stati-uniti-sbarca-in-calabria-atteso-a-vibo-marina-con-il-suo-yacht/",
+      "title": "Crotone, chiuso un esercizio commerciale abusivo ed elevate sanzioni. Sequestrato pesce non tracciatoFocus ‘Ndrangheta",
+      "summary": "Focus ‘Ndrangheta",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/crotone-chiuso-un-esercizio-commerciale-abusivo-ed-elevate-sanzioni-sequestrato-pesce-non-tracciato/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggina, il gruppo Lotito acquisisce il club: chiuso il passaggio di proprietàla nuova era",
+      "summary": "la nuova era",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/reggina-il-gruppo-lotito-acquisisce-il-club-chiuso-il-passaggio-di-proprieta/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "la ricercaTumore al cervello, cellule “dormienti” potrebbero causare la recidiva del glioblastoma: uno studio Unical apre strada a nuove terapie",
+      "summary": "la ricerca",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/tumore-al-cervello-cellule-dormienti-potrebbero-causare-la-recidiva-del-glioblastoma-uno-studio-unical-apre-strada-a-nuove-terapie/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Incendio alla baraccopoli di Corigliano Rossano, è morto il migrante rimasto ustionato nel rogola tragedia",
+      "summary": "la tragedia",
+      "link": "https://www.corrieredellacalabria.it/2026/06/26/incendio-alla-baraccopoli-di-corigliano-rossano-e-morto-il-migrante-rimasto-ustionato-nel-rogo/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -467,32 +403,6 @@
       "priority": 0,
       "categories": [
         "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dua Lipa incantata dall’Italia, sui social pubblica il tramonto di Tropeail viaggio nel sud",
-      "summary": "il viaggio nel sud",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/dua-lipa-incantata-dallitalia-sui-social-pubblica-il-tramonto-di-tropea/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Ospitalità diffusa, la sfida vinta da Santa Caterina dello IonioMeraviglie di Calabria",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.meravigliedicalabria.it/ospitalita-diffusa-la-sfida-vinta-da-santa-caterina-ello-ionio/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -523,50 +433,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Fiorello e Amadeus insieme ad Occhiuto: «Un saluto ai nostri cugini calabresi» – VIDEO“Siparietto tra il presidente della Regione e i due grandi protagonisti dello spettacolo italiano. «È “longa” la Calabria»26 Giugno, 22:51",
-      "summary": "“Siparietto tra il presidente della Regione e i due grandi protagonisti dello spettacolo italiano. «È “longa” la Calabria»",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/fiorello-e-amadeus-insieme-ad-occhiuto-un-saluto-ai-nostri-cugini-calabresi-video/",
+      "title": "Ustica, Mattarella: «Ricostruire quanto avvenne resta un dovere irrinunciabile»“«Ottantuno vite distrutte, vicinanza ai familiari delle vittime»27 Giugno, 10:49",
+      "summary": "“«Ottantuno vite distrutte, vicinanza ai familiari delle vittime»",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/ustica-mattarella-ricostruire-quanto-avvenne-resta-un-dovere-irrinunciabile/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Venezuela, bilancio drammatico: oltre 900 morti e 3 mila feriti“Tra le vittime 3 italo venezuelani26 Giugno, 20:33",
-      "summary": "“Tra le vittime 3 italo venezuelani",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/venezuela-bilancio-drammatico-oltre-900-morti-e-3-mila-feriti/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Mauro Moretti, l’ultimo “martire” dell’alleanza bipartisan dei garantisti: “È uno dei migliori manager”. Perché è stato condannato: cosa dicono le sentenze",
-      "summary": "Una condanna &#8220;assurda&#8220;. Di più: &#8220;Il garantismo qui non è un favore a Moretti: è una garanzia per tutti&#8221;. Ancora: &#8220;Che senso ha mandarlo in carcere?&#8221;. Insomma, siamo &#8220;alla deriva della cultura dello scalpo&#8220;. A qualcuno, addirittura, &#8220;ribolle il sa",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/strage-viareggio-moretti-condanna-sentenze-notizie/8431530/",
-      "published": "Fri, 26 Jun 2026 20:39:46 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Morte di Chiara Jaconis, rinviati a giudizio i genitori del 13enne che per l’accusa lanciò la statuetta da un balcone",
-      "summary": "Il giudice dell&#8217;udienza preliminare di Napoli ha disposto il rinvio a giudizio dei genitori del ragazzino ritenuto responsabile del lancio della pesante statuetta che il 15 settembre 2024 colpì alla testa Chiara Jaconi, la turista padovana mentre passeggiava con il fidanzato nei Quartieri Spag",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/undefined-22/8431778/",
-      "published": "Fri, 26 Jun 2026 20:27:29 +0000",
-      "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -575,38 +446,24 @@
       "is_high_priority": false
     },
     {
-      "title": "Firmato l’accordo Israele-Libano, Rubio: “È un primo passo”. Netanyahu: “Non ci ritireremo dal sud”. Hezbollah rifiuta l’intesa",
-      "summary": "Il Libano, Israele e gli Stati Uniti hanno annunciato di aver siglato un accordo quadro a Washington al termine del quinto round di negoziati diretti. &#8220;È solo l’inizio dell’inizio&#8221;, ha detto il Segretario di Stato americano Marco Rubio durante la cerimonia della firma. &#8220;C&#8217;è a",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/trump-iran-droni-hormuz-notizie/8431579/",
-      "published": "Fri, 26 Jun 2026 17:53:30 +0000",
+      "title": "Il sondaggio Ipsos: la Lega sotto Vannacci e Avs, arretra Fratelli d’Italia. Ma sale il gradimento di Meloni",
+      "summary": "La polemica con Donald Trump sembra aver rafforzato Giorgia Meloni. Il gradimento nei confronti della presidente del Consiglio e del governo è in lieve crescita, mentre nelle intenzioni di voto il centrodestra tradizionale perde ancora terreno per l&#8217;avanzata di Roberto Vannacci. Sono le indica",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/sondaggio-ipsos-vannacci-lega-meloni-oggi/8431871/",
+      "published": "Sat, 27 Jun 2026 08:48:35 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "medio-oriente",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Trump: “Dazi del 100% sui prodotti dei Paesi europei che impongono digital tax”. Nel mirino anche l’Italia?",
-      "summary": "Donald Trump torna all&#8217;attacco contro le web tax europee e alza ulteriormente il livello dello scontro. Se nel febbraio 2025 aveva definito le imposte sui servizi digitali applicate da Italia, Francia, Spagna e altri Paesi una forma di &#8220;estorsione&#8221; nei confronti delle aziende ameri",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/trump-dazi-digital-tax-europa-notizie/8431550/",
-      "published": "Fri, 26 Jun 2026 17:04:04 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "guerre",
+        "politica",
         "leader"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Chi costruisce davvero gli smartphone? Uno sguardo dietro le quinte sul loro sviluppo tra “OEM” e “ODM”",
-      "summary": "Quando si acquista uno smartphone molto probabilmente la scelta parte dal marchio, prosegue sulla qualità delle fotocamere, poi si passa alla memoria disponibile e, naturalmente si valuta anche il prezzo. È normale pensare che ogni modello sia stato immaginato, progettato e costruito dall’azienda ch",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/oem-odm-smartphone-longcheer-produzione-notizie/8431110/",
-      "published": "Fri, 26 Jun 2026 16:47:45 +0000",
+      "title": "Flotilla, sbloccati dopo mesi gli aiuti raccolti a Genova: 240 tonnellate distribuite agli sfollati di Gaza al confine con la Cisgiordania",
+      "summary": "Gli aiuti arrivano ai gazawi. Ma non a Gaza. Dopo nove mesi di blocchi e trattative, Music for Peace ha iniziato a distribuire 240 tonnellate tra quelle raccolte a Genova nell’agosto 2025 per la Flotilla: 9.000 pacchi famiglia ai palestinesi sfollati dalla Striscia e ospitati nei campi tra Giordania",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/flotilla-gaza-aiuti-umanitari-notizie/8431838/",
+      "published": "Sat, 27 Jun 2026 08:37:26 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -616,36 +473,51 @@
       "is_high_priority": false
     },
     {
-      "title": "Nuova diga di Genova, caporalato nel cantiere: otto arresti. Operai obbligati a cedere parte dello stipendio e a comprare i dispositivi di sicurezza",
-      "summary": "Costringevano gli operai a cedere parte del loro stipendio, anche il 40-60%, e a partecipare alle spese per i dispositivi di protezione individuale in cantiere e per il canone di affitto dell&#8217;alloggio intestato alla società. Per questo i carabinieri di Savona, con il supporto dei militari dell",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/nuova-diga-di-genova-caporalato-nel-cantiere-otto-arresti-operai-obbligati-a-cedere-parte-dello-stipendio-e-a-comprare-i-dispositivi-di-sicurezza/8431444/",
-      "published": "Fri, 26 Jun 2026 16:44:20 +0000",
+      "title": "Scoppia la “guerra dei lettini”, 13enne occupa un posto non suo e viene presa a pugni: “Portata via con il sangue che le colava dal naso, sembrava un attentato terroristico”",
+      "summary": "Una ragazzina britannica di 13 anni è stata colpita da un pugno in pieno volto per aver occupato un lettino a bordo piscina che non era il suo. È accaduto in un resort in Costa Brava, a 45 minuti d&#8217;auto da Barcellona. Lo racconta il tabloid The Sun, che scrive come la giovane avrebbe riportato",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/scoppia-la-guerra-dei-lettini-13enne-occupa-un-posto-non-suo-e-viene-presa-a-pugni-portata-via-con-il-sangue-che-le-colava-dal-naso-sembrava-un-attentato-terroristico/8431874/",
+      "published": "Sat, 27 Jun 2026 08:36:39 +0000",
       "source": "ilfattoquotidiano.it",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "arresti"
+        "guerre",
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "“Ho bisogno del vostro appoggio: forte, esplicito e pubblico”. L’operazione di Papa Leone XIV con i cardinali per ricompattare la Chiesa",
-      "summary": "C&#8217;è un passaggio dell&#8216;introduzione di Papa Leone XIV al Concistoro straordinario del 26-27 giugno, pronunciata nel mezzo del suo discorso, quasi impercettibilmente, ma che merita di essere sottolineata per capire la portata della due giorni della Chiesa cattolica: &#8220;Non siamo qui pe",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/concistoro-straordinario-papa-leone-xiv-cardinali-notizie/8431402/",
-      "published": "Fri, 26 Jun 2026 16:40:36 +0000",
+      "title": "Clan e politica, la relazione della commissione d’accesso sul ‘Sistema Sorrento’: “Coppola non tutelò l’ente dai condizionamenti di noti pregiudicati”",
+      "summary": "La commissione d’accesso presieduta dal vice prefetto Vincenzo Chietti accertò a Sorrento “un quadro di eccezionale gravità, nel quale i molteplici elementi raccolti convergono in modo univoco nel delineare una condizione di concreta, stabile e significativa permeabilità dell’Ente comunale di Sorren",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/sistema-sorrento-relazione-commissione-accesso-notizie/8431496/",
+      "published": "Sat, 27 Jun 2026 08:24:26 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "arresti"
+        "generico"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Vertice Nato in Turchia, arrestate più di 100 persone: ci sono anche attivisti Lgbt, giornalisti e avvocati. Negato l’accredito a decine di testate",
-      "summary": "La polizia turca ha arrestato 103 persone con l&#8217;accusa di &#8220;reati legati al terrorismo&#8220;, dopo le perquisizioni di massa effettuate prima del vertice Nato previsto nella capitale Ankara il 7 e 8 luglio. Inizialmente, durante le operazioni del 23 e 24 giugno, erano state fermate 225 p",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/turchia-arresti-vertice-nato-ankara-notizie/8431471/",
-      "published": "Fri, 26 Jun 2026 16:27:26 +0000",
+      "title": "Da Caracas i nuovi immigrati? Il terremoto e la scelta patriottica di Meloni",
+      "summary": "Il Venezuela è un paese bellissimo ma disgraziato, ricchissimo ma disperato. Questo terremoto distruttivo rende la certezza che il Venezuela non sia neanche più per il mondo occidentale un&#8217;emergenza. Gli Stati Uniti che hanno realizzato il colpo di Stato rapendo il dittatore Maduro ma allinean",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/terremoto-venezuela-meloni-immigrazione-notizie/8431596/",
+      "published": "Sat, 27 Jun 2026 08:17:26 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Terremoto in Venezuela, almeno 900 morti: anche quattro italo-venezuelani. Oltre 50mila i dispersi. Gli Usa allentano le sanzioni",
+      "summary": "Oltre 900 morti confermati tra cui quattro italo-venezuelani, circa 3.400 feriti e più di 50mila persone ancora segnalate come disperse. Mentre in Venezuela continua la corsa contro il tempo per cercare sopravvissuti tra le macerie del devastante doppio terremoto di magnitudo 7,5 e 7,2 che ha colpit",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/terremoto-venezuela-morti-dispersi-notizie/8431839/",
+      "published": "Sat, 27 Jun 2026 08:05:01 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -655,36 +527,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Ho rivisto Vasco in concerto e capito cosa è veramente cambiato nel 2017: ha trovato la pace",
-      "summary": "Sono stato con molta gioia a vedere un altro concerto di Vasco Rossi, stavolta ad Ancona, allo stadio del Conero. Vasco ha una poetica talmente cesellata nel suo repertorio, che individua percorsi di senso molto significativi e, in un periodo di guerre e genocidi, infila una dopo l’altra Faccio il m",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/vasco-rossi-poetica-rimpianto-redenzione-notizie/8429860/",
-      "published": "Fri, 26 Jun 2026 16:16:27 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sei sindacalisti Si Cobas e Usb prosciolti dall’accusa di associazione a delinquere per le proteste nella logistica",
-      "summary": "Sono stati prosciolti dall&#8217;accusa di associazione per delinquere e da gran parte degli altri reati contestati i sei sindacalisti di Si Cobas e Usb arrestati nel luglio 2022 nell&#8217;ambito dell&#8217;inchiesta della Procura di Piacenza sulle vertenze nel settore della logistica. La gup Franc",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/sindacalisti-logistica-piacenza-proscioglimento-notizie/8431468/",
-      "published": "Fri, 26 Jun 2026 15:52:23 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Salvini pensa a Strisciuglio come nuovo ad di Fs: è imputato per la strage di Brandizzo. La protesta dei parenti delle vittime",
-      "summary": "I problemi di Matteo Salvini nella gestione delle ferrovie potrebbero non essere finiti con la mossa di palazzo attraverso la quale si è sbarazzato di Stefano Donnarumma, togliendogli la poltrona di amministratore delegato di Ferrovie dello Stato. Il ministro dei Trasporti sarebbe infatti intenziona",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/salvini-strisciuglio-ad-fs-imputato-strage-brandizzo-protesta-parenti-vittime/8431419/",
-      "published": "Fri, 26 Jun 2026 15:30:35 +0000",
+      "title": "Francesca Michielin ha sposato Davide Spigarolo, cerimonia per pochi intimi e poi la fuga in vespa rossa",
+      "summary": "Dopo aver celebrato il Pride a Roma, di cui era madrina, Francesca Michielin ha indossato l&#8217;abito da sposa per sposare Davide Spigarolo. La coppia si è scambiata gli anelli ieri, 26 giugno, nella Pieve di Sant’Eusebio, a Bassano del Grappa. Durante la cerimonia preghiere, letture e canti tra i",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/francesca-michielin-ha-sposato-davide-spigarolo-cerimonia-per-pochi-intimi-e-poi-la-fuga-in-vespa-rossa/8431840/",
+      "published": "Sat, 27 Jun 2026 07:58:12 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "italia",
       "priority": 0,
@@ -694,11 +540,116 @@
       "is_high_priority": false
     },
     {
-      "title": "Qual è il vero stato di salute del sistema culturale italiano? Secondo la Siae, va tutto bene",
-      "summary": "Venerdì mattina 26 giugno, nella splendida sede romana dell’associazione Civita a Piazza Venezia, la Siae ha offerto col suo “annuario statistico” 2025 una nuova numerologia positiva, secondo la quale lo stato di salute del sistema culturale italiano sarebbe eccellente, con particolare attenzione al",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/26/annuario-siae-cultura-spettacolo-notizie/8431443/",
-      "published": "Fri, 26 Jun 2026 15:30:27 +0000",
+      "title": "“La mia famiglia è sparsa in giro nel mondo ed è composta da persone con cui mi sento al sicuro. Stiamo 45 ore insieme senza telefonini e ci vomitiamo la vita addosso”: così Eduardo Scarpetta",
+      "summary": "Una famiglia un po&#8217; disfunzionale, ma legata da affetto profondo e con mille ferite. Si sviluppa così la storia della seconda stagione di &#8220;Storia della mia famiglia&#8220;, la dramedy targata Netflix in 6 episodi, creata da Filippo Gravino, e da lui scritta insieme a Elisa Dondi, prodott",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/la-mia-famiglia-non-biologica-e-sparsa-nel-mondo-ed-e-fatta-di-persone-con-cui-mi-sento-al-sicuro-stiamo-45-ore-insieme-senza-telefonini-cosi-eduardo-scarpetta/8429042/",
+      "published": "Sat, 27 Jun 2026 07:32:26 +0000",
       "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Telecamere, sensori termici e proiettili ‘full metal jacket’: così i droni di Israele uccidono i bambini a Gaza. Lo studio forense: “Mirano alla testa”",
+      "summary": "Il primo segno che sono nei paraggi è quasi sempre un ronzio. Non il rombo di un caccia, né quello di un elicottero. Un rumore sottile, persistente, elettrico. Significa che il quadricottero è immobile sospeso su una strada, una tenda, un cortile. Poi esplode un singolo colpo. Alla testa. Al collo. ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/droni-israele-gaza-bambini-studio-forense/8431429/",
+      "published": "Sat, 27 Jun 2026 06:55:39 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "medio-oriente"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Usa, la guerra all’Iran è costata 40 miliardi: “Altri 40 ricadranno sulle famiglie per il prezzo della benzina”",
+      "summary": "Tra i 34 e i 42 miliardi, considerando solo i costi aggiuntivi dovuti alle operazioni militari &#8211; che al momento non sono coperti né dal budget per il 2026 né dalla previsione per il 2027 &#8211; ed escludendo le voci di spesa già previste nel bilancio del Dipartimento della Difesa. Senza conta",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/27/guerra-usa-iran-costi-miliardi-notizie/8431059/",
+      "published": "Sat, 27 Jun 2026 06:55:20 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Unioni civili, in 10 anni formalizzati 24mila legami",
+      "summary": "Il quadro normativo resta incompleto: dalla genitorialità alle adozioni, molte questioni continuano a essere affidate alle decisioni dei tribunali",
+      "link": "https://www.ilsole24ore.com/art/unioni-civili-10-anni-formalizzati-24mila-legami-AIsPQXqD",
+      "published": "Sat, 27 Jun 2026 08:39:43 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Diritti Lgbtq+, il ruolo delle sentenze nel cantiere aperto tra Italia e Ue",
+      "summary": "Dalla legge contro l’omotransfobia al diritto di famiglia il legislatore italiano non sta affrontando i nodi per disegnare un quadro normativo coerente con le politiche Ue",
+      "link": "https://www.ilsole24ore.com/art/diritti-lgbtq-ruolo-sentenze-cantiere-aperto-italia-e-ue-AIsMywpD",
+      "published": "Sat, 27 Jun 2026 08:38:19 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mattarella: 46 anni dalla strage di Ustica, impegno per la verità e la memoria",
+      "summary": "«Sono trascorsi 46 anni dalla strage nei cieli di Ustica. In questo giorno di raccoglimento e di memoria, il pensiero di vicinanza e di solidarietà va anzitutto ai familiari delle...",
+      "link": "https://www.ilsole24ore.com/art/mattarella-46-anni-strage-ustica-impegno-la-verita-e-memoria-AISTVAuD",
+      "published": "Sat, 27 Jun 2026 08:36:26 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Padre madre e figlia uccisi a Roma, ferito l’altro figlio. Ricercato amico di famiglia",
+      "summary": "Tre persone della stessa famiglia sono state uccise nella loro abitazione, in via Montiglio nel quartiere Aurelio a Roma, in località Casalotti. A perdere la vita sono stati Kamal Uddin,...",
+      "link": "https://www.ilsole24ore.com/art/padre-madre-e-figlia-uccisi-periferia-roma-ferito-l-altro-figlio-AInL57tD",
+      "published": "Sat, 27 Jun 2026 07:36:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Forze a elevata prontezza, nel 2025 l’Esercito italiano ha impiegato oltre 12mila militari",
+      "summary": "Le indicazioni nel Rapporto 2025 della Forza armata. Tra gli assetti della Forza Armata offerti all’Alleanza Atlantica hanno avuto particolare importanza le Over The Horizon Reserve Forces, unità in riserva per l’area balcanica più volte schierate in Kosovo e Bosnia-Erzegovina (seppure in configuraz",
+      "link": "https://www.ilsole24ore.com/art/forze-elevata-prontezza-2025-l-esercito-italiano-ha-impiegato-oltre-12mila-militari-AIchMItD",
+      "published": "Sat, 27 Jun 2026 06:27:56 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il caso Moretti: capire le imprese complesse, non cercare capri espiatori»",
+      "summary": "Il giorno dopo l’ultima sentenza su uno dei peggiori disastri ferroviari italiani, a Viareggio i familiari delle vittime restano col loro dolore; ad Orvieto Mauro Moretti, ex amministratore delegato di...",
+      "link": "https://www.ilsole24ore.com/art/il-caso-moretti-capire-imprese-complesse-non-cercare-capri-espiatori-AIMM5WtD",
+      "published": "Sat, 27 Jun 2026 06:19:14 GMT",
+      "source": "ilsole24ore.com",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -720,33 +671,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Trenitalia, attacco hacker su alcuni dati dei clienti",
-      "summary": "A ottobre 2025 Trenitalia ha rilevato un tentativo di attacco informatico causato da soggetti esterni non identificati. L’evento ha determinato “un accesso ad alcuni dati personali di una parte dei...",
-      "link": "https://www.ilsole24ore.com/art/trenitalia-attacco-hacker-alcuni-dati-clienti-AIC4mGtD",
-      "published": "Fri, 26 Jun 2026 13:00:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "guerre",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Confindustria, economia in stallo: petrolio in calo ma inflazione e tassi salgono",
-      "summary": "Economia in stallo. È l’indicazione per il secondo semestre dell’anno del Centro studi di Confindustria. L’accordo per porre fine alla guerra in Iran è avvolto da molte incertezze, i transiti...",
-      "link": "https://www.ilsole24ore.com/art/confindustria-economia-stallo-petrolio-calo-ma-inflazione-e-tassi-salgono-AIXWZ0sD",
-      "published": "Fri, 26 Jun 2026 09:42:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "guerre"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Mother dies saving daughter in Venezuela earthquakes",
       "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
@@ -760,10 +684,23 @@
       "is_high_priority": false
     },
     {
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
       "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 16:45:21 GMT",
+      "published": "Sat, 27 Jun 2026 02:57:20 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -799,50 +736,23 @@
       "is_high_priority": false
     },
     {
-      "title": "Row over alleged theft of donations from India's landmark Ram temple",
-      "summary": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
-      "link": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 01:02:36 GMT",
+      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
+      "summary": "The BBC asks Westerners who moved to Russia if life there lives up to expectations.",
+      "link": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:02:05 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "ucraina-russia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-      "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 02:18:04 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 09:06:59 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 14:00:13 GMT",
+      "title": "Hit South African show gets the world talking about polygamy and cheating",
+      "summary": "The Zulu-language series about a man with multiple wives is a worldwide hit. ",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:02:23 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
