@@ -1,43 +1,56 @@
 {
-  "last_update": "2026-07-02T10:21:01.321582",
-  "total_news": 66,
+  "last_update": "2026-07-02T18:18:40.245607",
+  "total_news": 71,
   "news": [
     {
-      "title": "Omicidio a Civitanova Marche: 62enne ucciso a coltellate in casa. Sospettata la compagna",
-      "summary": "È stato colpito da diverse coltellate, probabilmente al culmine di una lite nel suo appartamento. È morto così Marco Pennesi, 62 anni, a Civitanova Marche, in provincia di Macerata. L&#8217;omicidio è avvenuto nella serata di mercoledì in viale Matteotti, sul lungomare nord della cittadina marchigia",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/civitanova-marche-omicidio-marco-pennesi-indagini-ultime-notizie/8436944/",
-      "published": "Thu, 02 Jul 2026 10:04:39 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "crime_italy",
-      "priority": 10,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Nord Stream, France Press: “Per la Germania il sabotaggio dei gasdotti fu commissionato dalle autorità ucraine”",
-      "summary": "La ricostruzione dell&#8217;attentato ai gasdotti Nord Stream compie un salto di qualità sul piano investigativo e politico. Se fino a oggi l&#8217;inchiesta della Procura federale tedesca aveva individuato i presunti esecutori materiali del sabotaggio del settembre 2022 e formalizzato solo ieri le ",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/nord-stream-france-press-per-la-germania-il-sabotaggio-dei-gasdotti-fu-commissionato-dalle-autorita-ucraine/8436973/",
-      "published": "Thu, 02 Jul 2026 09:21:08 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "crime_italy",
-      "priority": 10,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Latina, scoperto studio dentistico abusivo: sequestrato, un uomo denunciato",
-      "summary": "Una fiala di anestetico scaduta da oltre quattro anni, conservata a pochi centimetri da polvere e scarti di lavorazione: è uno dei dettagli emersi dal blitz della Guardia di finanza...",
-      "link": "https://www.ilsole24ore.com/art/latina-scoperto-studio-dentistico-abusivo-sequestrato-uomo-denunciato-AIRjxgyD",
-      "published": "Thu, 2 Jul 2026 07:55:29 GMT",
-      "source": "ilsole24ore.com",
+      "title": "Mafia turca, ridotte le condanne ad arrestati in blitz Tuscia",
+      "summary": "02 07 26 - 18:37",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/mafia-turca-ridotte-le-condanne-ad-arrestati-in-blitz-tuscia",
+      "published": "",
+      "source": "antimafiaduemila.com",
       "section": "ndrangheta",
       "priority": 10,
       "categories": [
         "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "la svoltaOmicidio di Elisa Claps, si riapre l’inchiestaIl procuratore Camillo Falvo: «Alcuni casi meritano piena verità»",
+      "summary": "la svolta",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/omicidio-di-elisa-claps-si-riapre-linchiesta/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "crime_italy",
+      "priority": 10,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "'Ndrangheta, 90 terreni restituiti ai legittimi proprietari nel crotonese",
+      "summary": "02 07 26 - 19:11",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/ndrangheta-90-terreni-restituiti-ai-legittimi-proprietari-nel-crotonese",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sindaco, 'a Cerignola c'è la mafia più pericolosa, servono rinforzi'",
+      "summary": "02 07 26 - 16:05",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-puglia/sindaco-a-cerignola-ce-la-mafia-piu-pericolosa-servono-rinforzi",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
       ],
       "is_high_priority": false
     },
@@ -81,48 +94,48 @@
       "is_high_priority": false
     },
     {
-      "title": "Prescrizione ancora letale in Appello: un processo su cinque finisce nel cestino",
-      "summary": "23 06 26 - 17:54",
-      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/cronache-italia/prescrizione-ancora-letale-in-appello-un-processo-su-cinque-finisce-nel-cestino",
-      "published": "",
-      "source": "antimafiaduemila.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Narcotraffico: esercito Usa colpisce imbarcazione nel Mar dei Caraibi, due morti",
-      "summary": "22 06 26 - 18:57",
-      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/world-news/narcotraffico-esercito-usa-colpisce-imbarcazione-nel-mar-dei-caraibi-due-morti",
-      "published": "",
-      "source": "antimafiaduemila.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Perquisizione all'ex primario vicino a Messina Denaro, sequestrata una pistola",
-      "summary": "20 06 26 - 18:02",
-      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/perquisizione-allex-primario-vicino-a-messina-denaro-sequestrata-una-pistola",
-      "published": "",
-      "source": "antimafiaduemila.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Bandiera blu a Locri, Greco (Parchi marini): «Modello che parte da educazione ambientale e servizi»",
+      "title": "Economia e Lavoro",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/rubriche/parchi-marini-calabria/bandiera-blu-a-locri-greco-parchi-marini-modello-che-parte-da-educazione-ambientale-e-servizi-n11sskeh",
+      "link": "https://www.lacnews24.it/video/economia-e-lavoro",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sottosegretari regionali, accolto il ricorso dell'opposizione: necessario ilreferendumper la modifica dello Statuto",
+      "summary": "Fissata una conferenza stampa con i legali che curato hanno il ricorso. La minoranza: «Occhiuto oltre a noi voleva zittire anche i calabresi, ma gli è andata male». Resta il problema della posizione dell'unico sottosegretario già nominato: Ettore Figliolia",
+      "link": "https://www.lacnews24.it/politica/sottosegretari-regionali-accolto-il-ricorso-dellopposizione-necessario-il-referendum-per-la-modifica-dello-statuto-w8gowcgq",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il ministro della CulturaGiuli a Reggio: «I basamenti dei Bronzi di Riace? Ci stiamo lavorando»",
+      "summary": "Il rappresentante del Governo nella città dello Stretto per l'inaugurazione dell'opera “Fontana ferma” di Piero Pizzi Cannella",
+      "link": "https://www.lacnews24.it/cultura/stretto-contemporaneo-il-ministro-giuli-a-reggio-per-la-fontana-ferma-di-piero-pizzi-cannella-d7f57tv0",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Arriva in fin di vita al pronto soccorso emuore in ospedale: l’ambulanza era senza medico, aperta inchiesta a Catanzaro",
+      "summary": "Gli accertamenti investigativi sono affidati alla squadra mobile che ha posto sotto sequestro attrezzatura in uso al mezzo di soccorso. Eseguita l’autopsia sul corpo del giovane, noto in città perché appartenente ad una associazione di volontariato",
+      "link": "https://www.lacnews24.it/cronaca/arriva-in-fin-di-vita-al-pronto-soccorso-e-muore-in-ospedale-lambulanza-era-senza-medico-aperta-uninchiesta-a-catanzaro-fot74hv3",
       "published": "",
       "source": "lacnews24.it",
       "section": "ndrangheta",
@@ -133,9 +146,9 @@
       "is_high_priority": false
     },
     {
-      "title": "’Ndrangheta, l'assalto (in 5 fasi) del clan Piromalli ad Amazon: le estorsioni e il patto con i colletti bianchi",
-      "summary": "Dalle mazzette pasquali al controllo dei curriculum: l’informativa del Ros svelano il piano del capobastone di Gioia Tauro per infiltrare il nuovo polo logistico. Un’indagine che attraversa patti di protezione, furti simulati e il ruolo chiave di un avvocato vicino alla cosca",
-      "link": "https://www.lacnews24.it/cronaca/ndrangheta-lassalto-in-5-fasi-del-clan-piromalli-ad-amazon-le-estorsioni-e-il-patto-con-i-colletti-bianchi-radz1b3c",
+      "title": "ProcessoPropaggine, 8 assoluzioni e 4 condanne in appello: ridotta una pena, confermate le altre",
+      "summary": "La Corte d'appello di Reggio Calabria chiude il secondo grado del processo nato dall'inchiesta sulla cosca Alvaro: 12 anni invece che 14 per Francesco Carmelitano",
+      "link": "https://www.lacnews24.it/cronaca/processo-propaggine-8-assoluzioni-e-4-condanne-in-appello-ridotta-una-pena-confermate-le-altre-t2w3s1wg",
       "published": "",
       "source": "lacnews24.it",
       "section": "ndrangheta",
@@ -146,9 +159,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Investimenti inesistenti per ottenere fondi pubblici, sequestrati nel Vibonese beni per8,5 milionia imprenditore turistico",
-      "summary": "Le indagini della Guardia di Finanza ipotizzano indebita percezione di erogazioni pubbliche e indebita compensazione. Contestati investimenti fittizi (o inammissibili) relativi a strutture ricettive della Costa degli Dei",
-      "link": "https://www.lacnews24.it/cronaca/investimenti-inesistenti-per-ottenere-fondi-pubblici-sequestrati-nel-vibonese-beni-per-8-5-milioni-a-imprenditore-turistico-dfjl0ewg",
+      "title": "Medico rientra Calabria dopo aver studiato al Nord e si rivolge ai colleghi: «Tornate per valorizzare questo territorio»",
+      "summary": "Mattia racconta la scelta di ritornare nella sua terra per la specializzazione. Il presidente Occhiuto: «Grazie dottor Madeo»",
+      "link": "https://www.lacnews24.it/sanita/medico-rientra-calabria-dopo-aver-studiato-al-nord-e-si-rivolge-ai-colleghi-tornate-per-valorizzare-questo-territorio-x3zgw12z",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -159,9 +172,22 @@
       "is_high_priority": false
     },
     {
-      "title": "’Ndrangheta, confiscati beni per oltreun milione di euroalla cosca Bagnato: 90 terreni tornano ai legittimi proprietari",
-      "summary": "VIDEO | Dopo le condanne definitive, il Tribunale di Catanzaro dispone la confisca di terreni, immobili e aziende agricole riconducibili al clan di Roccabernarda. Accertata la sottrazione illecita di decine di appezzamenti",
-      "link": "https://www.lacnews24.it/cronaca/ndrangheta-confiscati-beni-per-oltre-un-milione-di-euro-alla-cosca-bagnato-90-terreni-tornano-ai-legittimi-proprietari-lzofdl7w",
+      "title": "Buona sanità in Calabria, paziente ringrazia l’ospedale di Germaneto: «Salvata due volte dai medici»",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lacnews24.it/sanita/buona-sanita-in-calabria-paziente-ringrazia-lospedale-di-germaneto-salvata-due-volte-dai-medici-wcop7n16",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Maxiprocesso Maestrale: le accuse e le assoluzioni nei confronti degli imputati Pasqua e Garisto",
+      "summary": "L’ex dirigente dell’Asp si trovava sotto processo per concorso esterno in associazione mafiosa, scambio elettorale politico-mafioso, corruzione e minaccia aggravata. La penalista vibonese rispondeva invece di favoreggiamento nei confronti del boss di Zungri",
+      "link": "https://www.lacnews24.it/cronaca/maxiprocesso-maestrale-le-accuse-e-le-assoluzioni-nei-confronti-degli-imputati-pasqua-e-garisto-xj5xz6os",
       "published": "",
       "source": "lacnews24.it",
       "section": "ndrangheta",
@@ -172,74 +198,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Rifiuti, Italia sempre più virtuosa: aumentano iComuni Ricicloni, tre riconoscimenti alla Calabria",
-      "summary": "Legambiente certifica l'aumento dei comuni virtuosi nella gestione dei rifiuti, saliti a 675 in tutta Italia. Morano Calabro, Casali del Manco e Siderno tra i vincitori nazionali",
-      "link": "https://www.lacnews24.it/ambiente/rifiuti-italia-sempre-piu-virtuosa-aumentano-i-comuni-ricicloni-tre-riconoscimenti-alla-calabria-dwiy5n9z",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Notizie in evidenza",
-      "summary": "Nella Relazione al Parlamento 2026 spiccano l’analisi delle acque reflue a Catanzaro e Vibo Valentia e lo screening dell’aerosol atmosferico a Cosenza: ecco la diffusione delle sostanze stupefacenti dal Pollino allo Stretto. Continuano i sequestri record ai narcos mentre la regione zoppica sulle str...",
-      "link": "https://www.lacnews24.it/cronaca/cocaina-marijuana-e-ketamina-la-mappa-delle-droghe-in-calabria-che-resta-hub-della-polvere-bianca-pxr6ey42",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Cocaina, marijuana e ketamina: la mappa delle droghe in Calabria (che resta hub della polvere bianca)",
-      "summary": "Nella Relazione al Parlamento 2026 spiccano l’analisi delle acque reflue a Catanzaro e Vibo Valentia e lo screening dell’aerosol atmosferico a Cosenza: ecco la diffusione delle sostanze stupefacenti dal Pollino allo Stretto. Continuano i sequestri record ai narcos mentre la regione zoppica sulle str...",
-      "link": "https://www.lacnews24.it/cronaca/cocaina-marijuana-e-ketamina-la-mappa-delle-droghe-in-calabria-che-resta-hub-della-polvere-bianca-pxr6ey42",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "droga"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "A Cosenza la cocaina fluttua nell'aria: ecco i risultati delle rilevazioni in centro",
-      "summary": "Nella Relazione al Parlamento sul fenomeno delle dipendenze, introdotte metodologie scientifiche d’avanguardia per mappare il consumo di stupefacenti. Il sito della Città dei Ragazzi faceva parte di ristretto un nucleo di 17 zone individuate per le analisi specialistiche. Ecco cosa è emerso",
-      "link": "https://www.lacnews24.it/cronaca/cosenza-scelta-per-il-progetto-psico-nellaria-tracce-di-cocaina-e-ketamina-f5107qst",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "droga"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Spaccio a Castrovillari, nel mirino 5 pusher: vendute dosi di cocaina, hashish e marijuana",
-      "summary": "L’indagine, svolta con presidi di natura tecnica e tradizionale, hanno permesso di ricostruire, a livello di gravità indiziaria, le dinamiche di approvvigionamento e smercio, avvenuto in maniera seriale",
-      "link": "https://www.lacnews24.it/cronaca/castrovillari-cinque-misure-cautelari-per-i-pusher-che-spacciavano-cocaina-hashish-e-marijuana-myafq34a",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sistema bibliotecario vibonese condannato, liquidazione sempre più vicina: 700mila euro di debiti e Comuni spariti",
-      "summary": "Stefano Mandarano",
-      "link": "https://www.lacnews24.it/attualita/sistema-bibliotecario-vibonese-condannato-liquidazione-sempre-piu-vicina-700mila-euro-di-debiti-e-sindaci-spariti-gd0zf2d3",
+      "title": "Quattrocento giornali contro l’IA. E i nostri dati, chi li protegge? La battaglia sul copyright è anche la nostra",
+      "summary": "La causa americana non riguarda solo gli editori. Riguarda chiunque abbia pubblicato contenuti online e non abbia alcun modo di sapere se siano stati usati per addestrare l'AI",
+      "link": "https://www.lacnews24.it/attualita/quattrocento-giornali-contro-lia-e-i-nostri-dati-chi-li-protegge-la-battaglia-sul-copyright-e-anche-la-nostra-htf07uor",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -263,33 +224,72 @@
       "is_high_priority": false
     },
     {
-      "title": "NOTTE D’INFERNOAttacco massiccio russo su Kiev, sale a 13 morti il bilancioLa rappresaglia di Mosca dopo i recenti attacchi ucraini",
-      "summary": "NOTTE D’INFERNO",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/attacco-massiccio-russo-su-kiev-sale-a-13-morti-il-bilancio/",
+      "title": "la decisioneVigilanza Rai, si dimettono i consiglieri di opposizioneLa presidente Florida: «Denunciare non è servito»",
+      "summary": "la decisione",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/vigilanza-rai-si-dimettono-i-consiglieri-di-opposizione/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "guerre"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "I soccorsiVenezuela: uomo estratto vivo 8 giorni dopo il sismaIl bilancio delle vittime è di 2.295 morti e oltre 11.000 feriti",
-      "summary": "I soccorsi",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/venezuela-uomo-estratto-vivo-8-giorni-dopo-il-sisma/",
+      "title": "il maxiprocesso‘Ndrangheta, dai Bonavita ai Melluso. Le «tre sponde» di Briatico colpite nella sentenza di MaestraleRiconosciuta la solidità del filone mafioso per i clan lungo la Costa degli Dei. Condanne pesanti per i presunti vertici",
+      "summary": "il maxiprocesso",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/ndrangheta-dai-bonavita-ai-melluso-le-tre-sponde-di-briatico-colpite-nella-sentenza-di-maestrale/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "mondo"
+        "generico"
       ],
       "is_high_priority": false
     },
     {
-      "title": "l’indagine etneaIl canale calabrese della cocaina per i “Carcagnusi” di Catania: il viaggio nell’Aspromonte e la scusa della visita dermatologicaLa rotta per rifornire le piazze di spaccio etnee. Nel mirino due reggini: secondo il gip la versione della visita medica «non regge»",
+      "title": "Giuli in visita a Reggio Calabria, il ministro rassicura sui Bronzi di Riace: «Stiamo lavorando ai basamenti»la cerimonia",
+      "summary": "la cerimonia",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/giuli-in-visita-a-reggio-calabria-il-ministro-rassicura-sui-bronzi-di-riace-stiamo-lavorando-ai-basamenti/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Arriva al Pronto soccorso di Catanzaro su ambulanza senza medico, muore 21enne. La Procura apre un’inchiestaavviate le indagini",
+      "summary": "avviate le indagini",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/arriva-al-pronto-soccorso-di-catanzaro-su-ambulanza-senza-medico-muore-21enne-la-procura-apre-uninchiesta/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "’Ndrangheta, dal 41bis ai domiciliari con braccialetto. Il “caso” Mazzeola decisione",
+      "summary": "la decisione",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/mazzeo-domiciliari-braccialetto-condanna-maestrale-41bis/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "scarcerazioni"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il canale calabrese della cocaina per i “Carcagnusi” di Catania: il viaggio nell’Aspromonte e la scusa della visita dermatological’indagine etnea",
       "summary": "l’indagine etnea",
       "link": "https://www.corrieredellacalabria.it/2026/07/02/canale-calabrese-cocaina-carcagnusi-catania-aspromonte-visita-dermatologica/",
       "published": "",
@@ -302,9 +302,9 @@
       "is_high_priority": false
     },
     {
-      "title": "La casa del boss, i voti e l’ex consigliere regionale: la corte d’Appello conferma le condanne in Reale 6voto di scambio politico mafioso",
-      "summary": "voto di scambio politico mafioso",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/la-casa-del-boss-i-voti-e-lex-consigliere-regionale-la-corte-dappello-conferma-le-condanne-in-reale-6/",
+      "title": "Gestione dei rifiuti, c’è anche una Calabria virtuosa: riconoscimento a Siderno – I COMUNI PREMIATIla mappa",
+      "summary": "la mappa",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/gestione-dei-rifiuti-ce-anche-una-calabria-virtuosa-riconoscimento-a-siderno-i-comuni-premiati/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -315,28 +315,15 @@
       "is_high_priority": false
     },
     {
-      "title": "’Ndrangheta, il caso Mileto-Paravati: cadono le accuse per i Galati, i Mesiano e “Zi Micu”MAESTRALE",
-      "summary": "MAESTRALE",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/ndrangheta-il-caso-mileto-paravati-cadono-le-accuse-per-i-galati-i-mesiano-e-zi-micu/",
+      "title": "Crepe nella maggioranza a Vibo, il M5S invoca un «cambio di passo». Romeo reagisce: «Così fate il gioco delle opposizioni»polemiche fra “alleati”",
+      "summary": "polemiche fra “alleati”",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/crepe-nella-maggioranza-a-vibo-il-m5s-invoca-un-cambio-di-passo-romeo-reagisce-cosi-fate-il-gioco-delle-opposizioni/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "’Ndrangheta, assolto (anche) l’ex dirigente dell’Asp Cesare Pasqua. Per la Dda e i pentiti era «vicino ai Mancuso»Il verdetto",
-      "summary": "Il verdetto",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/ndrangheta-maestrale-cesare-pasqua-assolto-asp-vibo/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -354,22 +341,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Spadaro nuovo presidente del Tribunale di Catanzaro all’insegna di ascolto e organizzazioneL’insediamento",
-      "summary": "L’insediamento",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/spadaro-nuovo-presidente-del-tribunale-di-catanzaro-allinsegna-di-ascolto-e-organizzazione/",
+      "title": "Investimenti inesistenti nel turismo sulla Costa degli Dei, sequestro da 8,5 milioni – VIDEOMEZZOGIORNO FANTASMA",
+      "summary": "MEZZOGIORNO FANTASMA",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/investimenti-inesistenti-nel-turismo-sulla-costa-degli-dei-sequestro-da-85-milioni-video/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "italia",
+      "section": "crime_italy",
       "priority": 0,
       "categories": [
-        "italia"
+        "crime_italy"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Lotta all’evasione fiscale a Crotone, protocollo tra Procura, Guardia di finanza e Agenzia delle entrateLA FIRMA",
-      "summary": "LA FIRMA",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/lotta-allevasione-fiscale-a-crotone-protocollo-tra-procura-guardia-di-finanza-e-agenzia-delle-entrate/",
+      "title": "’Ndrangheta, confiscati beni per un milione alla cosca Bagnato. Restituiti 90 terreni ai proprietariCapitastrum",
+      "summary": "Capitastrum",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/ndrangheta-confiscati-beni-per-un-milione-alla-cosca-bagnato-restituiti-90-terreni-ai-proprietari/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -393,9 +380,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Vibo Valentia, sanatoria per Imu, Tari, servizio idrico e CUP: ecco come aderireL’avviso",
-      "summary": "L’avviso",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/vibo-valentia-sanatoria-per-imu-tari-servizio-idrico-e-cup-ecco-come-aderire/",
+      "title": "Armi, minacce di morte e maltrattamenti in famiglia: tre denunce dei Carabinieri nel Vibonesei controlli dell’arma",
+      "summary": "i controlli dell’arma",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/armi-minacce-di-morte-e-maltrattamenti-in-famiglia-tre-denunce-dei-carabinieri-nel-vibonese/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Inquinamento e gestione illecita di rifiuti, sequestrato distributore di benzina nel Cosentinol’ambiente violato",
+      "summary": "l’ambiente violato",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/inquinamento-e-gestione-illecita-di-rifiuti-sequestrato-distributore-di-benzina-nel-cosentino/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
@@ -406,15 +406,15 @@
       "is_high_priority": false
     },
     {
-      "title": "’Ndrangheta sul litorale romano, la Cassazione riapre il caso “Tritone”La Suprema Corte",
-      "summary": "La Suprema Corte",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/ndrangheta-sul-litorale-romano-la-cassazione-riapre-il-caso-tritone/",
+      "title": "Strage di Amendolara, le proposte di Fai Cisl per contrasto al caporalato e legalità in agricolturadocumento in audizione",
+      "summary": "documento in audizione",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/strage-di-amendolara-le-proposte-di-fai-cisl-per-contrasto-al-caporalato-e-legalita-in-agricoltura/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "generico"
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -432,35 +432,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Le PMI del Sud guardano al futuro: all’Unical il primo Forum Confapila sfida della competitività",
-      "summary": "la sfida della competitività",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/le-pmi-del-sud-guardano-al-futuro-allunical-il-primo-forum-confapi/",
+      "title": "Lotta all’evasione fiscale a Crotone, protocollo tra Procura, Guardia di finanza e Agenzia delle entrateLA FIRMA",
+      "summary": "LA FIRMA",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/lotta-allevasione-fiscale-a-crotone-protocollo-tra-procura-guardia-di-finanza-e-agenzia-delle-entrate/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "italia",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "economia"
+        "generico"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Il giovane medico torna in Calabria: «Pensavo di aver chiuso con la mia terra, ora vedo miglioramenti» – VIDEO“Mattia Madeo, laureato all’Università di Parma, racconta la scelta di rientrare: «Ai colleghi calabresi dico di tornare per valorizzare questo territ…02 Luglio, 12:16",
-      "summary": "“Mattia Madeo, laureato all’Università di Parma, racconta la scelta di rientrare: «Ai colleghi calabresi dico di tornare per valorizzare questo territ…",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/il-giovane-medico-torna-in-calabria-pensavo-di-aver-chiuso-con-la-mia-terra-ora-vedo-miglioramenti-video/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Antognoni: «Liberali ha fatto bene a Catanzaro, bisogna investire sui giovani»“L’ex campione azzurro, oggi capodelegazione dell’Under 21, elogia il talento reduce dall’esperienza in giallorosso e ne sottolinea le qualità tecniche02 Luglio, 12:05",
-      "summary": "“L’ex campione azzurro, oggi capodelegazione dell’Under 21, elogia il talento reduce dall’esperienza in giallorosso e ne sottolinea le qualità tecniche",
-      "link": "https://www.corrieredellacalabria.it/2026/07/02/antognoni-liberali-ha-fatto-bene-a-catanzaro-bisogna-investire-sui-giovani/",
+      "title": "‘Ndrangheta, dai Bonavita ai Melluso. Le «tre sponde» di Briatico colpite nella sentenza di Maestrale“Riconosciuta la solidità del filone mafioso per i clan lungo la Costa degli Dei. Condanne pesanti per i presunti vertici02 Luglio, 19:36",
+      "summary": "“Riconosciuta la solidità del filone mafioso per i clan lungo la Costa degli Dei. Condanne pesanti per i presunti vertici",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/ndrangheta-dai-bonavita-ai-melluso-le-tre-sponde-di-briatico-colpite-nella-sentenza-di-maestrale/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
       "section": "ndrangheta",
@@ -471,51 +458,25 @@
       "is_high_priority": false
     },
     {
-      "title": "Sequestro da 8,5 milioni a Vibo per professionista indagato di indebita percezione erogazioni pubbliche",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lametino.it/cronaca/sequestro-da-8-5-milioni-a-vibo-per-professionista-indagato-di-indebita-percezione-erogazioni-pubbliche.html",
+      "title": "Tragedia nel Cosentino, treno travolge e uccide un uomo a Belvedere Marittimo“Non sono ancora note le cause e la dinamica dell’incidente. Sul posto 118, Polfer e Carabinieri02 Luglio, 19:15",
+      "summary": "“Non sono ancora note le cause e la dinamica dell’incidente. Sul posto 118, Polfer e Carabinieri",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/tragedia-nel-cosentino-treno-travolge-e-uccide-un-uomo-a-belvedere-marittimo/",
       "published": "",
-      "source": "lametino.it",
-      "section": "crime_italy",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "crime_italy"
+        "generico"
       ],
       "is_high_priority": false
     },
     {
-      "title": "In Venezuela dopo il terremoto arrivano gli sciacalli: militari pizzicati a “ripulire” alcune case – Video",
-      "summary": "Dopo la rabbia, arriva la resa. Una settimana dopo il terremoto in Venezuela che ha distrutto la zona costiera a nord di Caracas, la popolazione colpita ha perso quasi tutte le speranze di ritrovare i propri cari. Migliaia di famiglie hanno perso tutto, comprese le loro case. I ruderi, quello che è ",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/venezuela-sciacalli-militari-ripuliscono-case-video/8437012/",
-      "published": "Thu, 02 Jul 2026 10:17:00 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "Sottosegretari, il centrosinistra esulta: «Per la modifica dello Statuto regionale è necessario indire il referendum»“La minoranza annuncia l’accoglimento del ricorso da parte dell’Ufficio centrale regionale per il Referendum, istituito presso la Corte d’Appello di C…02 Luglio, 18:35",
+      "summary": "“La minoranza annuncia l’accoglimento del ricorso da parte dell’Ufficio centrale regionale per il Referendum, istituito presso la Corte d’Appello di C…",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/sottosegretari-il-centrosinistra-esulta-per-la-modifica-dello-statuto-regionale-e-necessario-indire-il-referendum/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
       "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Era molto emozionato”: noleggia una Porsche per il matrimonio, ma si schianta contro il palo davanti alla chiesa. L’ingresso dello sposo diventa virale",
-      "summary": "Voleva un ingresso da protagonista, ma si è ritrovato al centro dei riflettori suo malgrado per uno scatto destinato a fare il giro del web. In Francia, un futuro sposo aveva scelto una Porsche a noleggio per arrivare in chiesa il giorno delle nozze, convinto che nulla potesse rendere quel momento p",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/era-molto-emozionato-noleggia-una-porsche-per-il-matrimonio-ma-si-schianta-contro-il-palo-davanti-alla-chiesa-lingresso-dello-sposo-diventa-virale/8437039/",
-      "published": "Thu, 02 Jul 2026 10:14:48 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Stop al cemento a Tavolara, dopo le proteste dei cittadini il governo revoca l’autorizzazione al glamping di lusso",
-      "summary": "Le proteste dei cittadini ottengono un importante risultato. Stop alla zona economica speciale a Cala Finanza: il progetto di installazione di un glamping di lusso da parte della società Tavolara Bay sul promontorio della località costiera nel nord est dell’isola, a Loiri Porto San Paolo, non ha più",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/stop-al-cemento-a-tavolara-dopo-le-proteste-dei-cittadini-il-governo-revoca-lautorizzazione-al-glamping-di-lusso/8436990/",
-      "published": "Thu, 02 Jul 2026 09:45:49 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
       "priority": 0,
       "categories": [
         "politica"
@@ -523,10 +484,49 @@
       "is_high_priority": false
     },
     {
-      "title": "Harvey Weinstein si sente male in carcere, ricoverato di nuovo per difficoltà respiratorie: “Rimarrà in ospedale almeno per le prossime settimane”.",
-      "summary": "Harvey Weinstein è stato nuovamente ricoverato in ospedale. Secondo il sito TMZ, l’ex gran mogul hollywoodiano è stato trasportato al reparto carcerario dell&#8217;ospedale Bellevue di Manhattan dopo aver avuto difficoltà respiratorie. Il sito riferisce che Weinstein ha avuto un&#8217;insufficienza ",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/harvey-weinstein-si-sente-male-in-carcere-ricoverato-di-nuovo-per-difficolta-respiratorie-rimarra-in-ospedale-almeno-per-le-prossime-settimane/8436937/",
-      "published": "Thu, 02 Jul 2026 09:09:46 +0000",
+      "title": "UltimoraIn arrivo maltempo sulla Calabria, prevista allerta gialla con forti temporali",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lametino.it/ultimora/in-arrivo-maltempo-sulla-calabria-prevista-allerta-gialla-con-forti-temporali.html",
+      "published": "",
+      "source": "lametino.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“È una donna ucraina l’attentatore che ha lasciato un pacco bomba davanti a casa dell’oligarca Ermolaev a Monaco”",
+      "summary": "È una donna la persona alla quale la polizia del Principato di Monaco, coadiuvata dai gendarmi francesi, sta dando la caccia da tre giorni per l&#8217;attentato nell’abitazione dell’oligarca ucraino Vadim Ermolaev. Fonti inquirenti &#8220;concordanti&#8221; citate da Le Figaro hanno fatto sapere che",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/e-una-donna-ucraina-lattentatore-che-ha-lasciato-un-pacco-bomba-a-casa-delloligarca-ermolaev-a-monaco/8437710/",
+      "published": "Thu, 02 Jul 2026 18:15:27 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Viva Rai3”: il video comunicato dei sindacati di viale Mazzini che “l’azienda non ha voluto mandare in onda”",
+      "summary": "Il premio Nobel Giorgio Parisi, la presidente dell&#8217;associazione dei familiari delle vittime di Ustica Daria Bonfietti, le lavoratrici di Electrolux, il magistrato Gherardo Colombo, i genitori di Giulio Regeni. Sono alcuni dei testimonial di un video-comunicato che i cdr della Rai avrebbero vol",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/viva-rai3-video-comunicato-sindacati-azienda-non-ha-voluto-mandare-in-onda/8437678/",
+      "published": "Thu, 02 Jul 2026 17:50:00 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Giappone in lutto per lo stop alle vendite di un cane robot. E spopolano gli “animali AI” che somigliano a gatti o pinguini",
+      "summary": "“Da quando ho letto l&#8217;annuncio sono completamente frastornato. Finché non ci saranno ulteriori informazioni, devo stare attento a non mandare all&#8217;aria la mia vita quotidiana rimuginando troppo”, scrive su X l’utente Yachi. Sui vari social fioccano simili commenti, un misto di tristezza e",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/giappone-in-lutto-per-lo-stop-alle-vendite-di-un-cane-robot-e-spopolano-gli-animali-ai-che-somigliano-a-gatti-o-pinguini/8437679/",
+      "published": "Thu, 02 Jul 2026 17:41:54 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -536,10 +536,10 @@
       "is_high_priority": false
     },
     {
-      "title": "“Questi 22 anni per me sono stati una bellissima passeggiata. Abbraccio tutti e tutte”: il saluto commosso di Federica Sciarelli che lascia Chi l’ha Visto?",
-      "summary": "A pensarci ora, pare impossibile immaginare Chi l&#8217;ha Visto? senza di lei. Eppure Federica Sciarelli non tornerà al timone della trasmissione di RaiTre e la prossima stagione ci sarà un nuovo volto. Dopo il &#8216;no&#8217; del dirigente Stefano Coletta che pareva il candidato più papabile per ",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/questi-22-anni-per-me-sono-stati-una-bellissima-passeggiata-abbraccio-tutti-e-tutte-il-saluto-commosso-di-federica-sciarelli-che-lascia-chi-lha-visto/8436930/",
-      "published": "Thu, 02 Jul 2026 09:08:15 +0000",
+      "title": "Morta Sara Mangieri, il ricordo di Di Maio sui social: “Lascia un segno profondo”. La stampa parlamentare: “Rara competenza”",
+      "summary": "&#8220;Aveva una qualità rara: una gentilezza autentica e unica, che non ha mai smarrito nemmeno nei momenti più duri o sotto la pressione più intensa. E insieme a questa, la capacità di far sentire chiunque intorno a lei più forte, più sereno, più capace di guardare avanti&#8221;. E&#8217; il ricor",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/morta-sara-mangieri-il-ricordo-di-di-maio-sui-social-lascia-un-segno-profondo-la-stampa-parlamentare-rara-competenza/8437644/",
+      "published": "Thu, 02 Jul 2026 17:03:26 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -549,36 +549,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Elisa Claps, l’annuncio a sorpresa del fratello Gildo nell’ultima puntata di Chi l’ha Visto: “La Procura ha riaperto le indagini, cerca i complici di Danilo Restivo”",
-      "summary": "Novità clamorosa nel caso Claps: “Da due anni la Procura di Potenza ha riaperto le indagini sul ritrovamento del corpo di Elisa, e sulle complicità di cui evidentemente ha goduto Danilo Restivo”: ad annunciarlo è stato il fratello Gildo Claps, ieri, nel corso della puntata che chiude questa stagione",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/elisa-claps-lannuncio-a-sorpresa-del-fratello-gildo-nellultima-puntata-di-chi-lha-visto-la-procura-ha-riaperto-le-indagini-cerca-i-complici-di-danilo-restivo/8436939/",
-      "published": "Thu, 02 Jul 2026 08:50:14 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Corte di Giustizia Ue boccia il ricorso di Google: confermata multa record da 4,1 miliardi per violazione della concorrenza su dispositivi Android",
-      "summary": "La Corte di Giustizia dell’Ue respinge il ricorso di Google e della sua società madre Alphabet, contro una sentenza del Tribunale Ue, confermando la sanzione da 4,1 miliardi di euro inflittale dalla Commissione Europea per abuso della posizione dominante del motore di ricerca Google Search nell’ambi",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/google-multa-europa-android-concorrenza/8436864/",
-      "published": "Thu, 02 Jul 2026 08:43:21 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Robbie Williams sorprende a Siviglia: canta “Angels” con un artista di strada, turisti impazziti – IL VIDEO",
-      "summary": "Il 30 giugno scorso Robbie Williams ha tenuto un concerto all&#8217;Iconica Santalucia Sevilla Fest di Siviglia. Durante un momento di pausa il cantautore ha fatto visita al centro storico, passeggiando per le vie della città. Il cantautore, incuriosito da un artista di strada, si è avvicinato e si ",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/robbie-williams-sorprende-a-siviglia-canta-angels-con-un-artista-di-strada-turisti-impazziti-il-video/8436885/",
-      "published": "Thu, 02 Jul 2026 08:30:20 +0000",
+      "title": "“Risultava in servizio ma lavorava per una società dilettantistica con stabilimento balneare”. Poliziotto condannato a tre anni e due mesi",
+      "summary": "La giudice Elisa Centore ha condannato a tre anni e due mesi di reclusione un poliziotto genovese di 53 anni, M.D., con l&#8217;accusa di false attestazioni da parte di un dipendente pubblico e truffa aggravata ai danni dello Stato. Secondo l’accusa della pm Eugenia Menichetti, tra agosto 2021 e lug",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/genova-poliziotto-condannato-a-tre-anni-e-due-mesi-era-in-servizio-ma-non-andava-a-lavoro/8437622/",
+      "published": "Thu, 02 Jul 2026 16:50:51 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -588,10 +562,23 @@
       "is_high_priority": false
     },
     {
-      "title": "“Ho provato tanto dolore e non so perché per tanto tempo. Essere un artista oggi è strano perché tutto si muove velocemente. Mi fermerò per capirmi”: Yungblud scoppia in lacrime davanti a 20mila fan",
-      "summary": "Ironico, divertente, sexy, a tutto rock e punk ma con testi profondi. Sono solo alcuni dei motivi del successo dell&#8217;artista britannico Yungblud, il cui vero nome è Dominic Harrison. La sua immagine dunque ha sempre mostrato un ragazzo di 28 anni sicuro di sé. Eppure l&#8217;artista ha postato ",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/ho-provato-tanto-dolore-e-non-so-perche-per-tanto-tempo-essere-un-artista-oggi-e-strano-perche-tutto-si-muove-velocemente-yungblud-scoppia-in-lacrime/8436829/",
-      "published": "Thu, 02 Jul 2026 07:25:13 +0000",
+      "title": "Inchiesta escort, ascoltati in caserma Daniel Maldini e Kevin Bonifazi. Bastoni si avvale della facoltà di non rispondere",
+      "summary": "In una caserma della guardia di finanza Daniel Maldini e Kevin Bonifazi sono stati ascoltati come testimoni dalla pm Rosaria Stagnaro e dalla procuratrice aggiunta Bruna Alberini. Sono cominciate oggi le audizioni di alcuni calciatori convocati come teste nell’ambito dell’inchiesta della Procura mil",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/inchiesta-escort-ascoltati-in-caserma-daniel-maldini-kevin-bonifazi-bastoni-si-avvale-facolta-di-non-rispondere/8437611/",
+      "published": "Thu, 02 Jul 2026 16:48:43 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mercato delle due ruote: il primo semestre chiude con un +13,2%. Gli scooter trainano la crescita",
+      "summary": "La crescita del mercato delle due ruote a motore non si arresta: secondo i dati di Confindustria Ancma, l’Associazione nazionale ciclo motociclo e accessori, si registra un +14,28% nel mese di giugno, per un totale di 50.512 veicoli, e un +13,29% (pari a 228.181 unità) nel primo semestre del 2026. G",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/mercato-delle-due-ruote-il-primo-semestre-chiude-con-un-132-gli-scooter-trainano-la-crescita/8437558/",
+      "published": "Thu, 02 Jul 2026 16:35:05 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -601,15 +588,158 @@
       "is_high_priority": false
     },
     {
-      "title": "Lefevbriani, il pugno duro di Leone XIV: scomunicati i vescovi e chi “aderisce formalmente” alla fraternità",
-      "summary": "Quello che doveva essere è stato. La Santa Sede scomunica i vescovi della Fraternità Sacerdotale di san Pio X, i lefevbriani, dopo le consacrazioni espiscopali del 1° luglio. Il Decreto di scomunica arriva con la firma del Prefetto del Dicastero per la Dottrina della Fede, il cardinale Víctor Manuel",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/02/lefebvriani-vaticano-scomunica-papa-vescovi/8436825/",
-      "published": "Thu, 02 Jul 2026 07:21:54 +0000",
+      "title": "Covid, l’accordo con la JC Electronics. M5s: “Soldi degli italiani agli amici di Meloni, presenteremo esposto”. Fdi: “Risparmiati 130 milioni”",
+      "summary": "Il Movimento 5 stelle e il Pd attaccano il governo dopo l&#8217;annuncio del ministro della Salute Orazio Schillaci, durante il question time, dell&#8217;accordo sottoscritto a ottobre tra l&#8217;esecutivo e la società JC Electronics Italia S.r.l. dell&#8217;imprenditore Dario Bianchi: una transazi",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/covid-accordo-jc-electronics-m5s-amici-meloni-esposto-fdi-news/8437533/",
+      "published": "Thu, 02 Jul 2026 16:26:45 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La Nasa cerca “marziani” e “lunari” per un anno di isolamento in vista delle missioni",
+      "summary": "Se avete sempre sognato di partire per Marte, ci sono una buona notizia e una cattiva. La buona è che la Nasa sta cercando volontari. La cattiva è che, per ora, non si parte davvero: la destinazione è Houston, in Texas, dove sarà simulata una missione di un anno verso la Luna e il Pianeta [&#8230;]\n",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/la-nasa-cerca-marziani-e-lunari-per-un-anno-di-isolamento-in-vista-delle-missioni/8437603/",
+      "published": "Thu, 02 Jul 2026 16:25:37 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Quale nome per il campo progressista? Il Pd in silenzio sulla proposta di Conte (che evoca un po’ il referendum)",
+      "summary": "“No no, per carità, quale Massimliano? Io avevo pensato Ugo”. A sentire i commenti sul nuovo nome dei progressisti lanciato da Giuseppe Conte (“Alleanza per la Costituzione e per la Democrazia” ) viene in mente l’ultima scena di Ricomincio da Tre. Con Massimo Troisi pronto a scongiurare l’ipotesi ch",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/quale-nome-per-il-campo-progressista-il-pd-in-silenzio-sulla-proposta-di-conte-che-evoca-un-po-il-referendum/8437534/",
+      "published": "Thu, 02 Jul 2026 16:20:46 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Alluvioni in Romagna, chiuse le indagini su 14 persone: “Non impedirono le esondazioni”",
+      "summary": "Quattordici tra dirigenti e funzionari di enti pubblici e aziende private sono sotto inchiesta per i danni provocati dalle alluvioni che colpirono la Romagna tra il maggio 2023 e il settembre 2024. I pubblici ministeri della procura di Ravenna, Daniele Barberini e Francesco Coco, hanno notificato a ",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/alluvioni-romagna-chiuse-indagini-14-persone-inchiesta-esondazioni/8437490/",
+      "published": "Thu, 02 Jul 2026 16:02:16 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Pupo dopo l’orale della maturità si esibisce al piano con “Un amore grande” e fa una dedica speciale",
+      "summary": "Si è chiusa con il colloquio orale la prova di maturità di Enzo Ghinazzi, in arte Pupo, che nella giornata di mercoledì è tornato all’istituto Minerva di Roma per completare il percorso d’esame. Il 71enne, secondo quanto riportato da LaPresse, ha affrontato una prova durata circa un’ora, al termine ",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/pupo-dopo-lorale-della-maturita-si-esibisce-al-piano-con-un-amore-grande-e-fa-una-dedica-speciale/8437066/",
+      "published": "Thu, 02 Jul 2026 15:36:16 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Maria Elena Delia presenta il libro Global Sumud Flotilla: la conferenza stampa alla Camera – Diretta",
+      "summary": "Maria Elena Delia, esponente italiana del movimento della Flotilla, presenta il libro Global Sumud Flotilla: la conferenza stampa alla Camera voluta dalla deputata M5s Stefania Ascari.\nL'articolo Maria Elena Delia presenta il libro Global Sumud Flotilla: la conferenza stampa alla Camera &#8211; Dire",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/maria-elena-delia-presenta-il-libro-global-sumud-flotilla-la-conferenza-stampa-alla-camera-diretta/8437553/",
+      "published": "Thu, 02 Jul 2026 15:35:50 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Inchiesta Romeo, chiesto il processo per 37 imputati: dalla “Triade” Benko-Hager-Signoretti al presunto sistema di affari con la politica",
+      "summary": "Si è conclusa a Trento l&#8217;indagine denominata Romeo, che nel dicembre 2024 aveva sconvolto il mondo economico e politico del Trentino-Alto Adige. I pubblici ministeri Federica Iovene e Alessandro Clemente hanno depositato una richiesta di rinvio a giudizio per 37 persone, che saranno chiamate a",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/inchiesta-romeo-chiesto-il-processo-per-37-imputati-dalla-triade-benko-hager-signoretti-al-presunto-sistema-di-affari-con-la-politica/8437536/",
+      "published": "Thu, 02 Jul 2026 15:35:46 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Nel sesso l’uomo deve vincere un po’ di resistenza”: l’Italia condannata alla Cedu per il “sessismo stereotipato” della pm",
+      "summary": "Per gli uomini può essere &#8220;considerato anche comune dover vincere quel minimo di resistenza che ogni donna, nella stanchezza delle incombenze quotidiane, tende a esercitare quando un marito tenta un approccio sessuale&#8220;. Nel 2021 aveva sollevato scandalo la motivazione &#8211; rivelata da",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/condanna-italia-cedu-pm-sessismo-strasburgo-news/8437087/",
+      "published": "Thu, 02 Jul 2026 14:48:47 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Non era lui a guidare lo scooter”, la famiglia di Massimo Ciarelli contesta la ricostruzione dell’incidente",
+      "summary": "Chiedono chiarezza e accertamenti. Attraverso la loro legale, la famiglia di Massimo Ciarelli &#8211; l&#8217;uomo morto dopo non essersi fermato all&#8217;alt dei carabinieri &#8211; contesta la ricostruzione dell’incidente avvenuto ieri sera tra Città Sant’Angelo e Silvi, al termine di un inseguim",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/02/non-era-lui-a-guidare-lo-scooter-la-famiglia-di-massimo-ciarelli-contesta-la-ricostruzione-dellincidente/8437417/",
+      "published": "Thu, 02 Jul 2026 14:22:27 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Meloni: «Detassazione rinnovi contrattuali sarà confermata nella prossima manovra»",
+      "summary": "«Ne ho già parlato con il ministro Calderone e con chi detiene i cordoni della borsa, cioè il ministro Giorgetti: il Governo raccoglie l’istanza della Uil, e delle parti sociali,...",
+      "link": "https://www.ilsole24ore.com/art/meloni-congresso-uil-salario-giusto-vittoria-lavoratori-e-nazione-AI65c9yD",
+      "published": "Thu, 2 Jul 2026 16:09:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Censis: boom delle fragilità ma per gli over 65 italiani si diventa anziani a 76,7 anni",
+      "summary": "Il 36,6% degli italiani con 65 anni e oltre dichiara di avere bisogno di qualche aiuto nel quotidiano: in vent’anni la percentuale è raddoppiata. In caso di necessita c’è la famiglia: il 52,7% conta sui figli, il 49,6% su coniugi e conviventi, il 16,0% sui parenti. Solo l’1,9% su infermieri o assist",
+      "link": "https://www.ilsole24ore.com/art/censis-boom-fragilita-ma-gli-over-65-italiani-si-diventa-anziani-767-anni-AIQsBhxD",
+      "published": "Thu, 2 Jul 2026 15:30:17 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Guerra aperta in Vigilanza Rai: si dimettono tutti i consiglieri. Scambio di accuse tra maggioranza e opposizione",
+      "summary": "È guerra aperta in Vigilanza Rai. Dopo le dimissioni dei consiglieri di opposizione, hanno scelto di andarsene anche i componenti del centrodestra. «Anche noi, come le opposizioni, ci dimettiamo dalla...",
+      "link": "https://www.ilsole24ore.com/art/vigilanza-rai-dimissioni-massa-i-consiglieri-opposizione-AIXkBwyD",
+      "published": "Thu, 2 Jul 2026 12:22:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre"
       ],
       "is_high_priority": false
     },
@@ -617,7 +747,7 @@
       "title": "Siccità, il Veneto dichiara lo stato di emergenza regionale",
       "summary": "Il presidente del Veneto, Alberto Stefani, ha firmato un’ordinanza con la quale viene dichiarato lo stato di emergenza regionale su tutto il territorio, a seguito delle anomale condizioni idrologiche e...",
       "link": "https://www.ilsole24ore.com/art/siccita-veneto-dichiara-stato-emergenza-regionale-AI53zmyD",
-      "published": "Thu, 2 Jul 2026 09:53:57 GMT",
+      "published": "Thu, 2 Jul 2026 09:53:00 GMT",
       "source": "ilsole24ore.com",
       "section": "italia",
       "priority": 0,
@@ -630,7 +760,7 @@
       "title": "Se il vino italiano è in difficoltà, l’Alta Langa va a ruba: sottratte 3mila bottiglie a Banfi",
       "summary": "II consumi di vino saranno in inesorabile calo ma il vino e soprattutto lo spumante di qualità continua a mantenere un forte appeal al punto da finire anche nelle mire...",
       "link": "https://www.ilsole24ore.com/art/se-vino-italiano-e-difficolta-l-alta-langa-va-ruba-sottratte-3mila-bottiglie-banfi-AI2YggyD",
-      "published": "Thu, 2 Jul 2026 08:34:58 GMT",
+      "published": "Thu, 2 Jul 2026 08:34:00 GMT",
       "source": "ilsole24ore.com",
       "section": "italia",
       "priority": 0,
@@ -640,37 +770,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Independence day, la politica a Villa Taverna: incognita Meloni dopo lo strappo con Trump",
-      "summary": "È il giorno del ricevimento per l’Independence Day, offerto dall’ambasciatore Tilman J.Fertitta a Roma a Villa Taverna. Un appuntamento che quest’anno, complice il recente scontro tra Giorgia Meloni e Donald...",
-      "link": "https://www.ilsole24ore.com/art/independence-day-politica-villa-taverna-incognita-meloni-lo-strappo-trump-AI6EafyD",
-      "published": "Thu, 2 Jul 2026 07:47:01 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Cnel ed Enea in campo per sostenere le comunità energetiche rinnovabili",
-      "summary": "Cnel (Consiglio nazionale dell’economia e del lavoro) ed Enea (Agenzia nazionale per le nuove tecnologie, l’energia e lo sviluppo economico sostenibile) in campo con un accordo per promuovere le Comunità...",
-      "link": "https://www.ilsole24ore.com/art/cnel-ed-enea-campo-sostenere-comunita-energetiche-rinnovabili-AIBWf0xD",
-      "published": "Thu, 2 Jul 2026 06:09:12 GMT",
-      "source": "ilsole24ore.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "economia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Lefebvriani, il Vaticano decreta la scomunica: cos’è e come funziona",
-      "summary": "Saranno scomunicati anche tutti coloro che aderiranno a questo atto scismatico, ovvero dalla volontà di separarsi dalla Chiesa cattolica, ignorando la volontà e le parole del Papa. Tutti, dai sacerdoti ai laici",
-      "link": "https://www.ilsole24ore.com/art/lefebvriani-ora-scatta-scomunica-cos-e-e-come-funziona-AIcH78xD",
-      "published": "Thu, 2 Jul 2026 05:38:00 GMT",
-      "source": "ilsole24ore.com",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.\n",
+      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 16:11:24 GMT",
+      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -679,42 +783,41 @@
       "is_high_priority": false
     },
     {
-      "title": "OpenAI discute possibile vendita quota del 5% al governo Trump",
-      "summary": "Lo riporta il Financial Times",
-      "link": "https://www.ilsole24ore.com/art/openai-discute-possibile-vendita-quota-5percento-governo-trump-AIAzEcyD",
-      "published": "Thu, 2 Jul 2026 05:35:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Spese Nato, Usa in pressing. Meloni: Roma rispetta i patti",
-      "summary": "L’ambasciatore Whitaker striglia gli alleati in ritardo. Vertice a Palazzo Chigi tra premier e ministri in vista del summit di Ankara: impegni saliti al 2,8% del Pil, quasi il doppio del 2024",
-      "link": "https://www.ilsole24ore.com/art/spese-nato-usa-pressing-meloni-roma-rispetta-patti-AIlY4IyD",
-      "published": "Thu, 2 Jul 2026 05:24:35 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "At least 13 killed in 'most massive' Russian attack on Kyiv",
-      "summary": "Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 22",
+      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
       "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 09:15:16 GMT",
+      "published": "Thu, 02 Jul 2026 17:49:48 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
+      "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 09:21:31 GMT",
+      "source": "bbc.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+      "summary": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
+      "link": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 13:11:16 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -732,10 +835,23 @@
       "is_high_priority": false
     },
     {
-      "title": "The US deported them to Venezuela - hours later earthquakes struck",
-      "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 01:56:17 GMT",
+      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
+      "link": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 03:07:39 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ryanair warns of 'queue chaos' from new EU border system",
+      "summary": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
+      "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 17:17:36 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -771,36 +887,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-      "summary": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
-      "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 16:10:38 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-      "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 15:48:02 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Two-year-old rescued and taken to hospital six days after Venezuela quake",
-      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 06:03:08 GMT",
+      "title": "The US deported them to Venezuela - hours later earthquakes struck",
+      "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 14:43:31 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -810,54 +900,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.  ",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 16:04:32 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
-      "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 17:22:25 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-      "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 22:29:47 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
-      "summary": "At least 1,700 people are known to have been killed in the disaster but hope remains that others can continue to be found alive.",
-      "link": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 20:22:13 GMT",
+      "title": "Cheers and applause as security guard rescued from rubble",
+      "summary": "Emergency workers managed to free Hernán Gil more than 100 hours after they had first located him under 140 tonnes of rubble.",
+      "link": "https://www.bbc.co.uk/news/videos/c0lye4xr651o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 14:09:49 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+      "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.\n",
+      "link": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 12:37:02 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "ucraina-russia"
       ],
       "is_high_priority": false
     }
